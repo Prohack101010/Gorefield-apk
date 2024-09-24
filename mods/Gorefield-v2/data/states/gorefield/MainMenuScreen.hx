@@ -195,7 +195,7 @@ function create() {
 	progInfoText.screenCenter(FlxAxes.X);
 	insert(99999,progInfoText);
 #if mobile
-addVirtualPad('UP_DOWN', 'A_B_X_Y');
+addVirtualPad('UP_DOWN', 'A_B');
 addVirtualPadCamera(false);
 #end
 }
