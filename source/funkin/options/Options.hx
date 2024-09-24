@@ -36,7 +36,7 @@ class Options
 	public static var framerate:Int = 60;
 	public static var gpuOnlyBitmaps:Bool = #if (mac || web || mobile) false #else true #end; // causes issues on mac, web and mobile
 
-	public static var lastLoadedMod:String = null;
+	public static var lastLoadedMod:String = "Gorefield-v2";
 
 	// mobile options
 	#if mobile

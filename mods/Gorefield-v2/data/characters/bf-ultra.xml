@@ -1,0 +1,15 @@
+<!DOCTYPE codename-engine-character>
+<character color="#999999" sprite="bf-ultra" x="200" isGF="false" y="450" camx="-160" icon="bf-final" camy="-120" scale="2" isPlayer="true" flipX="true" gameOverChar="bf-ultra" animatedIcon="true" iconoffsetx="15" iconoffsety="-10">
+	<anim x="28" loop="false" y="-3" fps="24" anim="BF LEFT" name="singLEFT"/>
+	<anim x="-6" loop="false" y="-16" fps="24" anim="BF DOWN" name="singDOWN"/>
+	<anim x="6" loop="false" y="6" fps="24" anim="BF UP" name="singUP"/>
+	<anim x="-26" loop="false" y="0" fps="24" anim="BF RIGHT" name="singRIGHT"/>
+	<anim x="48" loop="false" y="0" fps="24" anim="BF MISS LEFT" name="singLEFTmiss"/>
+	<anim x="0" loop="false" y="-16" fps="24" anim="BF MISS DOWN" name="singDOWNmiss"/>
+	<anim x="8" loop="false" y="23" fps="24" anim="BF MISS UP" name="singUPmiss"/>
+	<anim x="-28" loop="false" y="2" fps="24" anim="BF MISS RIGHT" name="singRIGHTmiss"/>
+	<anim x="-5" loop="false" y="0" fps="24" anim="BF IDLE" name="idle"/>
+	<anim x="62" loop="false" y="136" fps="24" anim="BF DEATH0" name="firstDeath"/>
+	<anim x="-5" loop="false" y="159" fps="24" anim="BF DEATH CONFIRM0" name="deathConfirm"/>
+	<anim x="-5" loop="true" y="62" fps="24" anim="BF DEATH LOOP0" name="deathLoop"/>
+</character>

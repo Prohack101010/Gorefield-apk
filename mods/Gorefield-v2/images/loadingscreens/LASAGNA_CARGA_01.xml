@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="LASAGNA_CARGA_01.png">
+<SubTexture name="LASAGNA CARGA 0000" x="0" y="0" width="795" height="1040" frameX="0" frameY="0" frameWidth="795" frameHeight="1041" />
+</TextureAtlas>

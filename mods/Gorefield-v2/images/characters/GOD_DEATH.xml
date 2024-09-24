@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="GOD_DEATH.png">
+	
+	
+	<SubTexture name="GOD DEATH0000" x="2" y="2" width="107" height="100" frameX="-164" frameY="-176" frameWidth="478" frameHeight="592" />
+	<SubTexture name="GOD DEATH0001" x="112" y="2" width="142" height="153" frameX="-150" frameY="-141" frameWidth="478" frameHeight="592" />
+	<SubTexture name="GOD DEATH0002" x="257" y="2" width="150" height="147" frameX="-135" frameY="-146" frameWidth="478" frameHeight="592" />
+	<SubTexture name="GOD DEATH0003" x="410" y="2" width="136" height="143" frameX="-151" frameY="-145" frameWidth="478" frameHeight="592" />
+	<SubTexture name="GOD DEATH0004" x="549" y="2" width="135" height="143" frameX="-155" frameY="-144" frameWidth="478" frameHeight="592" />
+	<SubTexture name="GOD DEATH0005" x="687" y="2" width="124" height="122" frameX="-156" frameY="-160" frameWidth="478" frameHeight="592" />
+	<SubTexture name="GOD DEATH0006" x="813" y="2" width="123" height="125" frameX="-156" frameY="-159" frameWidth="478" frameHeight="592" />
+	<SubTexture name="GOD DEATH0007" x="939" y="2" width="131" height="136" frameX="-150" frameY="-160" frameWidth="478" frameHeight="592" />
+	<SubTexture name="GOD DEATH0008" x="2" y="2" width="107" height="100" frameX="-164" frameY="-176" frameWidth="478" frameHeight="592" />
+	<SubTexture name="GOD DEATH0009" x="112" y="2" width="142" height="153" frameX="-150" frameY="-141" frameWidth="478" frameHeight="592" />
+	<SubTexture name="GOD DEATH0010" x="257" y="2" width="150" height="147" frameX="-135" frameY="-146" frameWidth="478" frameHeight="592" />
+	<SubTexture name="GOD DEATH0011" x="410" y="2" width="136" height="143" frameX="-151" frameY="-145" frameWidth="478" frameHeight="592" />
+	<SubTexture name="GOD DEATH0012" x="549" y="2" width="135" height="143" frameX="-155" frameY="-144" frameWidth="478" frameHeight="592" />
+	<SubTexture name="GOD DEATH0013" x="687" y="2" width="124" height="122" frameX="-156" frameY="-160" frameWidth="478" frameHeight="592" />
+	<SubTexture name="GOD DEATH0014" x="813" y="2" width="123" height="125" frameX="-156" frameY="-159" frameWidth="478" frameHeight="592" />
+	<SubTexture name="GOD DEATH0015" x="939" y="2" width="131" height="136" frameX="-150" frameY="-160" frameWidth="478" frameHeight="592" />
+	<SubTexture name="GOD DEATH0016" x="2" y="2" width="107" height="100" frameX="-164" frameY="-176" frameWidth="478" frameHeight="592" />
+	<SubTexture name="GOD DEATH0017" x="1073" y="2" width="132" height="143" frameX="-156" frameY="-143" frameWidth="478" frameHeight="592" />
+	<SubTexture name="GOD DEATH0018" x="687" y="2" width="124" height="122" frameX="-155" frameY="-162" frameWidth="478" frameHeight="592" />
+	<SubTexture name="GOD DEATH0019" x="2" y="2" width="107" height="100" frameX="-164" frameY="-176" frameWidth="478" frameHeight="592" />
+	<SubTexture name="GOD DEATH0020" x="1073" y="2" width="132" height="143" frameX="-156" frameY="-143" frameWidth="478" frameHeight="592" />
+	<SubTexture name="GOD DEATH0021" x="687" y="2" width="124" height="122" frameX="-155" frameY="-162" frameWidth="478" frameHeight="592" />
+	<SubTexture name="GOD DEATH0022" x="2" y="2" width="107" height="100" frameX="-164" frameY="-176" frameWidth="478" frameHeight="592" />
+	<SubTexture name="GOD DEATH0023" x="1073" y="2" width="132" height="143" frameX="-156" frameY="-143" frameWidth="478" frameHeight="592" />
+	<SubTexture name="GOD DEATH0024" x="687" y="2" width="124" height="122" frameX="-155" frameY="-162" frameWidth="478" frameHeight="592" />
+	<SubTexture name="GOD DEATH0025" x="2" y="2" width="107" height="100" frameX="-164" frameY="-176" frameWidth="478" frameHeight="592" />
+	<SubTexture name="GOD DEATH0026" x="1073" y="2" width="132" height="143" frameX="-156" frameY="-143" frameWidth="478" frameHeight="592" />
+	<SubTexture name="GOD DEATH0027" x="687" y="2" width="124" height="122" frameX="-155" frameY="-162" frameWidth="478" frameHeight="592" />
+	<SubTexture name="GOD DEATH0028" x="2" y="2" width="107" height="100" frameX="-164" frameY="-176" frameWidth="478" frameHeight="592" />
+	<SubTexture name="GOD DEATH0029" x="1073" y="2" width="132" height="143" frameX="-156" frameY="-143" frameWidth="478" frameHeight="592" />
+	<SubTexture name="GOD DEATH0030" x="687" y="2" width="124" height="122" frameX="-155" frameY="-162" frameWidth="478" frameHeight="592" />
+	<SubTexture name="GOD DEATH0031" x="2" y="2" width="107" height="100" frameX="-164" frameY="-176" frameWidth="478" frameHeight="592" />
+	<SubTexture name="GOD DEATH0032" x="1073" y="2" width="132" height="143" frameX="-156" frameY="-143" frameWidth="478" frameHeight="592" />
+	<SubTexture name="GOD DEATH0033" x="687" y="2" width="124" height="122" frameX="-155" frameY="-162" frameWidth="478" frameHeight="592" />
+	<SubTexture name="GOD DEATH0034" x="2" y="2" width="107" height="100" frameX="-164" frameY="-176" frameWidth="478" frameHeight="592" />
+	<SubTexture name="GOD DEATH0035" x="1073" y="2" width="132" height="143" frameX="-156" frameY="-143" frameWidth="478" frameHeight="592" />
+	<SubTexture name="GOD DEATH0036" x="687" y="2" width="124" height="122" frameX="-155" frameY="-162" frameWidth="478" frameHeight="592" />
+	<SubTexture name="GOD DEATH0037" x="2" y="2" width="107" height="100" frameX="-164" frameY="-176" frameWidth="478" frameHeight="592" />
+	<SubTexture name="GOD DEATH0038" x="1073" y="2" width="132" height="143" frameX="-156" frameY="-143" frameWidth="478" frameHeight="592" />
+	<SubTexture name="GOD DEATH0039" x="1208" y="2" width="167" height="430" frameX="-148" frameY="-162" frameWidth="478" frameHeight="592" />
+	<SubTexture name="GOD DEATH0040" x="1377" y="2" width="164" height="328" frameX="-148" frameY="0" frameWidth="478" frameHeight="592" />
+	<SubTexture name="GOD DEATH0041" x="1544" y="2" width="164" height="329" frameX="-148" frameY="-13" frameWidth="478" frameHeight="592" />
+	<SubTexture name="GOD DEATH0042" x="1544" y="2" width="164" height="329" frameX="-148" frameY="-13" frameWidth="478" frameHeight="592" />
+	<SubTexture name="GOD DEATH0043" x="1711" y="2" width="164" height="329" frameX="-148" frameY="-20" frameWidth="478" frameHeight="592" />
+	<SubTexture name="GOD DEATH0044" x="1711" y="2" width="164" height="329" frameX="-148" frameY="-20" frameWidth="478" frameHeight="592" />
+	<SubTexture name="GOD DEATH0045" x="1878" y="2" width="164" height="329" frameX="-148" frameY="-18" frameWidth="478" frameHeight="592" />
+	<SubTexture name="GOD DEATH0046" x="1878" y="2" width="164" height="329" frameX="-148" frameY="-18" frameWidth="478" frameHeight="592" />
+	<SubTexture name="GOD DEATH0047" x="2" y="435" width="164" height="329" frameX="-148" frameY="-17" frameWidth="478" frameHeight="592" />
+	<SubTexture name="GOD DEATH0048" x="2" y="435" width="164" height="329" frameX="-148" frameY="-17" frameWidth="478" frameHeight="592" />
+	<SubTexture name="GOD DEATH0049" x="169" y="435" width="164" height="329" frameX="-148" frameY="-17" frameWidth="478" frameHeight="592" />
+	<SubTexture name="GOD DEATH0050" x="169" y="435" width="164" height="329" frameX="-148" frameY="-17" frameWidth="478" frameHeight="592" />
+	<SubTexture name="GOD DEATH0051" x="336" y="435" width="478" height="329" frameX="0" frameY="-17" frameWidth="478" frameHeight="592" />
+	<SubTexture name="GOD DEATH0052" x="336" y="435" width="478" height="329" frameX="0" frameY="-17" frameWidth="478" frameHeight="592" />
+	<SubTexture name="GOD DEATH0053" x="817" y="435" width="164" height="329" frameX="-148" frameY="-17" frameWidth="478" frameHeight="592" />
+	<SubTexture name="GOD DEATH0054" x="817" y="435" width="164" height="329" frameX="-148" frameY="-17" frameWidth="478" frameHeight="592" />
+	<SubTexture name="GOD DEATH0055" x="984" y="435" width="478" height="329" frameX="0" frameY="-17" frameWidth="478" frameHeight="592" />
+	<SubTexture name="GOD DEATH0056" x="984" y="435" width="478" height="329" frameX="0" frameY="-17" frameWidth="478" frameHeight="592" />
+	<SubTexture name="GOD DEATH0057" x="817" y="435" width="164" height="329" frameX="-148" frameY="-17" frameWidth="478" frameHeight="592" />
+	<SubTexture name="GOD DEATH0058" x="984" y="435" width="478" height="329" frameX="0" frameY="-17" frameWidth="478" frameHeight="592" />
+	<SubTexture name="GOD DEATH0059" x="817" y="435" width="164" height="329" frameX="-148" frameY="-17" frameWidth="478" frameHeight="592" />
+	<SubTexture name="GOD DEATH0060" x="984" y="435" width="478" height="329" frameX="0" frameY="-17" frameWidth="478" frameHeight="592" />
+	<SubTexture name="GOD DEATH0061" x="817" y="435" width="164" height="329" frameX="-148" frameY="-17" frameWidth="478" frameHeight="592" />
+	<SubTexture name="GOD DEATH0062" x="984" y="435" width="478" height="329" frameX="0" frameY="-17" frameWidth="478" frameHeight="592" />
+	<SubTexture name="GOD DEATH0063" x="984" y="435" width="478" height="329" frameX="0" frameY="-17" frameWidth="478" frameHeight="592" />
+	<SubTexture name="GOD DEATH0064" x="984" y="435" width="478" height="329" frameX="0" frameY="-17" frameWidth="478" frameHeight="592" />
+	<SubTexture name="GOD DEATH0065" x="984" y="435" width="478" height="329" frameX="0" frameY="-17" frameWidth="478" frameHeight="592" />
+	<SubTexture name="GOD DEATH0066" x="984" y="435" width="478" height="329" frameX="0" frameY="-17" frameWidth="478" frameHeight="592" />
+	<SubTexture name="GOD DEATH0067" x="984" y="435" width="478" height="329" frameX="0" frameY="-17" frameWidth="478" frameHeight="592" />
+	<SubTexture name="GOD DEATH0068" x="984" y="435" width="478" height="329" frameX="0" frameY="-17" frameWidth="478" frameHeight="592" />
+	<SubTexture name="GOD DEATH0069" x="984" y="435" width="478" height="329" frameX="0" frameY="-17" frameWidth="478" frameHeight="592" />
+	<SubTexture name="GOD DEATH0070" x="984" y="435" width="478" height="329" frameX="0" frameY="-17" frameWidth="478" frameHeight="592" />
+	<SubTexture name="GOD DEATH CONFIRM0000" x="1465" y="435" width="460" height="329" frameX="-55" frameY="0" frameWidth="591" frameHeight="329" />
+	<SubTexture name="GOD DEATH CONFIRM0001" x="1465" y="435" width="460" height="329" frameX="-55" frameY="0" frameWidth="591" frameHeight="329" />
+	<SubTexture name="GOD DEATH CONFIRM0002" x="2" y="767" width="570" height="322" frameX="0" frameY="-5" frameWidth="591" frameHeight="329" />
+	<SubTexture name="GOD DEATH CONFIRM0003" x="2" y="767" width="570" height="322" frameX="0" frameY="-5" frameWidth="591" frameHeight="329" />
+	<SubTexture name="GOD DEATH CONFIRM0004" x="575" y="767" width="588" height="325" frameX="-3" frameY="-2" frameWidth="591" frameHeight="329" />
+	<SubTexture name="GOD DEATH CONFIRM0005" x="575" y="767" width="588" height="325" frameX="-3" frameY="-2" frameWidth="591" frameHeight="329" />
+	<SubTexture name="GOD DEATH CONFIRM0006" x="1165" y="767" width="515" height="325" frameX="-40" frameY="-2" frameWidth="591" frameHeight="329" />
+	<SubTexture name="GOD DEATH CONFIRM0007" x="1165" y="767" width="515" height="325" frameX="-40" frameY="-2" frameWidth="591" frameHeight="329" />
+	<SubTexture name="GOD DEATH CONFIRM0008" x="1683" y="767" width="307" height="325" frameX="-143" frameY="-2" frameWidth="591" frameHeight="329" />
+	<SubTexture name="GOD DEATH CONFIRM0009" x="1683" y="767" width="307" height="325" frameX="-143" frameY="-2" frameWidth="591" frameHeight="329" />
+	<SubTexture name="GOD DEATH CONFIRM0010" x="2" y="1094" width="282" height="325" frameX="-156" frameY="-2" frameWidth="591" frameHeight="329" />
+	<SubTexture name="GOD DEATH CONFIRM0011" x="2" y="1094" width="282" height="325" frameX="-156" frameY="-2" frameWidth="591" frameHeight="329" />
+	<SubTexture name="GOD DEATH CONFIRM0012" x="287" y="1094" width="288" height="325" frameX="-153" frameY="-2" frameWidth="591" frameHeight="329" />
+	<SubTexture name="GOD DEATH CONFIRM0013" x="578" y="1094" width="296" height="325" frameX="-149" frameY="-2" frameWidth="591" frameHeight="329" />
+	<SubTexture name="GOD DEATH CONFIRM0014" x="877" y="1094" width="163" height="325" frameX="-194" frameY="-2" frameWidth="591" frameHeight="329" />
+	<SubTexture name="GOD DEATH LOOP0000" x="1043" y="1094" width="456" height="288" frameX="-11" frameY="-21" frameWidth="478" frameHeight="329" />
+	<SubTexture name="GOD DEATH LOOP0001" x="1502" y="1094" width="470" height="325" frameX="-4" frameY="-2" frameWidth="478" frameHeight="329" />
+	<SubTexture name="GOD DEATH LOOP0002" x="1502" y="1094" width="470" height="325" frameX="-4" frameY="-2" frameWidth="478" frameHeight="329" />
+	<SubTexture name="GOD DEATH LOOP0003" x="2" y="1422" width="474" height="327" frameX="-2" frameY="-1" frameWidth="478" frameHeight="329" />
+	<SubTexture name="GOD DEATH LOOP0004" x="2" y="1422" width="474" height="327" frameX="-2" frameY="-1" frameWidth="478" frameHeight="329" />
+	<SubTexture name="GOD DEATH LOOP0005" x="479" y="1422" width="478" height="329" />
+	<SubTexture name="GOD DEATH LOOP0006" x="479" y="1422" width="478" height="329" />
+	<SubTexture name="GOD DEATH LOOP0007" x="479" y="1422" width="478" height="329" />
+	<SubTexture name="GOD DEATH LOOP0008" x="479" y="1422" width="478" height="329" />
+	<SubTexture name="GOD DEATH LOOP0009" x="479" y="1422" width="478" height="329" />
+	<SubTexture name="GOD DEATH LOOP0010" x="479" y="1422" width="478" height="329" />
+	<SubTexture name="GOD DEATH LOOP0011" x="479" y="1422" width="478" height="329" />
+</TextureAtlas>

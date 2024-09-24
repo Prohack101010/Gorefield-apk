@@ -1,0 +1,5 @@
+<!DOCTYPE codename-engine-character>
+<character x="100" icon="icon-face" camx="-280" y="150" isGF="false" scale="2" color="#A1A1B5" isPlayer="false" holdTime="6.1" sprite="JHON">
+	<anim x="0" loop="false" y="0" fps="24" anim="JHON0" name="idle"/>
+	<anim x="0" loop="false" y="7" fps="24" anim="JHON BOMB" name="bomb"/>
+</character>

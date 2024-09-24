@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="CARTOON_CARGA.png">
+<SubTexture name="CARTOON CARGA0000" x="0" y="0" width="961" height="906" frameX="0" frameY="0" frameWidth="961" frameHeight="907" />
+</TextureAtlas>

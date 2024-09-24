@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="viento.png">
+<SubTexture name="vientitoo0000" x="0" y="0" width="1168" height="534" frameX="-34" frameY="0" frameWidth="1229" frameHeight="534" />
+<SubTexture name="vientitoo0001" x="1168" y="0" width="1228" height="534" frameX="0" frameY="0" frameWidth="1229" frameHeight="534" />
+<SubTexture name="vientitoo0002" x="0" y="534" width="1156" height="534" frameX="-42" frameY="0" frameWidth="1229" frameHeight="534" />
+</TextureAtlas>

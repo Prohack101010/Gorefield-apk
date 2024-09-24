@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="rightloadingimage2.png">
+<SubTexture name="GOREFIELD0000" x="0" y="0" width="977" height="1178" frameX="0" frameY="0" frameWidth="977" frameHeight="1179" />
+</TextureAtlas>

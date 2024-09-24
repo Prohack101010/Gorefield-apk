@@ -1,0 +1,11 @@
+<!DOCTYPE codename-engine-character>
+<character color="#5A50D3" sprite="bf-apoc" x="120" isGF="false" y="740" camx="230" icon="bf-house" camy="-280" scale="2" isPlayer="true" flipX="true" gameOverChar="bf-apoc" iconoffsetx="18" animatedIcon="true" iconoffsety="-10">
+	<anim x="-5" loop="false" y="0" fps="24" anim="BF IDLE" name="idle"/>
+	<anim x="45" loop="false" y="-5" fps="24" anim="BF LEFT" name="singLEFT"/>
+	<anim x="-22" loop="false" y="5" fps="24" anim="BF DOWN" name="singDOWN"/>
+	<anim x="28" loop="false" y="13" fps="24" anim="BF UP" name="singUP"/>
+	<anim x="30" loop="false" y="-5" fps="24" anim="BF RIGHT" name="singRIGHT"/>
+	<anim x="30" loop="false" y="126" fps="24" anim="BF DEATH CONFIRM" name="deathConfirm"/>
+	<anim x="71" loop="false" y="124" fps="24" anim="BF DEATH0" name="firstDeath"/>
+	<anim x="11" loop="true" y="128" fps="24" anim="BF DEATH LOOP" name="deathLoop"/>
+</character>

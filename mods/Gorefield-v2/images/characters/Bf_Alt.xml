@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Bf_Alt.png">
+<SubTexture name="Bf_Alt _End0000" x="2170" y="0" width="371" height="469" frameX="-116" frameY="-301" frameWidth="1372" frameHeight="780" />
+<SubTexture name="Bf_Alt _End0001" x="2170" y="0" width="371" height="469" frameX="-116" frameY="-301" frameWidth="1372" frameHeight="780" />
+<SubTexture name="Bf_Alt _End0002" x="0" y="0" width="658" height="738" frameX="-116" frameY="-32" frameWidth="1372" frameHeight="780" />
+<SubTexture name="Bf_Alt _End0003" x="0" y="738" width="672" height="731" frameX="-102" frameY="-39" frameWidth="1372" frameHeight="780" />
+<SubTexture name="Bf_Alt _End0004" x="658" y="0" width="672" height="735" frameX="-102" frameY="-39" frameWidth="1372" frameHeight="780" />
+<SubTexture name="Bf_Alt _End0005" x="1330" y="0" width="840" height="735" frameX="-88" frameY="-25" frameWidth="1372" frameHeight="780" />
+<SubTexture name="Bf_Alt _End0006" x="672" y="738" width="1284" height="721" frameX="-88" frameY="-53" frameWidth="1372" frameHeight="780" />
+<SubTexture name="Bf_Alt _End0007" x="0" y="1470" width="1284" height="500" frameX="-88" frameY="-273" frameWidth="1372" frameHeight="780" />
+<SubTexture name="Bf_Alt _End0008" x="1284" y="1470" width="637" height="486" frameX="-88" frameY="-287" frameWidth="1372" frameHeight="780" />
+<SubTexture name="Bf_Alt _End0009" x="1284" y="1470" width="637" height="486" frameX="-88" frameY="-287" frameWidth="1372" frameHeight="780" />
+</TextureAtlas>

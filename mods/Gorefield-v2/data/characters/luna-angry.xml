@@ -1,0 +1,14 @@
+<!DOCTYPE codename-engine-character>
+<character color="#2E5E48" sprite="luna" x="100" isGF="false" y="120" camx="200" icon="Luna_icons" camy="320" scale="2" isPlayer="true" flipX="true" gameOverChar="luna-dead-angry" iconoffsetx="14" animatedIcon="true" iconoffsety="-10">
+	<anim x="0" loop="false" y="0" fps="24" anim="idle instancia 1" name="idle"/>
+	<anim x="-12" loop="false" y="7" fps="24" anim="right poses instancia 1" name="singRIGHT"/>
+	<anim x="12" loop="false" y="-24" fps="24" anim="down poses instancia 1" name="singDOWN"/>
+	<anim x="-22" loop="false" y="4" fps="24" anim="up poses instancia 1" name="singUP"/>
+	<anim x="24" loop="false" y="1" fps="24" anim="left poses instancia 1" name="singLEFT"/>
+	<anim x="24" loop="false" y="5" fps="24" anim="left miss poses instancia 1" name="singLEFTmiss"/>
+	<anim x="12" loop="false" y="-26" fps="24" anim="down miss poses instancia 1" name="singDOWNmiss"/>
+	<anim x="-16" loop="false" y="9" fps="24" anim="up miss poses instancia 1" name="singUPmiss"/>
+	<anim x="-10" loop="false" y="-3" fps="24" anim="right miss poses instancia 1" name="singRIGHTmiss"/>
+	<anim x="0" loop="true" y="0" fps="24" anim="idle instancia 1" indices="12,13" name="idle-loop"/>
+	<anim x="24" loop="true" y="1" fps="24" anim="left poses instancia 1" indices="18,19" name="singLEFT-loop"/>
+</character>

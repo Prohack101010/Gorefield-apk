@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="SANSFIELD_CARGA_02.png">
+<SubTexture name="SANSFIELD CARGA 0000" x="0" y="0" width="928" height="932" frameX="0" frameY="-2" frameWidth="928" frameHeight="934" />
+</TextureAtlas>

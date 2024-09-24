@@ -1,0 +1,4 @@
+<!DOCTYPE codename-engine-character>
+<character x="-48" y="55" camx="195" icon="garfield" isGF="false" camy="280" iconColor="-10855846" scale="1.8" flipX="false" isPlayer="false" holdTime="2" gameOverChar="" antialiasing="true" sprite="WALTER_SAD">
+	<anim loop="false" x="0" anim="WALTER" fps="24" y="0" name="mad" indices="[]"/>
+</character>

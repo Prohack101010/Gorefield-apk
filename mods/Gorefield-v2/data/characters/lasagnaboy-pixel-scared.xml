@@ -1,0 +1,10 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" y="0" camx="30" icon="icon-lasagnaboy-pixel" isGF="false" camy="240" iconColor="-10855846" scale="0.8" flipX="false" isPlayer="false" holdTime="6.1" gameOverChar="" antialiasing="false" sprite="lasagnaboy-pixel">
+	<anim loop="false" x="-236" anim="lasagnaboy-pixel LASAGNA BOY SCARED IDLE" fps="24" y="-292" name="idle" indices="[]"/>
+	<anim loop="false" x="356.5" anim="lasagnaboy-pixel LASAGNA BOY SCARED TRANSITION" fps="24" y="-245" name="intro" indices="[]"/>
+	<anim loop="false" x="324.5" anim="lasagnaboy-pixel LASAGNA BOY END TRANSITION" fps="24" y="-249" name="outro" indices="[]"/>
+	<anim loop="false" x="-269" anim="lasagnaboy-pixel LASAGNA BOY SCARED LEFT" fps="24" y="-264.5" name="singLEFT" indices="[]"/>
+	<anim loop="false" x="-242.5" anim="lasagnaboy-pixel LASAGNA BOY SCARED DOWN" fps="24" y="-316.5" name="singDOWN" indices="[]"/>
+	<anim loop="false" x="-284.5" anim="lasagnaboy-pixel LASAGNA BOY SCARED UP" fps="24" y="-242" name="singUP" indices="[]"/>
+	<anim loop="false" x="-270" anim="lasagnaboy-pixel LASAGNA BOY SCARED RIGHT" fps="24" y="-264.5" name="singRIGHT" indices="[]"/>
+</character>

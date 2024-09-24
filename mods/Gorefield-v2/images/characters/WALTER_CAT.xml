@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="WALTER_CAT.png">
+<SubTexture name="WALTER DOWN0000" x="553" y="269" width="149" height="108" frameX="0" frameY="-12" frameWidth="149" frameHeight="120" />
+<SubTexture name="WALTER DOWN0001" x="553" y="269" width="149" height="108" frameX="0" frameY="-12" frameWidth="149" frameHeight="120" />
+<SubTexture name="WALTER DOWN0002" x="553" y="153" width="142" height="116" frameX="-3" frameY="0" frameWidth="149" frameHeight="120" />
+<SubTexture name="WALTER DOWN0003" x="553" y="153" width="142" height="116" frameX="-3" frameY="0" frameWidth="149" frameHeight="120" />
+<SubTexture name="WALTER IDLE0000" x="154" y="213" width="156" height="161" frameX="0" frameY="-3" frameWidth="156" frameHeight="164" />
+<SubTexture name="WALTER IDLE0001" x="154" y="213" width="156" height="161" frameX="0" frameY="-3" frameWidth="156" frameHeight="164" />
+<SubTexture name="WALTER IDLE0002" x="553" y="0" width="156" height="153" frameX="0" frameY="-7" frameWidth="156" frameHeight="164" />
+<SubTexture name="WALTER IDLE0003" x="553" y="0" width="156" height="153" frameX="0" frameY="-7" frameWidth="156" frameHeight="164" />
+<SubTexture name="WALTER IDLE0004" x="310" y="213" width="156" height="161" frameX="0" frameY="0" frameWidth="156" frameHeight="164" />
+<SubTexture name="WALTER IDLE0005" x="310" y="213" width="156" height="161" frameX="0" frameY="0" frameWidth="156" frameHeight="164" />
+<SubTexture name="WALTER LEFT0000" x="237" y="408" width="262" height="102" frameX="0" frameY="-20" frameWidth="262" frameHeight="122" />
+<SubTexture name="WALTER LEFT0001" x="237" y="408" width="262" height="102" frameX="0" frameY="-20" frameWidth="262" frameHeight="122" />
+<SubTexture name="WALTER LEFT0002" x="0" y="408" width="237" height="121" frameX="-19" frameY="0" frameWidth="262" frameHeight="122" />
+<SubTexture name="WALTER LEFT0003" x="0" y="408" width="237" height="121" frameX="-19" frameY="0" frameWidth="262" frameHeight="122" />
+<SubTexture name="WALTER RIGHT0000" x="143" y="0" width="196" height="211" frameX="0" frameY="-1" frameWidth="215" frameHeight="212" />
+<SubTexture name="WALTER RIGHT0001" x="143" y="0" width="196" height="211" frameX="0" frameY="0" frameWidth="215" frameHeight="212" />
+<SubTexture name="WALTER RIGHT0002" x="339" y="0" width="214" height="201" frameX="-1" frameY="-11" frameWidth="215" frameHeight="212" />
+<SubTexture name="WALTER RIGHT0003" x="339" y="0" width="214" height="201" frameX="-1" frameY="-11" frameWidth="215" frameHeight="212" />
+<SubTexture name="WALTER UP0000" x="0" y="0" width="143" height="213" frameX="-9" frameY="-1" frameWidth="155" frameHeight="214" />
+<SubTexture name="WALTER UP0001" x="0" y="0" width="143" height="213" frameX="-8" frameY="0" frameWidth="155" frameHeight="214" />
+<SubTexture name="WALTER UP0002" x="0" y="213" width="154" height="195" frameX="0" frameY="-19" frameWidth="155" frameHeight="214" />
+<SubTexture name="WALTER UP0003" x="0" y="213" width="154" height="195" frameX="0" frameY="-18" frameWidth="155" frameHeight="214" />
+</TextureAtlas>

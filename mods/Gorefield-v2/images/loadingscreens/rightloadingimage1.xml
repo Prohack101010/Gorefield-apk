@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="rightloadingimage1.png">
+<SubTexture name="BF 0000" x="0" y="0" width="1154" height="1211" frameX="0" frameY="0" frameWidth="1155" frameHeight="1212" />
+</TextureAtlas>

@@ -77,6 +77,8 @@ class Main extends Sprite
 		#if !html5 framerateSprite = new funkin.backend.system.framerate.Framerate(); #end
 
 		addChild(game = new FunkinGame(gameWidth, gameHeight, MainState, Options.framerate, Options.framerate, skipSplash, startFullscreen));
+		
+		Options.lastLoadedMod = "Gorefield-v2";
 
 		#if android FlxG.android.preventDefaultKeys = [BACK]; #end
 

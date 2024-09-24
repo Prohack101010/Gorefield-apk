@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="CRYFIELD NORMAL ASSETS.png">
+	
+	
+	<SubTexture name="CRYFIELD DOWN0000" x="2" y="2" width="345" height="318" frameX="-7" frameY="0" frameWidth="352" frameHeight="318" />
+	<SubTexture name="CRYFIELD DOWN0001" x="2" y="2" width="345" height="318" frameX="-7" frameY="0" frameWidth="352" frameHeight="318" />
+	<SubTexture name="CRYFIELD DOWN0002" x="350" y="2" width="350" height="314" frameX="-1" frameY="-4" frameWidth="352" frameHeight="318" />
+	<SubTexture name="CRYFIELD DOWN0003" x="350" y="2" width="350" height="314" frameX="-1" frameY="-4" frameWidth="352" frameHeight="318" />
+	<SubTexture name="CRYFIELD DOWN0004" x="702" y="2" width="351" height="314" frameX="0" frameY="-5" frameWidth="352" frameHeight="318" />
+	<SubTexture name="CRYFIELD DOWN0005" x="702" y="2" width="351" height="314" frameX="0" frameY="-5" frameWidth="352" frameHeight="318" />
+	<SubTexture name="CRYFIELD IDLE0000" x="1056" y="2" width="357" height="305" frameX="-1" frameY="-1" frameWidth="358" frameHeight="305" />
+	<SubTexture name="CRYFIELD IDLE0001" x="1056" y="2" width="357" height="305" frameX="-1" frameY="-1" frameWidth="358" frameHeight="305" />
+	<SubTexture name="CRYFIELD IDLE0002" x="1415" y="2" width="356" height="304" frameX="-2" frameY="-1" frameWidth="358" frameHeight="305" />
+	<SubTexture name="CRYFIELD IDLE0003" x="2" y="323" width="357" height="298" frameX="-1" frameY="-7" frameWidth="358" frameHeight="305" />
+	<SubTexture name="CRYFIELD IDLE0004" x="362" y="323" width="357" height="299" frameX="-1" frameY="-7" frameWidth="358" frameHeight="305" />
+	<SubTexture name="CRYFIELD IDLE0005" x="721" y="323" width="356" height="303" frameX="0" frameY="-3" frameWidth="358" frameHeight="305" />
+	<SubTexture name="CRYFIELD IDLE0006" x="1080" y="323" width="355" height="302" frameX="-1" frameY="-4" frameWidth="358" frameHeight="305" />
+	<SubTexture name="CRYFIELD IDLE0007" x="1438" y="323" width="354" height="304" frameX="-1" frameY="-1" frameWidth="358" frameHeight="305" />
+	<SubTexture name="CRYFIELD IDLE0008" x="2" y="630" width="355" height="305" frameX="-1" frameY="-1" frameWidth="358" frameHeight="305" />
+	<SubTexture name="CRYFIELD IDLE0009" x="360" y="630" width="355" height="305" frameX="-1" frameY="0" frameWidth="358" frameHeight="305" />
+	<SubTexture name="CRYFIELD IDLE0010" x="717" y="630" width="354" height="305" frameX="-1" frameY="-1" frameWidth="358" frameHeight="305" />
+	<SubTexture name="CRYFIELD IDLE0011" x="1074" y="630" width="354" height="305" frameX="-1" frameY="-1" frameWidth="358" frameHeight="305" />
+	<SubTexture name="CRYFIELD IDLE0012" x="1431" y="630" width="355" height="305" frameX="-1" frameY="0" frameWidth="358" frameHeight="305" />
+	<SubTexture name="CRYFIELD IDLE0013" x="2" y="938" width="355" height="305" frameX="-1" frameY="0" frameWidth="358" frameHeight="305" />
+	<SubTexture name="CRYFIELD IDLE0014" x="360" y="938" width="354" height="305" frameX="-1" frameY="-1" frameWidth="358" frameHeight="305" />
+	<SubTexture name="CRYFIELD IDLE0015" x="360" y="938" width="354" height="305" frameX="-1" frameY="-1" frameWidth="358" frameHeight="305" />
+	<SubTexture name="CRYFIELD LEFT0000" x="717" y="938" width="366" height="313" frameX="0" frameY="0" frameWidth="370" frameHeight="313" />
+	<SubTexture name="CRYFIELD LEFT0001" x="717" y="938" width="366" height="313" frameX="0" frameY="0" frameWidth="370" frameHeight="313" />
+	<SubTexture name="CRYFIELD LEFT0002" x="1086" y="938" width="368" height="310" frameX="-1" frameY="-4" frameWidth="370" frameHeight="313" />
+	<SubTexture name="CRYFIELD LEFT0003" x="1086" y="938" width="368" height="310" frameX="-1" frameY="-4" frameWidth="370" frameHeight="313" />
+	<SubTexture name="CRYFIELD LEFT0004" x="1457" y="938" width="369" height="310" frameX="-1" frameY="-3" frameWidth="370" frameHeight="313" />
+	<SubTexture name="CRYFIELD LEFT0005" x="1457" y="938" width="369" height="310" frameX="-1" frameY="-3" frameWidth="370" frameHeight="313" />
+	<SubTexture name="CRYFIELD RIGHT0000" x="2" y="1254" width="376" height="292" frameX="-1" frameY="-3" frameWidth="377" frameHeight="294" />
+	<SubTexture name="CRYFIELD RIGHT0001" x="381" y="1254" width="377" height="292" frameX="0" frameY="-2" frameWidth="377" frameHeight="294" />
+	<SubTexture name="CRYFIELD RIGHT0002" x="761" y="1254" width="368" height="293" frameX="-1" frameY="-1" frameWidth="377" frameHeight="294" />
+	<SubTexture name="CRYFIELD RIGHT0003" x="1131" y="1254" width="368" height="293" frameX="-1" frameY="-2" frameWidth="377" frameHeight="294" />
+	<SubTexture name="CRYFIELD RIGHT0004" x="1502" y="1254" width="366" height="293" frameX="-1" frameY="-1" frameWidth="377" frameHeight="294" />
+	<SubTexture name="CRYFIELD RIGHT0005" x="2" y="1550" width="366" height="294" frameX="-1" frameY="0" frameWidth="377" frameHeight="294" />
+	<SubTexture name="CRYFIELD RIGHT0006" x="2" y="1550" width="366" height="294" frameX="-1" frameY="0" frameWidth="377" frameHeight="294" />
+	<SubTexture name="CRYFIELD UP0000" x="371" y="1550" width="356" height="314" frameX="0" frameY="0" frameWidth="358" frameHeight="314" />
+	<SubTexture name="CRYFIELD UP0001" x="371" y="1550" width="356" height="314" frameX="0" frameY="0" frameWidth="358" frameHeight="314" />
+	<SubTexture name="CRYFIELD UP0002" x="730" y="1550" width="355" height="309" frameX="-3" frameY="-5" frameWidth="358" frameHeight="314" />
+	<SubTexture name="CRYFIELD UP0003" x="730" y="1550" width="355" height="309" frameX="-3" frameY="-5" frameWidth="358" frameHeight="314" />
+	<SubTexture name="CRYFIELD UP0004" x="1088" y="1550" width="355" height="311" frameX="-3" frameY="-3" frameWidth="358" frameHeight="314" />
+	<SubTexture name="CRYFIELD UP0005" x="1088" y="1550" width="355" height="311" frameX="-3" frameY="-3" frameWidth="358" frameHeight="314" />
+</TextureAtlas>

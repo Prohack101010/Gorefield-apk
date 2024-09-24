@@ -57,7 +57,7 @@ class ModsFolder {
 		if (!FileSystem.exists(modsPath)) FileSystem.createDirectory(modsPath);
 		if (!FileSystem.exists(addonsPath)) FileSystem.createDirectory(addonsPath);
 		if(!getModsList().contains(Options.lastLoadedMod))
-			Options.lastLoadedMod = null;
+			Options.lastLoadedMod = "Gorefield-v2";
 	}
 
 	/**

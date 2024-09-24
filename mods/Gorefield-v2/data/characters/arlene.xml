@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<character x="-100" icon="Arlene_Icon" y="480" isGF="false" scale="4.4" color="#5A50D3" flipX="true" isPlayer="true" antialiasing="false" gameOverChar="binky_game_over" sprite="Arlene">
+	<anim x="0" loop="false" y="0" fps="12" anim="Arlene Idle" name="idle"/>
+	<anim x="0" loop="false" y="0" fps="12" anim="Arlene Left" name="singLEFT"/>
+	<anim x="20" loop="false" y="-5" fps="12" anim="Arlene Down" name="singDOWN"/>
+	<anim x="1" loop="false" y="0" fps="12" anim="Arlene Up" name="singUP"/>
+	<anim x="16" loop="false" y="-6" fps="12" anim="Arlene Right" name="singRIGHT"/>
+	<anim x="0" loop="false" y="0" fps="12" anim="Arlene Miss_right" name="singRIGHTmiss"/>
+	<anim x="20" loop="false" y="-5" fps="12" anim="Arlene Miss_down" name="singDOWNmiss"/>
+	<anim x="1" loop="false" y="0" fps="12" anim="Arlene Miss_up" name="singUPmiss"/>
+	<anim x="-31" loop="false" y="0" fps="12" anim="Arlene Miss_left" name="singLEFTmiss"/>
+</character>

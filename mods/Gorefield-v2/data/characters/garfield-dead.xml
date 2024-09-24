@@ -1,0 +1,6 @@
+<!DOCTYPE codename-engine-character>
+<character x="200" icon="face" y="200" isGF="false" scale="2" color="#2E5E48" flipX="true" isPlayer="true" gameOverChar="garfield-dead" sprite="GAME_OVER_GARFIELD">
+	<anim x="0" loop="false" y="0" fps="24" anim="GARFIELD DIES" name="firstDeath"/>
+	<anim x="-10" loop="true" y="-58" fps="24" anim="GARFIELD LOOP0" name="deathLoop"/>
+	<anim x="10" loop="false" y="168" fps="24" anim="GARFIELD END" name="deathConfirm"/>
+</character>

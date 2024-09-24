@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<character x="-350" icon="Bf_Blue_Icon" y="500" isGF="false" scale="3.0" color="#5A50D3" flipX="true" isPlayer="true" antialiasing="false" gameOverChar="binky_game_over" sprite="BlueBf__Alt">
+	<anim x="0" loop="false" y="0" fps="12" anim="BlueBf__Alt Idle" name="idle"/>
+	<anim x="-22" loop="false" y="4" fps="12" anim="BlueBf__Alt Left" name="singLEFT"/>
+	<anim x="12" loop="false" y="3" fps="12" anim="BlueBf__Alt down0" name="singDOWN"/>
+	<anim x="6" loop="false" y="-8" fps="12" anim="BlueBf__Alt up0" name="singUP"/>
+	<anim x="26" loop="false" y="1" fps="12" anim="BlueBf__Alt Rigth" name="singRIGHT"/>
+	<anim x="-22" loop="false" y="3" fps="12" anim="BlueBf__Alt rigth_miss" name="singRIGHTmiss"/>
+	<anim x="12" loop="false" y="1" fps="12" anim="BlueBf__Alt down_miss" name="singDOWNmiss"/>
+	<anim x="6" loop="false" y="-8" fps="12" anim="BlueBf__Alt up_miss" name="singUPmiss"/>
+	<anim x="26" loop="false" y="1" fps="12" anim="BlueBf__Alt left_miss" name="singLEFTmiss"/>
+</character>

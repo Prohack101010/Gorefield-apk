@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="deadLuna.png">
+	
+	
+	<SubTexture name="dead animation 10000" x="0" y="0" width="189" height="252" pivotX="128.9" pivotY="-884.55" frameX="-91" frameY="-10" frameWidth="397" frameHeight="341" />
+	<SubTexture name="dead animation 10001" x="189" y="0" width="269" height="267" frameX="-61" frameY="-10" frameWidth="397" frameHeight="341" />
+	<SubTexture name="dead animation 10002" x="458" y="0" width="269" height="255" frameX="-61" frameY="-21" frameWidth="397" frameHeight="341" />
+	<SubTexture name="dead animation 10003" x="727" y="0" width="329" height="293" frameX="-34" frameY="-21" frameWidth="397" frameHeight="341" />
+	<SubTexture name="dead animation 10004" x="1056" y="0" width="329" height="293" frameX="-34" frameY="-21" frameWidth="397" frameHeight="341" />
+	<SubTexture name="dead animation 10005" x="1386" y="0" width="397" height="341" />
+	<SubTexture name="dead animation 10006" x="1783" y="0" width="187" height="241" frameX="-96" frameY="-21" frameWidth="397" frameHeight="341" />
+	<SubTexture name="dead animation 10007" x="1783" y="0" width="187" height="241" frameX="-96" frameY="-21" frameWidth="397" frameHeight="341" />
+	<SubTexture name="dead animation 10008" x="1783" y="0" width="187" height="241" frameX="-96" frameY="-21" frameWidth="397" frameHeight="341" />
+	<SubTexture name="dead animation 10009" x="1783" y="0" width="187" height="241" frameX="-96" frameY="-21" frameWidth="397" frameHeight="341" />
+	<SubTexture name="dead animation 10010" x="1783" y="0" width="187" height="241" frameX="-96" frameY="-21" frameWidth="397" frameHeight="341" />
+	<SubTexture name="dead animation 10011" x="1783" y="0" width="187" height="241" frameX="-96" frameY="-21" frameWidth="397" frameHeight="341" />
+	<SubTexture name="dead animation 10012" x="1783" y="0" width="187" height="241" frameX="-96" frameY="-21" frameWidth="397" frameHeight="341" />
+	<SubTexture name="dead animation 10013" x="1783" y="0" width="187" height="241" frameX="-96" frameY="-21" frameWidth="397" frameHeight="341" />
+	<SubTexture name="dead animation 10014" x="1783" y="0" width="187" height="241" frameX="-96" frameY="-21" frameWidth="397" frameHeight="341" />
+	<SubTexture name="dead animation 10015" x="1783" y="0" width="187" height="241" frameX="-96" frameY="-21" frameWidth="397" frameHeight="341" />
+	<SubTexture name="dead animation 10016" x="1783" y="0" width="187" height="241" frameX="-96" frameY="-21" frameWidth="397" frameHeight="341" />
+	<SubTexture name="dead animation 10017" x="1783" y="0" width="187" height="241" frameX="-96" frameY="-21" frameWidth="397" frameHeight="341" />
+	<SubTexture name="dead animation 10018" x="1783" y="0" width="187" height="241" frameX="-96" frameY="-21" frameWidth="397" frameHeight="341" />
+	<SubTexture name="dead animation 10019" x="1783" y="0" width="187" height="241" frameX="-96" frameY="-21" frameWidth="397" frameHeight="341" />
+	<SubTexture name="dead animation 10020" x="1783" y="0" width="187" height="241" frameX="-96" frameY="-21" frameWidth="397" frameHeight="341" />
+	<SubTexture name="dead animation 10021" x="1783" y="0" width="187" height="241" frameX="-96" frameY="-21" frameWidth="397" frameHeight="341" />
+	<SubTexture name="dead animation 10022" x="1783" y="0" width="187" height="241" frameX="-96" frameY="-21" frameWidth="397" frameHeight="341" />
+	<SubTexture name="dead animation 10023" x="1783" y="0" width="187" height="241" frameX="-96" frameY="-21" frameWidth="397" frameHeight="341" />
+	<SubTexture name="dead animation 10024" x="1783" y="0" width="187" height="241" frameX="-96" frameY="-21" frameWidth="397" frameHeight="341" />
+	<SubTexture name="dead animation 10025" x="1783" y="0" width="187" height="241" frameX="-96" frameY="-21" frameWidth="397" frameHeight="341" />
+	<SubTexture name="dead animation 10026" x="1783" y="0" width="187" height="241" frameX="-96" frameY="-21" frameWidth="397" frameHeight="341" />
+	<SubTexture name="dead animation 10027" x="1783" y="0" width="187" height="241" frameX="-96" frameY="-21" frameWidth="397" frameHeight="341" />
+	<SubTexture name="dead animation 10028" x="1783" y="0" width="187" height="241" frameX="-96" frameY="-21" frameWidth="397" frameHeight="341" />
+	<SubTexture name="dead animation 10029" x="1783" y="0" width="187" height="241" frameX="-96" frameY="-21" frameWidth="397" frameHeight="341" />
+	<SubTexture name="dead animation 10030" x="1783" y="0" width="187" height="241" frameX="-96" frameY="-21" frameWidth="397" frameHeight="341" />
+	<SubTexture name="dead animation 10031" x="1783" y="0" width="187" height="241" frameX="-96" frameY="-21" frameWidth="397" frameHeight="341" />
+	<SubTexture name="dead animation 10032" x="1783" y="0" width="187" height="241" frameX="-96" frameY="-21" frameWidth="397" frameHeight="341" />
+	<SubTexture name="dead animation 10033" x="1783" y="0" width="187" height="241" frameX="-96" frameY="-21" frameWidth="397" frameHeight="341" />
+	<SubTexture name="dead animation 10034" x="0" y="341" width="187" height="241" frameX="-96" frameY="-21" frameWidth="397" frameHeight="341" />
+	<SubTexture name="dead animation 10035" x="187" y="341" width="187" height="241" frameX="-96" frameY="-21" frameWidth="397" frameHeight="341" />
+	<SubTexture name="dead animation 10036" x="375" y="341" width="187" height="241" frameX="-96" frameY="-21" frameWidth="397" frameHeight="341" />
+	<SubTexture name="dead animation 10037" x="562" y="341" width="187" height="241" frameX="-96" frameY="-21" frameWidth="397" frameHeight="341" />
+	<SubTexture name="dead animation 10038" x="750" y="341" width="187" height="241" frameX="-96" frameY="-21" frameWidth="397" frameHeight="341" />
+	<SubTexture name="dead animation 10039" x="937" y="341" width="187" height="241" frameX="-96" frameY="-21" frameWidth="397" frameHeight="341" />
+	<SubTexture name="dead animation 10040" x="1125" y="341" width="187" height="241" frameX="-96" frameY="-21" frameWidth="397" frameHeight="341" />
+	<SubTexture name="dead animation 10041" x="1312" y="341" width="187" height="241" frameX="-96" frameY="-21" frameWidth="397" frameHeight="341" />
+	<SubTexture name="dead animation 10042" x="1500" y="341" width="187" height="241" frameX="-96" frameY="-21" frameWidth="397" frameHeight="341" />
+	<SubTexture name="dead animation 10043" x="1687" y="341" width="187" height="241" frameX="-96" frameY="-21" frameWidth="397" frameHeight="341" />
+	<SubTexture name="dead animation 10044" x="0" y="582" width="187" height="241" frameX="-96" frameY="-21" frameWidth="397" frameHeight="341" />
+	<SubTexture name="dead animation 10045" x="187" y="582" width="187" height="241" frameX="-96" frameY="-21" frameWidth="397" frameHeight="341" />
+	<SubTexture name="dead animation 10046" x="375" y="582" width="187" height="241" frameX="-96" frameY="-21" frameWidth="397" frameHeight="341" />
+	<SubTexture name="dead animation 10047" x="562" y="582" width="187" height="241" frameX="-96" frameY="-21" frameWidth="397" frameHeight="341" />
+	<SubTexture name="dead animation 10048" x="750" y="582" width="187" height="241" frameX="-96" frameY="-21" frameWidth="397" frameHeight="341" />
+	<SubTexture name="dead animation 10049" x="937" y="582" width="187" height="241" frameX="-96" frameY="-21" frameWidth="397" frameHeight="341" />
+	<SubTexture name="dead animation 10050" x="1125" y="582" width="187" height="241" frameX="-96" frameY="-21" frameWidth="397" frameHeight="341" />
+	<SubTexture name="dead animation 10051" x="1312" y="582" width="187" height="241" frameX="-96" frameY="-21" frameWidth="397" frameHeight="341" />
+	<SubTexture name="dead animation 10052" x="1500" y="582" width="187" height="241" frameX="-96" frameY="-21" frameWidth="397" frameHeight="341" />
+	<SubTexture name="dead animation 10053" x="1687" y="582" width="187" height="241" frameX="-96" frameY="-21" frameWidth="397" frameHeight="341" />
+	<SubTexture name="dead animation 10054" x="0" y="823" width="187" height="241" frameX="-96" frameY="-21" frameWidth="397" frameHeight="341" />
+	<SubTexture name="dead animation 10055" x="187" y="823" width="187" height="241" frameX="-96" frameY="-21" frameWidth="397" frameHeight="341" />
+	<SubTexture name="dead animation 10056" x="187" y="823" width="187" height="241" frameX="-96" frameY="-21" frameWidth="397" frameHeight="341" />
+	<SubTexture name="dead animation 10057" x="187" y="823" width="187" height="241" frameX="-96" frameY="-21" frameWidth="397" frameHeight="341" />
+	<SubTexture name="dead animation 20000" x="375" y="823" width="187" height="241" pivotX="-63.7" pivotY="-926.05" />
+	<SubTexture name="dead animation 20001" x="562" y="823" width="187" height="241" />
+	<SubTexture name="dead animation 20002" x="562" y="823" width="187" height="241" />
+	<SubTexture name="dead animation 20003" x="750" y="823" width="187" height="241" />
+	<SubTexture name="dead animation 20004" x="750" y="823" width="187" height="241" />
+	<SubTexture name="dead animation 20005" x="937" y="823" width="187" height="241" />
+	<SubTexture name="dead animation 20006" x="937" y="823" width="187" height="241" />
+	<SubTexture name="dead animation 20007" x="1125" y="823" width="187" height="241" />
+	<SubTexture name="dead animation 20008" x="1125" y="823" width="187" height="241" />
+	<SubTexture name="dead animation 20009" x="1125" y="823" width="187" height="241" />
+	<SubTexture name="dead animation 20010" x="1125" y="823" width="187" height="241" />
+	<SubTexture name="dead animation 20011" x="1125" y="823" width="187" height="241" />
+	<SubTexture name="dead animation 20012" x="1125" y="823" width="187" height="241" />
+	<SubTexture name="dead animation 20013" x="1125" y="823" width="187" height="241" />
+	<SubTexture name="dead animation 20014" x="1125" y="823" width="187" height="241" />
+	<SubTexture name="dead animation 20015" x="1125" y="823" width="187" height="241" />
+	<SubTexture name="dead animation 20016" x="1125" y="823" width="187" height="241" />
+	<SubTexture name="dead animation 20017" x="375" y="823" width="187" height="241" />
+	<SubTexture name="dead animation 20018" x="562" y="823" width="187" height="241" />
+	<SubTexture name="dead animation 20019" x="562" y="823" width="187" height="241" />
+	<SubTexture name="dead animation 20020" x="750" y="823" width="187" height="241" />
+	<SubTexture name="dead animation 20021" x="750" y="823" width="187" height="241" />
+	<SubTexture name="dead animation 20022" x="937" y="823" width="187" height="241" />
+	<SubTexture name="dead animation 20023" x="937" y="823" width="187" height="241" />
+	<SubTexture name="dead animation 20024" x="1125" y="823" width="187" height="241" />
+	<SubTexture name="dead animation 20025" x="1125" y="823" width="187" height="241" />
+	<SubTexture name="dead animation 20026" x="1125" y="823" width="187" height="241" />
+	<SubTexture name="dead animation 20027" x="1125" y="823" width="187" height="241" />
+	<SubTexture name="dead animation 20028" x="1125" y="823" width="187" height="241" />
+	<SubTexture name="dead animation 20029" x="1125" y="823" width="187" height="241" />
+	<SubTexture name="dead animation 20030" x="1125" y="823" width="187" height="241" />
+	<SubTexture name="dead animation 20031" x="1125" y="823" width="187" height="241" />
+	<SubTexture name="dead animation 20032" x="1125" y="823" width="187" height="241" />
+	<SubTexture name="dead animation 20033" x="1125" y="823" width="187" height="241" />
+	<SubTexture name="dead animation 30000" x="1312" y="823" width="187" height="241" pivotX="-63.7" pivotY="-926.05" />
+	<SubTexture name="dead animation 30001" x="1500" y="823" width="187" height="241" />
+	<SubTexture name="dead animation 30002" x="1687" y="823" width="187" height="241" />
+	<SubTexture name="dead animation 30003" x="0" y="1064" width="187" height="241" />
+	<SubTexture name="dead animation 30004" x="187" y="1064" width="187" height="241" />
+	<SubTexture name="dead animation 30005" x="375" y="1064" width="187" height="241" />
+	<SubTexture name="dead animation 30006" x="562" y="1064" width="187" height="241" />
+	<SubTexture name="dead animation 30007" x="750" y="1064" width="187" height="241" />
+	<SubTexture name="dead animation 30008" x="937" y="1064" width="187" height="241" />
+	<SubTexture name="dead animation 30009" x="1125" y="1064" width="187" height="241" />
+	<SubTexture name="dead animation 30010" x="1312" y="1064" width="187" height="241" />
+	<SubTexture name="dead animation 30011" x="1500" y="1064" width="187" height="241" />
+	<SubTexture name="dead animation 30012" x="1687" y="1064" width="187" height="241" />
+	<SubTexture name="dead animation 30013" x="0" y="1305" width="187" height="241" />
+	<SubTexture name="dead animation 30014" x="187" y="1305" width="187" height="241" />
+	<SubTexture name="dead animation 30015" x="375" y="1305" width="187" height="241" />
+	<SubTexture name="dead animation 30016" x="562" y="1305" width="187" height="241" />
+	<SubTexture name="dead animation 30017" x="750" y="1305" width="187" height="241" />
+	<SubTexture name="dead animation 30018" x="937" y="1305" width="187" height="241" />
+	<SubTexture name="dead animation 30019" x="1125" y="1305" width="187" height="241" />
+	<SubTexture name="dead animation 30020" x="1312" y="1305" width="187" height="241" />
+	<SubTexture name="dead animation 30021" x="1500" y="1305" width="187" height="241" />
+	<SubTexture name="dead animation 30022" x="1687" y="1305" width="187" height="241" />
+	<SubTexture name="dead animation 30023" x="0" y="1546" width="187" height="241" />
+	<SubTexture name="dead animation 30024" x="0" y="1546" width="187" height="241" />
+	<SubTexture name="dead animation 30025" x="0" y="1546" width="187" height="241" />
+	<SubTexture name="dead animation 30026" x="0" y="1546" width="187" height="241" />
+	<SubTexture name="dead animation 30027" x="0" y="1546" width="187" height="241" />
+	<SubTexture name="dead animation 30028" x="0" y="1546" width="187" height="241" />
+	<SubTexture name="dead animation 30029" x="0" y="1546" width="187" height="241" />
+	<SubTexture name="dead animation 30030" x="0" y="1546" width="187" height="241" />
+	<SubTexture name="dead animation 30031" x="0" y="1546" width="187" height="241" />
+	<SubTexture name="dead animation 30032" x="0" y="1546" width="187" height="241" />
+	<SubTexture name="dead animation 30033" x="0" y="1546" width="187" height="241" />
+</TextureAtlas>

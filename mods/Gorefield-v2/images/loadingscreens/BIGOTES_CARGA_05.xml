@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BIGOTES_CARGA_05.png">
+<SubTexture name="BIGOTES CARGA 0000" x="0" y="0" width="1014" height="1206" frameX="-1" frameY="0" frameWidth="1017" frameHeight="1208" />
+</TextureAtlas>

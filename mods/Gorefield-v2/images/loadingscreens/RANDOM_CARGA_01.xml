@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="RANDOM_CARGA_01.png">
+<SubTexture name="RANDOM CARGA 0000" x="0" y="0" width="1048" height="1082" frameX="-1" frameY="0" frameWidth="1050" frameHeight="1082" />
+</TextureAtlas>

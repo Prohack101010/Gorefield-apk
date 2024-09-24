@@ -1,0 +1,15 @@
+<!DOCTYPE codename-engine-character>
+<character x="51" y="34" camx="-324" icon="icon-sansfield" isGF="false" camy="106" iconColor="-10855846" scale="1.8" flipX="false" isPlayer="false" holdTime="5" gameOverChar="" antialiasing="true" sprite="sansfield-black">
+	<anim loop="false" x="-52" anim="sansfield-black SANS IDLE" fps="24" y="-82" name="idle" indices="[]"/>
+	<anim loop="false" x="0" anim="sansfield-black SANSFIELD LEFT" fps="24" y="-71" name="singLEFT" indices="[]"/>
+	<anim loop="false" x="-11" anim="sansfield-black SANSFIELD DOWN" fps="24" y="-107" name="singDOWN" indices="[]"/>
+	<anim loop="false" x="-12" anim="sansfield-black SANSFIELD UP" fps="24" y="-64" name="singUP" indices="[]"/>
+	<anim loop="false" x="-82" anim="sansfield-black SANSFIELD RIGHT" fps="24" y="-68" name="singRIGHT" indices="[]"/>
+	<anim loop="false" x="-50" anim="sansfield-black SANSFIELD GUITAR IDLE" fps="24" y="-66" name="idle-alt" indices="[]"/>
+	<anim loop="false" x="-22" anim="sansfield-black SANSFIELD GUITAR LEFT" fps="24" y="-75" name="singLEFT-alt" indices="[]"/>
+	<anim loop="false" x="10" anim="sansfield-black SANSFIELD GUITAR DOWN" fps="24" y="-130" name="singDOWN-alt" indices="[]"/>
+	<anim loop="false" x="60" anim="sansfield-black SANSFIELD GUITAR UP" fps="24" y="-44" name="singUP-alt" indices="[]"/>
+	<anim loop="false" x="-24" anim="sansfield-black SANSFIELD GUITAR RIGHT" fps="24" y="-20" name="singRIGHT-alt" indices="[]"/>
+	<anim loop="true" x="-20" anim="sansfield-black SANSFIELD ZZZ" fps="24" y="-230" name="zzz" indices="[]"/>
+	<anim loop="false" x="-1" anim="sansfield-black SANS GUITAR AP" fps="24" y="2" name="guitar" indices="[]"/>
+</character>

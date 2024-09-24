@@ -1,0 +1,4 @@
+<!DOCTYPE codename-engine-character>
+<character color="#999999" sprite="NERMALL_CRUCIFICCION" x="20" isGF="false" y="450" camx="-160" icon="NERMAL_GODFIELD" camy="350" scale="2" isPlayer="true" gameOverChar="godnermaldeath" iconoffsetx="30" animatedIcon="true" iconoffsety="-10">
+	<anim x="0" loop="false" y="0" fps="24" anim="NERMALL CRUCIFICCION" name="start"/>
+</character>

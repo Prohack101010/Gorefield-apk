@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="jon_loco2.png">
+<SubTexture name="jon_loco2 jon down0000" x="2454" y="1609" width="317" height="380" frameX="0" frameY="-9" frameWidth="328" frameHeight="389" />
+<SubTexture name="jon_loco2 jon down0001" x="2454" y="1989" width="317" height="380" frameX="0" frameY="-9" frameWidth="328" frameHeight="389" />
+<SubTexture name="jon_loco2 jon down0002" x="324" y="2861" width="321" height="383" frameX="-1" frameY="-4" frameWidth="328" frameHeight="389" />
+<SubTexture name="jon_loco2 jon down0003" x="645" y="2861" width="321" height="383" frameX="-1" frameY="-4" frameWidth="328" frameHeight="389" />
+<SubTexture name="jon_loco2 jon down0004" x="3093" y="2475" width="324" height="385" frameX="-4" frameY="0" frameWidth="328" frameHeight="389" />
+<SubTexture name="jon_loco2 jon down0005" x="0" y="2861" width="324" height="384" frameX="-4" frameY="0" frameWidth="328" frameHeight="389" />
+<SubTexture name="jon_loco2 jon idle0000" x="2057" y="1954" width="318" height="436" frameX="0" frameY="-3" frameWidth="328" frameHeight="442" />
+<SubTexture name="jon_loco2 jon idle0001" x="2454" y="0" width="318" height="435" frameX="0" frameY="-3" frameWidth="328" frameHeight="442" />
+<SubTexture name="jon_loco2 jon idle0002" x="682" y="2426" width="327" height="432" frameX="-1" frameY="-10" frameWidth="328" frameHeight="442" />
+<SubTexture name="jon_loco2 jon idle0003" x="1009" y="2426" width="327" height="432" frameX="-1" frameY="-10" frameWidth="328" frameHeight="442" />
+<SubTexture name="jon_loco2 jon idle0004" x="1982" y="2426" width="324" height="424" frameX="-2" frameY="-12" frameWidth="328" frameHeight="442" />
+<SubTexture name="jon_loco2 jon idle0005" x="2306" y="2426" width="325" height="424" frameX="-2" frameY="-12" frameWidth="328" frameHeight="442" />
+<SubTexture name="jon_loco2 jon idle0006" x="1336" y="2426" width="323" height="430" frameX="-2" frameY="-6" frameWidth="328" frameHeight="442" />
+<SubTexture name="jon_loco2 jon idle0007" x="1659" y="2426" width="323" height="430" frameX="-3" frameY="-6" frameWidth="328" frameHeight="442" />
+<SubTexture name="jon_loco2 jon idle0008" x="2772" y="870" width="321" height="432" frameX="-2" frameY="-3" frameWidth="328" frameHeight="442" />
+<SubTexture name="jon_loco2 jon idle0009" x="2772" y="1302" width="321" height="432" frameX="-2" frameY="-3" frameWidth="328" frameHeight="442" />
+<SubTexture name="jon_loco2 jon idle0010" x="2772" y="0" width="321" height="435" frameX="-2" frameY="0" frameWidth="328" frameHeight="442" />
+<SubTexture name="jon_loco2 jon idle0011" x="2772" y="435" width="321" height="435" frameX="-2" frameY="0" frameWidth="328" frameHeight="442" />
+<SubTexture name="jon_loco2 jon idle0012" x="2772" y="0" width="321" height="435" frameX="-2" frameY="0" frameWidth="328" frameHeight="442" />
+<SubTexture name="jon_loco2 jon left0000" x="689" y="1954" width="342" height="449" frameX="0" frameY="0" frameWidth="344" frameHeight="449" />
+<SubTexture name="jon_loco2 jon left0001" x="1031" y="1954" width="342" height="449" frameX="0" frameY="0" frameWidth="344" frameHeight="449" />
+<SubTexture name="jon_loco2 jon left0002" x="1373" y="1954" width="342" height="439" frameX="-2" frameY="-5" frameWidth="344" frameHeight="449" />
+<SubTexture name="jon_loco2 jon left0003" x="1715" y="1954" width="342" height="439" frameX="-2" frameY="-5" frameWidth="344" frameHeight="449" />
+<SubTexture name="jon_loco2 jon left0004" x="0" y="2426" width="341" height="435" frameX="-3" frameY="-6" frameWidth="344" frameHeight="449" />
+<SubTexture name="jon_loco2 jon left0005" x="341" y="2426" width="341" height="435" frameX="-3" frameY="-6" frameWidth="344" frameHeight="449" />
+<SubTexture name="jon_loco2 jon right0000" x="3093" y="1666" width="340" height="405" frameX="-7" frameY="-7" frameWidth="347" frameHeight="418" />
+<SubTexture name="jon_loco2 jon right0001" x="3093" y="2071" width="340" height="404" frameX="-7" frameY="-7" frameWidth="347" frameHeight="418" />
+<SubTexture name="jon_loco2 jon right0002" x="3093" y="836" width="346" height="415" frameX="0" frameY="-1" frameWidth="347" frameHeight="418" />
+<SubTexture name="jon_loco2 jon right0003" x="3093" y="1251" width="345" height="415" frameX="-1" frameY="-1" frameWidth="347" frameHeight="418" />
+<SubTexture name="jon_loco2 jon right0004" x="3093" y="0" width="347" height="418" frameX="0" frameY="0" frameWidth="347" frameHeight="418" />
+<SubTexture name="jon_loco2 jon right0005" x="3093" y="418" width="347" height="418" frameX="0" frameY="0" frameWidth="347" frameHeight="418" />
+<SubTexture name="jon_loco2 idle0000" x="2115" y="1421" width="321" height="437" frameX="-66" frameY="-27" frameWidth="393" frameHeight="492" />
+<SubTexture name="jon_loco2 idle0001" x="2115" y="1421" width="321" height="437" frameX="-66" frameY="-27" frameWidth="393" frameHeight="492" />
+<SubTexture name="jon_loco2 idle0002" x="2115" y="1421" width="321" height="437" frameX="-66" frameY="-27" frameWidth="393" frameHeight="492" />
+<SubTexture name="jon_loco2 idle0003" x="2772" y="1734" width="316" height="431" frameX="-70" frameY="-29" frameWidth="393" frameHeight="492" />
+<SubTexture name="jon_loco2 idle0004" x="2772" y="1734" width="316" height="431" frameX="-70" frameY="-29" frameWidth="393" frameHeight="492" />
+<SubTexture name="jon_loco2 idle0005" x="2454" y="435" width="317" height="404" frameX="-53" frameY="-34" frameWidth="393" frameHeight="492" />
+<SubTexture name="jon_loco2 idle0006" x="2454" y="435" width="317" height="404" frameX="-53" frameY="-34" frameWidth="393" frameHeight="492" />
+<SubTexture name="jon_loco2 idle0007" x="2454" y="839" width="314" height="388" frameX="-48" frameY="-49" frameWidth="393" frameHeight="492" />
+<SubTexture name="jon_loco2 idle0008" x="2454" y="1227" width="307" height="382" frameX="-45" frameY="-61" frameWidth="393" frameHeight="492" />
+<SubTexture name="jon_loco2 idle0009" x="2454" y="1227" width="307" height="382" frameX="-45" frameY="-61" frameWidth="393" frameHeight="492" />
+<SubTexture name="jon_loco2 idle0010" x="2166" y="2861" width="300" height="375" frameX="-35" frameY="-71" frameWidth="393" frameHeight="492" />
+<SubTexture name="jon_loco2 idle0011" x="1266" y="2861" width="300" height="376" frameX="-35" frameY="-70" frameWidth="393" frameHeight="492" />
+<SubTexture name="jon_loco2 idle0012" x="1266" y="2861" width="300" height="376" frameX="-35" frameY="-70" frameWidth="393" frameHeight="492" />
+<SubTexture name="jon_loco2 idle0013" x="966" y="2861" width="300" height="378" frameX="-32" frameY="-78" frameWidth="393" frameHeight="492" />
+<SubTexture name="jon_loco2 idle0014" x="966" y="2861" width="300" height="378" frameX="-32" frameY="-78" frameWidth="393" frameHeight="492" />
+<SubTexture name="jon_loco2 idle0015" x="1566" y="2861" width="300" height="376" frameX="-57" frameY="-80" frameWidth="393" frameHeight="492" />
+<SubTexture name="jon_loco2 idle0016" x="1866" y="2861" width="300" height="376" frameX="-57" frameY="-80" frameWidth="393" frameHeight="492" />
+<SubTexture name="jon_loco2 idle0017" x="2631" y="2426" width="319" height="422" frameX="-51" frameY="-36" frameWidth="393" frameHeight="492" />
+<SubTexture name="jon_loco2 idle0018" x="0" y="0" width="393" height="492" frameX="0" frameY="0" frameWidth="393" frameHeight="492" />
+<SubTexture name="jon_loco2 idle0019" x="393" y="0" width="342" height="492" frameX="-51" frameY="0" frameWidth="393" frameHeight="492" />
+<SubTexture name="jon_loco2 idle0020" x="1384" y="984" width="348" height="478" frameX="-41" frameY="-5" frameWidth="393" frameHeight="492" />
+<SubTexture name="jon_loco2 idle0021" x="1767" y="0" width="348" height="478" frameX="-41" frameY="-5" frameWidth="393" frameHeight="492" />
+<SubTexture name="jon_loco2 idle0022" x="0" y="1954" width="345" height="472" frameX="-41" frameY="-8" frameWidth="393" frameHeight="492" />
+<SubTexture name="jon_loco2 idle0023" x="735" y="0" width="352" height="492" frameX="-41" frameY="0" frameWidth="393" frameHeight="492" />
+<SubTexture name="jon_loco2 idle0024" x="0" y="492" width="352" height="492" frameX="-41" frameY="0" frameWidth="393" frameHeight="492" />
+<SubTexture name="jon_loco2 idle0025" x="1767" y="478" width="348" height="478" frameX="-41" frameY="-5" frameWidth="393" frameHeight="492" />
+<SubTexture name="jon_loco2 idle0026" x="352" y="492" width="347" height="492" frameX="-46" frameY="0" frameWidth="393" frameHeight="492" />
+<SubTexture name="jon_loco2 idle0027" x="699" y="492" width="347" height="492" frameX="-46" frameY="0" frameWidth="393" frameHeight="492" />
+<SubTexture name="jon_loco2 idle0028" x="1767" y="956" width="348" height="478" frameX="-41" frameY="-5" frameWidth="393" frameHeight="492" />
+<SubTexture name="jon_loco2 idle0029" x="0" y="1476" width="348" height="478" frameX="-41" frameY="-5" frameWidth="393" frameHeight="492" />
+<SubTexture name="jon_loco2 idle0030" x="1087" y="0" width="340" height="492" frameX="-53" frameY="0" frameWidth="393" frameHeight="492" />
+<SubTexture name="jon_loco2 idle0031" x="1087" y="492" width="340" height="492" frameX="-53" frameY="0" frameWidth="393" frameHeight="492" />
+<SubTexture name="jon_loco2 idle0032" x="348" y="1476" width="341" height="478" frameX="-48" frameY="-5" frameWidth="393" frameHeight="492" />
+<SubTexture name="jon_loco2 idle0033" x="1427" y="0" width="340" height="492" frameX="-53" frameY="0" frameWidth="393" frameHeight="492" />
+<SubTexture name="jon_loco2 idle0034" x="1427" y="492" width="340" height="492" frameX="-53" frameY="0" frameWidth="393" frameHeight="492" />
+<SubTexture name="jon_loco2 idle0035" x="689" y="1476" width="348" height="478" frameX="-41" frameY="-5" frameWidth="393" frameHeight="492" />
+<SubTexture name="jon_loco2 idle0036" x="1087" y="0" width="340" height="492" frameX="-53" frameY="0" frameWidth="393" frameHeight="492" />
+<SubTexture name="jon_loco2 idle0037" x="1087" y="492" width="340" height="492" frameX="-53" frameY="0" frameWidth="393" frameHeight="492" />
+<SubTexture name="jon_loco2 idle0038" x="348" y="1476" width="341" height="478" frameX="-48" frameY="-5" frameWidth="393" frameHeight="492" />
+<SubTexture name="jon_loco2 idle0039" x="1427" y="0" width="340" height="492" frameX="-53" frameY="0" frameWidth="393" frameHeight="492" />
+<SubTexture name="jon_loco2 idle0040" x="1427" y="492" width="340" height="492" frameX="-53" frameY="0" frameWidth="393" frameHeight="492" />
+<SubTexture name="jon_loco2 idle0041" x="689" y="1476" width="348" height="478" frameX="-41" frameY="-5" frameWidth="393" frameHeight="492" />
+<SubTexture name="jon_loco2 idle0042" x="1087" y="0" width="340" height="492" frameX="-53" frameY="0" frameWidth="393" frameHeight="492" />
+<SubTexture name="jon_loco2 idle0043" x="1087" y="492" width="340" height="492" frameX="-53" frameY="0" frameWidth="393" frameHeight="492" />
+<SubTexture name="jon_loco2 idle0044" x="348" y="1476" width="341" height="478" frameX="-48" frameY="-5" frameWidth="393" frameHeight="492" />
+<SubTexture name="jon_loco2 idle0045" x="1037" y="1476" width="339" height="478" frameX="-49" frameY="-5" frameWidth="393" frameHeight="492" />
+<SubTexture name="jon_loco2 idle0046" x="1427" y="0" width="340" height="492" frameX="-53" frameY="0" frameWidth="393" frameHeight="492" />
+<SubTexture name="jon_loco2 idle0047" x="1427" y="492" width="340" height="492" frameX="-53" frameY="0" frameWidth="393" frameHeight="492" />
+<SubTexture name="jon_loco2 idle0048" x="689" y="1476" width="348" height="478" frameX="-41" frameY="-5" frameWidth="393" frameHeight="492" />
+<SubTexture name="jon_loco2 idle0049" x="1376" y="1476" width="348" height="478" frameX="-41" frameY="-5" frameWidth="393" frameHeight="492" />
+<SubTexture name="jon_loco2 idle0050" x="345" y="1954" width="344" height="472" frameX="-41" frameY="-8" frameWidth="393" frameHeight="492" />
+<SubTexture name="jon_loco2 idle0051" x="0" y="984" width="352" height="492" frameX="-41" frameY="0" frameWidth="393" frameHeight="492" />
+<SubTexture name="jon_loco2 idle0052" x="352" y="984" width="352" height="492" frameX="-41" frameY="0" frameWidth="393" frameHeight="492" />
+<SubTexture name="jon_loco2 idle0053" x="689" y="1476" width="348" height="478" frameX="-41" frameY="-5" frameWidth="393" frameHeight="492" />
+<SubTexture name="jon_loco2 jon up0000" x="704" y="984" width="340" height="492" frameX="-7" frameY="0" frameWidth="347" frameHeight="492" />
+<SubTexture name="jon_loco2 jon up0001" x="1044" y="984" width="340" height="492" frameX="-7" frameY="0" frameWidth="347" frameHeight="492" />
+<SubTexture name="jon_loco2 jon up0002" x="1724" y="1476" width="340" height="477" frameX="-2" frameY="-6" frameWidth="347" frameHeight="492" />
+<SubTexture name="jon_loco2 jon up0003" x="2115" y="0" width="339" height="477" frameX="-3" frameY="-6" frameWidth="347" frameHeight="492" />
+<SubTexture name="jon_loco2 jon up0004" x="2115" y="477" width="339" height="472" frameX="0" frameY="-8" frameWidth="347" frameHeight="492" />
+<SubTexture name="jon_loco2 jon up0005" x="2115" y="949" width="339" height="472" frameX="0" frameY="-8" frameWidth="347" frameHeight="492" />
+</TextureAtlas>

@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="lasagnaboy-pixel.png">
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY DOWN0000" x="759" y="1601" width="262" height="210" frameX="-15" frameY="-18" frameWidth="286" frameHeight="234" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY DOWN0001" x="759" y="1601" width="262" height="210" frameX="-15" frameY="-18" frameWidth="286" frameHeight="234" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY DOWN0002" x="1021" y="1601" width="258" height="210" frameX="-15" frameY="-18" frameWidth="286" frameHeight="234" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY DOWN0003" x="1021" y="1601" width="258" height="210" frameX="-15" frameY="-18" frameWidth="286" frameHeight="234" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY DOWN0004" x="1279" y="1601" width="262" height="202" frameX="-15" frameY="-26" frameWidth="286" frameHeight="234" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY DOWN0005" x="1279" y="1601" width="262" height="202" frameX="-15" frameY="-26" frameWidth="286" frameHeight="234" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY DOWN0006" x="1279" y="1601" width="262" height="202" frameX="-15" frameY="-26" frameWidth="286" frameHeight="234" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY DOWN0007" x="1279" y="1601" width="262" height="202" frameX="-15" frameY="-26" frameWidth="286" frameHeight="234" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY DOWN0008" x="1279" y="1601" width="262" height="202" frameX="-15" frameY="-26" frameWidth="286" frameHeight="234" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY END TRANSITION0000" x="822" y="1312" width="240" height="276" frameX="-602" frameY="-46" frameWidth="871" frameHeight="361" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY END TRANSITION0001" x="822" y="1312" width="240" height="276" frameX="-602" frameY="-46" frameWidth="871" frameHeight="361" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY END TRANSITION0002" x="822" y="1312" width="240" height="276" frameX="-602" frameY="-46" frameWidth="871" frameHeight="361" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY END TRANSITION0003" x="1787" y="275" width="246" height="261" frameX="-599" frameY="-61" frameWidth="871" frameHeight="361" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY END TRANSITION0004" x="1787" y="275" width="246" height="261" frameX="-599" frameY="-61" frameWidth="871" frameHeight="361" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY END TRANSITION0005" x="1160" y="1000" width="225" height="301" frameX="-624" frameY="-21" frameWidth="871" frameHeight="361" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY END TRANSITION0006" x="1160" y="1000" width="225" height="301" frameX="-624" frameY="-21" frameWidth="871" frameHeight="361" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY END TRANSITION0007" x="0" y="346" width="770" height="336" frameX="-27" frameY="-25" frameWidth="871" frameHeight="361" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY END TRANSITION0008" x="0" y="1000" width="172" height="312" frameX="-28" frameY="-46" frameWidth="871" frameHeight="361" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY END TRANSITION0009" x="0" y="1000" width="172" height="312" frameX="-28" frameY="-46" frameWidth="871" frameHeight="361" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY END TRANSITION0010" x="1144" y="336" width="160" height="319" frameX="-36" frameY="-39" frameWidth="871" frameHeight="361" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY END TRANSITION0011" x="1144" y="336" width="160" height="319" frameX="-36" frameY="-39" frameWidth="871" frameHeight="361" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY IDLE0000" x="438" y="1312" width="185" height="285" frameX="-35" frameY="-70" frameWidth="242" frameHeight="373" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY IDLE0001" x="438" y="1312" width="185" height="285" frameX="-35" frameY="-70" frameWidth="242" frameHeight="373" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY IDLE0002" x="438" y="1312" width="185" height="285" frameX="-35" frameY="-70" frameWidth="242" frameHeight="373" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY IDLE0003" x="986" y="1000" width="174" height="303" frameX="-42" frameY="-52" frameWidth="242" frameHeight="373" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY IDLE0004" x="986" y="1000" width="174" height="303" frameX="-42" frameY="-52" frameWidth="242" frameHeight="373" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY IDLE0005" x="0" y="682" width="168" height="318" frameX="-45" frameY="-37" frameWidth="242" frameHeight="373" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY IDLE0006" x="0" y="682" width="168" height="318" frameX="-45" frameY="-37" frameWidth="242" frameHeight="373" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY IDLE0007" x="168" y="682" width="160" height="318" frameX="-49" frameY="-37" frameWidth="242" frameHeight="373" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY IDLE0008" x="168" y="682" width="160" height="318" frameX="-49" frameY="-37" frameWidth="242" frameHeight="373" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY IDLE0009" x="168" y="682" width="160" height="318" frameX="-49" frameY="-37" frameWidth="242" frameHeight="373" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY IDLE0010" x="168" y="682" width="160" height="318" frameX="-49" frameY="-37" frameWidth="242" frameHeight="373" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY IDLE0011" x="168" y="682" width="160" height="318" frameX="-49" frameY="-37" frameWidth="242" frameHeight="373" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY IDLE0012" x="168" y="682" width="160" height="318" frameX="-49" frameY="-37" frameWidth="242" frameHeight="373" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY IDLE0013" x="168" y="682" width="160" height="318" frameX="-49" frameY="-37" frameWidth="242" frameHeight="373" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY IDLE0014" x="168" y="682" width="160" height="318" frameX="-49" frameY="-37" frameWidth="242" frameHeight="373" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY IDLE0015" x="168" y="682" width="160" height="318" frameX="-49" frameY="-37" frameWidth="242" frameHeight="373" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY IDLE0016" x="168" y="682" width="160" height="318" frameX="-49" frameY="-37" frameWidth="242" frameHeight="373" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY IDLE0017" x="168" y="682" width="160" height="318" frameX="-49" frameY="-37" frameWidth="242" frameHeight="373" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY IDLE0018" x="168" y="682" width="160" height="318" frameX="-49" frameY="-37" frameWidth="242" frameHeight="373" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY IDLE0019" x="168" y="682" width="160" height="318" frameX="-49" frameY="-37" frameWidth="242" frameHeight="373" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY IDLE0020" x="168" y="682" width="160" height="318" frameX="-49" frameY="-37" frameWidth="242" frameHeight="373" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY IDLE0021" x="168" y="682" width="160" height="318" frameX="-49" frameY="-37" frameWidth="242" frameHeight="373" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY IDLE0022" x="168" y="682" width="160" height="318" frameX="-49" frameY="-37" frameWidth="242" frameHeight="373" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY IDLE0023" x="168" y="682" width="160" height="318" frameX="-49" frameY="-37" frameWidth="242" frameHeight="373" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY LEFT0000" x="954" y="336" width="190" height="321" frameX="-9" frameY="-11" frameWidth="224" frameHeight="340" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY LEFT0001" x="954" y="336" width="190" height="321" frameX="-9" frameY="-11" frameWidth="224" frameHeight="340" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY LEFT0002" x="496" y="682" width="179" height="314" frameX="-25" frameY="-18" frameWidth="224" frameHeight="340" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY LEFT0003" x="496" y="682" width="179" height="314" frameX="-25" frameY="-18" frameWidth="224" frameHeight="340" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY LEFT0004" x="675" y="682" width="171" height="314" frameX="-34" frameY="-18" frameWidth="224" frameHeight="340" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY LEFT0005" x="675" y="682" width="171" height="314" frameX="-34" frameY="-18" frameWidth="224" frameHeight="340" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY LEFT0006" x="675" y="682" width="171" height="314" frameX="-34" frameY="-18" frameWidth="224" frameHeight="340" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY LEFT0007" x="675" y="682" width="171" height="314" frameX="-34" frameY="-18" frameWidth="224" frameHeight="340" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY LEFT0008" x="675" y="682" width="171" height="314" frameX="-34" frameY="-18" frameWidth="224" frameHeight="340" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY RIGHT0000" x="343" y="1000" width="239" height="311" frameX="-24" frameY="-21" frameWidth="264" frameHeight="336" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY RIGHT0001" x="343" y="1000" width="239" height="311" frameX="-24" frameY="-21" frameWidth="264" frameHeight="336" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY RIGHT0002" x="582" y="1000" width="225" height="311" frameX="-14" frameY="-21" frameWidth="264" frameHeight="336" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY RIGHT0003" x="582" y="1000" width="225" height="311" frameX="-14" frameY="-21" frameWidth="264" frameHeight="336" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY RIGHT0004" x="846" y="682" width="221" height="314" frameX="-11" frameY="-18" frameWidth="264" frameHeight="336" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY RIGHT0005" x="846" y="682" width="221" height="314" frameX="-11" frameY="-18" frameWidth="264" frameHeight="336" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY RIGHT0006" x="1067" y="682" width="221" height="314" frameX="-10" frameY="-18" frameWidth="264" frameHeight="336" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY RIGHT0007" x="1067" y="682" width="221" height="314" frameX="-10" frameY="-18" frameWidth="264" frameHeight="336" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY RIGHT0008" x="1067" y="682" width="221" height="314" frameX="-10" frameY="-18" frameWidth="264" frameHeight="336" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY SCARED DOWN0000" x="510" y="1601" width="249" height="217" frameX="-9" frameY="-34" frameWidth="258" frameHeight="254" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY SCARED DOWN0001" x="510" y="1601" width="249" height="217" frameX="-9" frameY="-34" frameWidth="258" frameHeight="254" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY SCARED DOWN0002" x="274" y="1601" width="236" height="239" frameX="-20" frameY="-12" frameWidth="258" frameHeight="254" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY SCARED DOWN0003" x="274" y="1601" width="236" height="239" frameX="-20" frameY="-12" frameWidth="258" frameHeight="254" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY SCARED DOWN0004" x="1787" y="1293" width="232" height="242" frameX="-24" frameY="-9" frameWidth="258" frameHeight="254" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY SCARED DOWN0005" x="1787" y="1293" width="232" height="242" frameX="-24" frameY="-9" frameWidth="258" frameHeight="254" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY SCARED DOWN0006" x="1787" y="1293" width="232" height="242" frameX="-24" frameY="-9" frameWidth="258" frameHeight="254" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY SCARED IDLE0000" x="1302" y="1312" width="239" height="275" frameX="-39" frameY="-4" frameWidth="297" frameHeight="284" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY SCARED IDLE0001" x="1302" y="1312" width="239" height="275" frameX="-39" frameY="-4" frameWidth="297" frameHeight="284" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY SCARED IDLE0002" x="1787" y="797" width="257" height="253" frameX="-28" frameY="-26" frameWidth="297" frameHeight="284" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY SCARED IDLE0003" x="1787" y="797" width="257" height="253" frameX="-28" frameY="-26" frameWidth="297" frameHeight="284" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY SCARED IDLE0004" x="1787" y="797" width="257" height="253" frameX="-28" frameY="-26" frameWidth="297" frameHeight="284" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY SCARED IDLE0005" x="0" y="1601" width="274" height="271" frameX="-7" frameY="-8" frameWidth="297" frameHeight="284" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY SCARED IDLE0006" x="0" y="1601" width="274" height="271" frameX="-7" frameY="-8" frameWidth="297" frameHeight="284" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY SCARED IDLE0007" x="0" y="1601" width="274" height="271" frameX="-7" frameY="-8" frameWidth="297" frameHeight="284" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY SCARED IDLE0008" x="1787" y="0" width="271" height="275" frameX="-7" frameY="-4" frameWidth="297" frameHeight="284" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY SCARED IDLE0009" x="1787" y="0" width="271" height="275" frameX="-7" frameY="-4" frameWidth="297" frameHeight="284" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY SCARED IDLE0010" x="1302" y="1312" width="239" height="275" frameX="-39" frameY="-4" frameWidth="297" frameHeight="284" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY SCARED IDLE0011" x="1302" y="1312" width="239" height="275" frameX="-39" frameY="-4" frameWidth="297" frameHeight="284" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY SCARED IDLE0012" x="1302" y="1312" width="239" height="275" frameX="-39" frameY="-4" frameWidth="297" frameHeight="284" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY SCARED IDLE0013" x="1302" y="1312" width="239" height="275" frameX="-39" frameY="-4" frameWidth="297" frameHeight="284" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY SCARED LEFT0000" x="1562" y="301" width="196" height="296" frameX="-9" frameY="-9" frameWidth="238" frameHeight="326" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY SCARED LEFT0001" x="1562" y="301" width="196" height="296" frameX="-9" frameY="-9" frameWidth="238" frameHeight="326" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY SCARED LEFT0002" x="1562" y="890" width="197" height="289" frameX="-21" frameY="-19" frameWidth="238" frameHeight="326" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY SCARED LEFT0003" x="1562" y="890" width="197" height="289" frameX="-21" frameY="-19" frameWidth="238" frameHeight="326" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY SCARED LEFT0004" x="623" y="1312" width="199" height="282" frameX="-23" frameY="-26" frameWidth="238" frameHeight="326" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY SCARED LEFT0005" x="623" y="1312" width="199" height="282" frameX="-23" frameY="-26" frameWidth="238" frameHeight="326" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY SCARED LEFT0006" x="623" y="1312" width="199" height="282" frameX="-23" frameY="-26" frameWidth="238" frameHeight="326" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY SCARED RIGHT0000" x="1562" y="597" width="195" height="293" frameX="-42" frameY="-12" frameWidth="255" frameHeight="314" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY SCARED RIGHT0001" x="1562" y="597" width="195" height="293" frameX="-42" frameY="-12" frameWidth="255" frameHeight="314" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY SCARED RIGHT0002" x="0" y="1312" width="217" height="289" frameX="-24" frameY="-16" frameWidth="255" frameHeight="314" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY SCARED RIGHT0003" x="0" y="1312" width="217" height="289" frameX="-24" frameY="-16" frameWidth="255" frameHeight="314" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY SCARED RIGHT0004" x="217" y="1312" width="221" height="286" frameX="-18" frameY="-19" frameWidth="255" frameHeight="314" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY SCARED RIGHT0005" x="217" y="1312" width="221" height="286" frameX="-18" frameY="-19" frameWidth="255" frameHeight="314" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY SCARED RIGHT0006" x="217" y="1312" width="221" height="286" frameX="-18" frameY="-19" frameWidth="255" frameHeight="314" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY SCARED RIGHT0007" x="217" y="1312" width="221" height="286" frameX="-18" frameY="-19" frameWidth="255" frameHeight="314" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY SCARED TRANSITION0000" x="1304" y="336" width="160" height="319" frameX="-67" frameY="-39" frameWidth="902" frameHeight="361" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY SCARED TRANSITION0001" x="1304" y="336" width="160" height="319" frameX="-67" frameY="-39" frameWidth="902" frameHeight="361" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY SCARED TRANSITION0002" x="172" y="1000" width="171" height="312" frameX="-60" frameY="-46" frameWidth="902" frameHeight="361" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY SCARED TRANSITION0003" x="1787" y="1050" width="215" height="243" frameX="-27" frameY="-115" frameWidth="902" frameHeight="361" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY SCARED TRANSITION0004" x="1787" y="1050" width="215" height="243" frameX="-27" frameY="-115" frameWidth="902" frameHeight="361" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY SCARED TRANSITION0005" x="1541" y="1312" width="207" height="240" frameX="-35" frameY="-118" frameWidth="902" frameHeight="361" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY SCARED TRANSITION0006" x="1541" y="1312" width="207" height="240" frameX="-35" frameY="-118" frameWidth="902" frameHeight="361" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY SCARED TRANSITION0007" x="1541" y="1312" width="207" height="240" frameX="-35" frameY="-118" frameWidth="902" frameHeight="361" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY SCARED TRANSITION0008" x="551" y="0" width="240" height="337" frameX="-56" frameY="-21" frameWidth="902" frameHeight="361" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY SCARED TRANSITION0009" x="551" y="0" width="240" height="337" frameX="-56" frameY="-21" frameWidth="902" frameHeight="361" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY SCARED TRANSITION0010" x="311" y="0" width="240" height="340" frameX="-56" frameY="-18" frameWidth="902" frameHeight="361" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY SCARED TRANSITION0011" x="311" y="0" width="240" height="340" frameX="-56" frameY="-18" frameWidth="902" frameHeight="361" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY SCARED TRANSITION0012" x="551" y="0" width="240" height="337" frameX="-56" frameY="-21" frameWidth="902" frameHeight="361" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY SCARED TRANSITION0013" x="551" y="0" width="240" height="337" frameX="-56" frameY="-21" frameWidth="902" frameHeight="361" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY SCARED TRANSITION0014" x="311" y="0" width="240" height="340" frameX="-56" frameY="-18" frameWidth="902" frameHeight="361" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY SCARED TRANSITION0015" x="311" y="0" width="240" height="340" frameX="-56" frameY="-18" frameWidth="902" frameHeight="361" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY SCARED TRANSITION0016" x="551" y="0" width="240" height="337" frameX="-56" frameY="-21" frameWidth="902" frameHeight="361" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY SCARED TRANSITION0017" x="551" y="0" width="240" height="337" frameX="-56" frameY="-21" frameWidth="902" frameHeight="361" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY SCARED TRANSITION0018" x="311" y="0" width="240" height="340" frameX="-56" frameY="-18" frameWidth="902" frameHeight="361" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY SCARED TRANSITION0019" x="311" y="0" width="240" height="340" frameX="-56" frameY="-18" frameWidth="902" frameHeight="361" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY SCARED TRANSITION0020" x="551" y="0" width="240" height="337" frameX="-56" frameY="-21" frameWidth="902" frameHeight="361" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY SCARED TRANSITION0021" x="551" y="0" width="240" height="337" frameX="-56" frameY="-21" frameWidth="902" frameHeight="361" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY SCARED TRANSITION0022" x="791" y="0" width="771" height="336" frameX="-58" frameY="-25" frameWidth="902" frameHeight="361" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY SCARED TRANSITION0023" x="1562" y="0" width="225" height="301" frameX="-655" frameY="-21" frameWidth="902" frameHeight="361" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY SCARED TRANSITION0024" x="1562" y="0" width="225" height="301" frameX="-655" frameY="-21" frameWidth="902" frameHeight="361" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY SCARED TRANSITION0025" x="1787" y="536" width="246" height="261" frameX="-630" frameY="-61" frameWidth="902" frameHeight="361" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY SCARED TRANSITION0026" x="1787" y="536" width="246" height="261" frameX="-630" frameY="-61" frameWidth="902" frameHeight="361" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY SCARED TRANSITION0027" x="1062" y="1312" width="240" height="276" frameX="-633" frameY="-46" frameWidth="902" frameHeight="361" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY SCARED TRANSITION0028" x="1062" y="1312" width="240" height="276" frameX="-633" frameY="-46" frameWidth="902" frameHeight="361" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY SCARED TRANSITION0029" x="1062" y="1312" width="240" height="276" frameX="-633" frameY="-46" frameWidth="902" frameHeight="361" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY SCARED UP0000" x="328" y="682" width="168" height="315" frameX="-28" frameY="-11" frameWidth="209" frameHeight="344" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY SCARED UP0001" x="328" y="682" width="168" height="315" frameX="-28" frameY="-11" frameWidth="209" frameHeight="344" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY SCARED UP0002" x="1288" y="682" width="175" height="314" frameX="-14" frameY="-15" frameWidth="209" frameHeight="344" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY SCARED UP0003" x="1288" y="682" width="175" height="314" frameX="-14" frameY="-15" frameWidth="209" frameHeight="344" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY SCARED UP0004" x="807" y="1000" width="179" height="311" frameX="-10" frameY="-18" frameWidth="209" frameHeight="344" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY SCARED UP0005" x="807" y="1000" width="179" height="311" frameX="-10" frameY="-18" frameWidth="209" frameHeight="344" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY SCARED UP0006" x="807" y="1000" width="179" height="311" frameX="-10" frameY="-18" frameWidth="209" frameHeight="344" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY UP0000" x="0" y="0" width="155" height="346" frameX="-17" frameY="-8" frameWidth="198" frameHeight="362" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY UP0001" x="0" y="0" width="155" height="346" frameX="-17" frameY="-8" frameWidth="198" frameHeight="362" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY UP0002" x="155" y="0" width="156" height="343" frameX="-24" frameY="-11" frameWidth="198" frameHeight="362" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY UP0003" x="155" y="0" width="156" height="343" frameX="-24" frameY="-11" frameWidth="198" frameHeight="362" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY UP0004" x="791" y="336" width="163" height="336" frameX="-24" frameY="-18" frameWidth="198" frameHeight="362" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY UP0005" x="791" y="336" width="163" height="336" frameX="-24" frameY="-18" frameWidth="198" frameHeight="362" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY UP0006" x="791" y="336" width="163" height="336" frameX="-24" frameY="-18" frameWidth="198" frameHeight="362" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY UP0007" x="791" y="336" width="163" height="336" frameX="-24" frameY="-18" frameWidth="198" frameHeight="362" />
+<SubTexture name="lasagnaboy-pixel LASAGNA BOY UP0008" x="791" y="336" width="163" height="336" frameX="-24" frameY="-18" frameWidth="198" frameHeight="362" />
+</TextureAtlas>

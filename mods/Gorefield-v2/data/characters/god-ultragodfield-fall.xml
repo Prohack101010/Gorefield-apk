@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character color="#346756" sprite="SUPERGODFIELD_ASSETS" x="-410" isGF="false" y="-420" camx="-200" icon="GODFIELD_TRUE_FORM" camy="420" scale="3" isPlayer="false" noLosingIcon="true" animatedIcon="true" iconoffsetx="10" iconoffsety="-35">
+	<anim x="0" loop="true" y="0" fps="24" anim="SUPERGODFIELD IDLE" name="idle"/>
+	<anim x="-16" loop="false" y="0" fps="24" anim="GODFIELD LEFT" name="singLEFT"/>
+	<anim x="-1" loop="false" y="-0.5" fps="24" anim="GODFIELD DOWN" name="singDOWN"/>
+	<anim x="0" loop="false" y="-1" fps="24" anim="GODFIELD UP" name="singUP"/>
+	<anim x="10" loop="false" y="-1" fps="24" anim="GODFIELD RIGHT" name="singRIGHT"/>
+</character>

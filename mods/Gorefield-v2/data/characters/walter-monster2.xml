@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<character x="-28" y="55" camx="195" icon="garfield" isGF="false" camy="280" iconColor="-10855846" scale="1.8" flipX="false" isPlayer="false" holdTime="2" gameOverChar="" antialiasing="true" sprite="MONSTER_WALTER">
+	<anim loop="false" x="6" anim="MONSTER_WALTER MONSTER WALTER IDLE" fps="24" y="-4" name="idle" indices="[]"/>
+	<anim loop="false" x="6" anim="MONSTER_WALTER MONSTER WALTER LEFT" fps="24" y="-2" name="singLEFT" indices="[]"/>
+	<anim loop="false" x="6" anim="MONSTER_WALTER MONSTER WALTER DOWN" fps="24" y="-2" name="singDOWN" indices="[]"/>
+	<anim loop="false" x="6" anim="MONSTER_WALTER MONSTER WALTER UP" fps="24" y="-2" name="singUP" indices="[]"/>
+	<anim loop="false" x="6" anim="MONSTER_WALTER MONSTER WALTER RIGHT" fps="24" y="-2" name="singRIGHT" indices="[]"/>
+	<anim loop="false" x="18" anim="MONSTER_WALTER idle" fps="24" y="0" name="running" indices="[]"/>
+</character>

@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="CRYFIELD_CARGA_01.png">
+<SubTexture name="CRYFIELD CARGA 0000" x="0" y="0" width="900" height="1097" frameX="0" frameY="0" frameWidth="902" frameHeight="1098" />
+</TextureAtlas>

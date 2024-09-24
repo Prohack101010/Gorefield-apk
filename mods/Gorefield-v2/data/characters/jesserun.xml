@@ -1,0 +1,13 @@
+<!DOCTYPE codename-engine-character>
+<character x="-118" y="482" camx="230" icon="bf-house" isGF="false" camy="-280" iconColor="-10855846" scale="1.4" flipX="true" isPlayer="true" holdTime="1.5" gameOverChar="jesse-death" antialiasing="true" sprite="JESSEE_RUN">
+	<anim loop="true" x="0" anim="JESSEE_RUN RUN JESSE IDLE" fps="24" y="0" name="idle" indices="[]"/>
+	<anim loop="false" x="0" anim="JESSEE_RUN RUN JESSE LEFT" fps="24" y="0" name="singLEFT" indices="[]"/>
+	<anim loop="false" x="0" anim="JESSEE_RUN RUN JESSEE DOWN" fps="24" y="0" name="singDOWN" indices="[]"/>
+	<anim loop="false" x="0" anim="JESSEE_RUN RUN JESSEE UP" fps="24" y="0" name="singUP" indices="[]"/>
+	<anim loop="false" x="0" anim="JESSEE_RUN RUN JESSEE RIGHT" fps="24" y="0" name="singRIGHT" indices="[]"/>
+	<anim loop="false" x="0" anim="RUN MISS LEFT0" fps="24" y="-2" name="singLEFTmiss" indices="[]"/>
+	<anim loop="false" x="0" anim="RUN MISS DOWN" fps="24" y="0" name="singDOWNmiss" indices="[]"/>
+	<anim loop="false" x="0" anim="RUN MISS UP" fps="24" y="45" name="singUPmiss" indices="[]"/>
+	<anim loop="false" x="0" anim="RUN MISS RIGHT" fps="24" y="0" name="singRIGHTmiss" indices="[]"/>
+	<anim loop="false" x="0" anim="JESSEE_RUN RUN BITCH" fps="24" y="0" name="bitch" indices="[]"/>
+</character>

@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<character color="#201035" sprite="bigotes" x="200" isGF="false" y="200" icon="bigotes" scale="2" isPlayer="false" iconoffsetx="-30" animatedIcon="true" iconoffsety="-28">
+	<anim x="-61" loop="false" y="-78" fps="8" anim="SR BIGotes RIGHT" name="singRIGHT"/>
+	<anim x="0" loop="false" y="55" fps="8" anim="SR BIGotes UP" name="singUP"/>
+	<anim x="0" loop="false" y="-215" fps="8" anim="SR BIGotes DOWN" name="singDOWN"/>
+	<anim x="260" loop="false" y="-75" fps="8" anim="SR BIGotes LEFT" name="singLEFT"/>
+	<anim x="0" loop="false" y="0" fps="8" anim="SR BIGotes IDLE" name="idle"/>
+	<anim x="0" loop="true" y="0" fps="8" anim="SR BIGotes IDLE" indices="8,13,14" name="idle-loop"/>
+</character>

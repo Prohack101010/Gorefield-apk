@@ -1,0 +1,28 @@
+<!DOCTYPE codename-engine-character>
+<character iconScale="0.9" color="#31B0D1" sprite="bf-sb" x="200" isGF="false" y="550" icon="BF_sansfield" scale="2" isPlayer="true" flipX="true" gameOverChar="bf-black" animatedIcon="true" iconoffsetx="2" iconoffsety="-10">
+	<anim x="-5" loop="false" y="0" fps="24" anim="BF idle dance" name="idle"/>
+	<anim x="3" loop="false" y="-6" fps="24" anim="BF NOTE LEFT0" name="singLEFT"/>
+	<anim x="-8" loop="false" y="-26" fps="24" anim="BF NOTE DOWN0" name="singDOWN"/>
+	<anim x="-18" loop="false" y="14" fps="24" anim="BF NOTE UP0" name="singUP"/>
+	<anim x="-24" loop="false" y="-6" fps="24" anim="BF NOTE RIGHT0" name="singRIGHT"/>
+	<anim x="4" loop="false" y="9" fps="24" anim="BF NOTE LEFT MISS" name="singLEFTmiss"/>
+	<anim x="-6" loop="false" y="-10" fps="24" anim="BF NOTE DOWN MISS" name="singDOWNmiss"/>
+	<anim x="-16" loop="false" y="13" fps="24" anim="BF NOTE UP MISS" name="singUPmiss"/>
+	<anim x="-20" loop="false" y="10" fps="24" anim="BF NOTE RIGHT MISS" name="singRIGHTmiss"/>
+	<anim x="-25" loop="false" y="1" fps="24" anim="BF HEY" name="hey"/>
+	<anim x="31" loop="false" y="10" fps="24" anim="BF dies" name="firstDeath"/>
+	<anim x="31" loop="true" y="4" fps="24" anim="BF Dead Loop" name="deathLoop"/>
+	<anim x="31" loop="false" y="68" fps="24" anim="BF Dead confirm" name="deathConfirm"/>
+	<anim x="2" loop="false" y="8" fps="24" anim="dodge UP" name="singUP-dodge"/>
+	<anim x="80" loop="false" y="-41" fps="24" anim="dodge DOWN" name="singDOWN-dodge"/>
+	<anim x="22" loop="false" y="-39" fps="24" anim="dodge LEFT" name="singLEFT-dodge"/>
+	<anim x="-31" loop="false" y="-30" fps="24" anim="dodge RIGHT" name="singRIGHT-dodge"/>
+	<anim x="-2" loop="false" y="31" fps="24" anim="BF UP BEATBOX" name="singUP-beatbox"/>
+	<anim x="37" loop="false" y="-53" fps="24" anim="BF DOWN BEATBOX" name="singDOWN-beatbox"/>
+	<anim x="57" loop="false" y="2" fps="24" anim="BF LEFT BEATBOX" name="singLEFT-beatbox"/>
+	<anim x="-43" loop="false" y="-4" fps="24" anim="BF RIGHT  BEATBOX" name="singRIGHT-beatbox"/>
+	<anim x="-61" loop="false" y="77" fps="24" anim="ALT 2 BF UP" name="singUP-alt"/>
+	<anim x="-18" loop="false" y="-17" fps="24" anim="ALT 2 BF DOWN" name="singDOWN-alt"/>
+	<anim x="16" loop="false" y="-1" fps="24" anim="ALT 2 BF LEFT" name="singLEFT-alt"/>
+	<anim x="-57" loop="false" y="54" fps="24" anim="ALT 2 BF RIGHT" name="singRIGHT-alt"/>
+</character>

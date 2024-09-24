@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="200" icon="icon-sansfield" camx="-130" y="200" isGF="false" scale="2" camy="50" color="#D3E1FF" isPlayer="false" iconoffsetx="-12" holdTime="6.1" iconoffsety="-15" sprite="sansfield">
+	<anim x="0" loop="false" y="0" fps="24" anim="SANSFIELD IDLE" name="idle"/>
+	<anim x="16" loop="false" y="-14" fps="24" anim="SANSFIELD LEFT" name="singLEFT"/>
+	<anim x="4" loop="false" y="-76" fps="24" anim="SANSFIELD DOWN" name="singDOWN"/>
+	<anim x="-10" loop="false" y="13" fps="24" anim="SANSFIELD UP" name="singUP"/>
+	<anim x="-34" loop="false" y="-48" fps="24" anim="SANSFIELD RIGHT" name="singRIGHT"/>
+</character>

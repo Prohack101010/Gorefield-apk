@@ -1,0 +1,11 @@
+<!DOCTYPE codename-engine-character>
+<character color="#D44D29" sprite="garfield" x="150" isGF="false" y="150" camx="-70" icon="garfield" scale="2" isPlayer="false" holdTime="3" animatedIcon="true" iconoffsetx="-30" iconoffsety="-18">
+	<anim x="0" loop="false" y="0" fps="24" anim="Garfield idle" name="idle"/>
+	<anim x="18" loop="false" y="2" fps="24" anim="Garfield L" name="singLEFT"/>
+	<anim x="-18" loop="false" y="-8" fps="24" anim="Garfield D" name="singDOWN"/>
+	<anim x="9" loop="false" y="0" fps="24" anim="Garfield Up" name="singUP"/>
+	<anim x="-10" loop="false" y="3" fps="24" anim="Garfield R" name="singRIGHT"/>
+	<anim x="-1" loop="false" y="3" fps="24" anim="transicion" name="transition"/>
+	<anim x="-17" loop="true" y="-7" fps="24" anim="te veo" name="scary"/>
+	<anim x="0" loop="true" y="0" fps="24" anim="Garfield idle" indices="15,16" name="idle-loop"/>
+</character>

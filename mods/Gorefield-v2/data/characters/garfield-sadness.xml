@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<character x="-150" icon="icon-garsad" camx="-250" y="220" isGF="false" scale="2" camy="40" color="#D44D29" flipX="true" isPlayer="true" gameOverChar="face" holdTime="1.5" sprite="garfield_negocia">
+	<anim x="0" loop="true" y="0" fps="24" anim="garfield negocia idle" name="idle"/>
+	<anim x="35" loop="false" y="-3" fps="24" anim="garfield negocia left0" name="singLEFT"/>
+	<anim x="15" loop="false" y="-22" fps="24" anim="garfield negocia down0" name="singDOWN"/>
+	<anim x="20" loop="false" y="24" fps="24" anim="garfield negocia up0" name="singUP"/>
+	<anim x="-10" loop="false" y="-14" fps="24" anim="garfield negocia right0" name="singRIGHT"/>
+	<anim x="-70" loop="false" y="-11" fps="24" anim="garfield negocia left miss" name="singLEFTmiss"/>
+	<anim x="40" loop="false" y="41" fps="24" anim="garfield negocia down miss" name="singDOWNmiss"/>
+	<anim x="-13" loop="false" y="180" fps="24" anim="garfield negocia up miss" name="singUPmiss"/>
+	<anim x="107" loop="false" y="101" fps="24" anim="garfield negocia right miss" name="singRIGHTmiss"/>
+</character>

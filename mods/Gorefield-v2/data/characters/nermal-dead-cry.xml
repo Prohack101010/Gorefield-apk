@@ -1,0 +1,6 @@
+<!DOCTYPE codename-engine-character>
+<character x="200" icon="face" camx="-130" y="200" isGF="false" scale="2" camy="50" color="#D3E1FF" flipX="true" isPlayer="true" holdTime="6.1" sprite="nermal-dead-cry">
+	<anim x="0" loop="false" y="0" fps="24" anim="NERMAL DEATH" name="firstDeath"/>
+	<anim x="-115" loop="true" y="0" fps="24" anim="NERMALL LOOP" name="deathLoop"/>
+	<anim x="-90" loop="false" y="203" fps="24" anim="NERMAL CONFIRM" name="deathConfirm"/>
+</character>

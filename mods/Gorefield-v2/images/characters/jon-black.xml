@@ -1,0 +1,221 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="jon-black.png">
+<SubTexture name="jon-black JON DEATH SANSFIELD0000" x="1646" y="218" width="109" height="215" frameX="-104" frameY="-49" frameWidth="273" frameHeight="273" />
+<SubTexture name="jon-black JON DEATH SANSFIELD0001" x="1646" y="218" width="109" height="215" frameX="-104" frameY="-49" frameWidth="273" frameHeight="273" />
+<SubTexture name="jon-black JON DEATH SANSFIELD0002" x="953" y="796" width="111" height="221" frameX="-105" frameY="-45" frameWidth="273" frameHeight="273" />
+<SubTexture name="jon-black JON DEATH SANSFIELD0003" x="953" y="796" width="111" height="221" frameX="-105" frameY="-45" frameWidth="273" frameHeight="273" />
+<SubTexture name="jon-black JON DEATH SANSFIELD0004" x="473" y="536" width="195" height="239" frameX="-36" frameY="-27" frameWidth="273" frameHeight="273" />
+<SubTexture name="jon-black JON DEATH SANSFIELD0005" x="473" y="536" width="195" height="239" frameX="-36" frameY="-27" frameWidth="273" frameHeight="273" />
+<SubTexture name="jon-black JON DEATH SANSFIELD0006" x="0" y="273" width="156" height="263" frameX="-15" frameY="-3" frameWidth="273" frameHeight="273" />
+<SubTexture name="jon-black JON DEATH SANSFIELD0007" x="0" y="273" width="156" height="263" frameX="-15" frameY="-3" frameWidth="273" frameHeight="273" />
+<SubTexture name="jon-black JON DEATH SANSFIELD0008" x="975" y="0" width="167" height="229" frameX="0" frameY="-36" frameWidth="273" frameHeight="273" />
+<SubTexture name="jon-black JON DEATH SANSFIELD0009" x="975" y="0" width="167" height="229" frameX="0" frameY="-36" frameWidth="273" frameHeight="273" />
+<SubTexture name="jon-black JON DEATH SANSFIELD0010" x="427" y="273" width="140" height="254" frameX="-19" frameY="-13" frameWidth="273" frameHeight="273" />
+<SubTexture name="jon-black JON DEATH SANSFIELD0011" x="427" y="273" width="140" height="254" frameX="-19" frameY="-13" frameWidth="273" frameHeight="273" />
+<SubTexture name="jon-black JON DEATH SANSFIELD0012" x="273" y="0" width="146" height="265" frameX="-22" frameY="0" frameWidth="273" frameHeight="273" />
+<SubTexture name="jon-black JON DEATH SANSFIELD0013" x="273" y="0" width="146" height="265" frameX="-22" frameY="0" frameWidth="273" frameHeight="273" />
+<SubTexture name="jon-black JON DEATH SANSFIELD0014" x="156" y="273" width="135" height="261" frameX="-24" frameY="-6" frameWidth="273" frameHeight="273" />
+<SubTexture name="jon-black JON DEATH SANSFIELD0015" x="419" y="0" width="152" height="265" frameX="-15" frameY="0" frameWidth="273" frameHeight="273" />
+<SubTexture name="jon-black JON DEATH SANSFIELD0016" x="291" y="273" width="136" height="261" frameX="-23" frameY="-6" frameWidth="273" frameHeight="273" />
+<SubTexture name="jon-black JON DEATH SANSFIELD0017" x="248" y="536" width="225" height="244" frameX="-31" frameY="-25" frameWidth="273" frameHeight="273" />
+<SubTexture name="jon-black JON DEATH SANSFIELD0018" x="0" y="536" width="248" height="260" frameX="-24" frameY="-13" frameWidth="273" frameHeight="273" />
+<SubTexture name="jon-black JON DEATH SANSFIELD0019" x="571" y="0" width="247" height="261" frameX="-26" frameY="-11" frameWidth="273" frameHeight="273" />
+<SubTexture name="jon-black JON DEATH SANSFIELD0020" x="571" y="261" width="230" height="257" frameX="-40" frameY="-11" frameWidth="273" frameHeight="273" />
+<SubTexture name="jon-black JON DEATH SANSFIELD0021" x="1463" y="0" width="183" height="220" frameX="-82" frameY="-47" frameWidth="273" frameHeight="273" />
+<SubTexture name="jon-black JON DEATH SANSFIELD0022" x="1646" y="1287" width="61" height="147" frameX="-82" frameY="-120" frameWidth="273" frameHeight="273" />
+<SubTexture name="jon-black JON DEATH SANSFIELD0023" x="1574" y="660" width="61" height="146" frameX="-82" frameY="-122" frameWidth="273" frameHeight="273" />
+<SubTexture name="jon-black JON DEATH SANSFIELD0024" x="1574" y="660" width="61" height="146" frameX="-82" frameY="-122" frameWidth="273" frameHeight="273" />
+<SubTexture name="jon-black JON DEATH SANSFIELD0025" x="1580" y="879" width="61" height="140" frameX="-82" frameY="-128" frameWidth="273" frameHeight="273" />
+<SubTexture name="jon-black JON DEATH SANSFIELD0026" x="1580" y="879" width="61" height="140" frameX="-82" frameY="-128" frameWidth="273" frameHeight="273" />
+<SubTexture name="jon-black JON DEATH SANSFIELD0027" x="1463" y="1098" width="61" height="111" frameX="-82" frameY="-157" frameWidth="273" frameHeight="273" />
+<SubTexture name="jon-black JON DEATH SANSFIELD0028" x="1524" y="1098" width="61" height="96" frameX="-82" frameY="-172" frameWidth="273" frameHeight="273" />
+<SubTexture name="jon-black JON DEATH SANSFIELD0029" x="1574" y="806" width="33" height="69" frameX="-93" frameY="-199" frameWidth="273" frameHeight="273" />
+<SubTexture name="jon-black JON DEATH SANSFIELD0030" x="0" y="0" width="273" height="273" frameX="0" frameY="0" frameWidth="273" frameHeight="273" />
+<SubTexture name="jon-black JON DOWN0000" x="1039" y="1463" width="133" height="201" frameX="0" frameY="-1" frameWidth="133" frameHeight="202" />
+<SubTexture name="jon-black JON DOWN0001" x="1039" y="1463" width="133" height="201" frameX="0" frameY="-1" frameWidth="133" frameHeight="202" />
+<SubTexture name="jon-black JON DOWN0002" x="778" y="1463" width="131" height="202" frameX="0" frameY="0" frameWidth="133" frameHeight="202" />
+<SubTexture name="jon-black JON DOWN0003" x="778" y="1463" width="131" height="202" frameX="0" frameY="0" frameWidth="133" frameHeight="202" />
+<SubTexture name="jon-black JON DOWN0004" x="909" y="1463" width="130" height="202" frameX="0" frameY="0" frameWidth="133" frameHeight="202" />
+<SubTexture name="jon-black JON DOWN0005" x="909" y="1463" width="130" height="202" frameX="0" frameY="0" frameWidth="133" frameHeight="202" />
+<SubTexture name="jon-black JON DOWN0006" x="909" y="1463" width="130" height="202" frameX="0" frameY="0" frameWidth="133" frameHeight="202" />
+<SubTexture name="jon-black JON DOWN0007" x="909" y="1463" width="130" height="202" frameX="0" frameY="0" frameWidth="133" frameHeight="202" />
+<SubTexture name="jon-black JON LEFT0000" x="0" y="1463" width="149" height="217" frameX="-1" frameY="-1" frameWidth="150" frameHeight="218" />
+<SubTexture name="jon-black JON LEFT0001" x="0" y="1463" width="149" height="217" frameX="-1" frameY="-1" frameWidth="150" frameHeight="218" />
+<SubTexture name="jon-black JON LEFT0002" x="1202" y="1244" width="147" height="218" frameX="0" frameY="0" frameWidth="150" frameHeight="218" />
+<SubTexture name="jon-black JON LEFT0003" x="1202" y="1244" width="147" height="218" frameX="0" frameY="0" frameWidth="150" frameHeight="218" />
+<SubTexture name="jon-black JON LEFT0004" x="1349" y="1244" width="146" height="218" frameX="-1" frameY="0" frameWidth="150" frameHeight="218" />
+<SubTexture name="jon-black JON LEFT0005" x="1349" y="1244" width="146" height="218" frameX="-1" frameY="0" frameWidth="150" frameHeight="218" />
+<SubTexture name="jon-black idle0000" x="1748" y="433" width="7" height="24" frameX="0" frameY="-35" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0001" x="1748" y="433" width="7" height="24" frameX="0" frameY="-35" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0002" x="1607" y="806" width="19" height="58" frameX="0" frameY="-13" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0003" x="1607" y="806" width="19" height="58" frameX="0" frameY="-13" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0004" x="1585" y="1098" width="21" height="91" frameX="0" frameY="-13" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0005" x="1585" y="1098" width="21" height="91" frameX="0" frameY="-13" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0006" x="1707" y="1287" width="38" height="116" frameX="0" frameY="-18" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0007" x="1707" y="1287" width="38" height="116" frameX="0" frameY="-18" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0008" x="1698" y="433" width="50" height="213" frameX="0" frameY="-7" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0009" x="1698" y="433" width="50" height="213" frameX="0" frameY="-7" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0010" x="1646" y="433" width="52" height="215" frameX="0" frameY="-8" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0011" x="1646" y="433" width="52" height="215" frameX="0" frameY="-8" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0012" x="1571" y="440" width="69" height="211" frameX="0" frameY="-12" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0013" x="1571" y="440" width="69" height="211" frameX="0" frameY="-12" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0014" x="668" y="536" width="81" height="222" frameX="0" frameY="-1" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0015" x="668" y="536" width="81" height="222" frameX="0" frameY="-1" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0016" x="1360" y="663" width="83" height="218" frameX="0" frameY="-5" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0017" x="1360" y="663" width="83" height="218" frameX="0" frameY="-5" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0018" x="1646" y="863" width="100" height="212" frameX="0" frameY="-11" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0019" x="1646" y="863" width="100" height="212" frameX="0" frameY="-11" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0020" x="845" y="796" width="108" height="222" frameX="-4" frameY="-1" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0021" x="845" y="796" width="108" height="222" frameX="-4" frameY="-1" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0022" x="1142" y="663" width="110" height="218" frameX="-4" frameY="-5" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0023" x="1142" y="663" width="110" height="218" frameX="-4" frameY="-5" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0024" x="1646" y="1075" width="108" height="212" frameX="-23" frameY="-11" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0025" x="1646" y="1075" width="108" height="212" frameX="-23" frameY="-11" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0026" x="845" y="796" width="108" height="222" frameX="-35" frameY="-1" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0027" x="845" y="796" width="108" height="222" frameX="-35" frameY="-1" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0028" x="1142" y="663" width="110" height="218" frameX="-35" frameY="-5" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0029" x="1142" y="663" width="110" height="218" frameX="-35" frameY="-5" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0030" x="669" y="1463" width="109" height="212" frameX="-53" frameY="-11" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0031" x="149" y="1463" width="114" height="215" frameX="-52" frameY="-8" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0032" x="149" y="1463" width="114" height="215" frameX="-52" frameY="-8" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0033" x="149" y="1463" width="114" height="215" frameX="-52" frameY="-8" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0034" x="1495" y="1244" width="110" height="218" frameX="-51" frameY="-5" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0035" x="1495" y="1244" width="110" height="218" frameX="-51" frameY="-5" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0036" x="1646" y="0" width="110" height="218" frameX="-50" frameY="-5" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0037" x="1646" y="0" width="110" height="218" frameX="-50" frameY="-5" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0038" x="1142" y="0" width="110" height="221" frameX="-50" frameY="-5" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0039" x="1142" y="0" width="110" height="221" frameX="-50" frameY="-5" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0040" x="1142" y="0" width="110" height="221" frameX="-50" frameY="-5" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0041" x="1142" y="0" width="110" height="221" frameX="-50" frameY="-5" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0042" x="1142" y="0" width="110" height="221" frameX="-50" frameY="-5" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0043" x="1142" y="0" width="110" height="221" frameX="-50" frameY="-5" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0044" x="1142" y="0" width="110" height="221" frameX="-50" frameY="-5" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0045" x="1142" y="0" width="110" height="221" frameX="-50" frameY="-5" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0046" x="1142" y="0" width="110" height="221" frameX="-50" frameY="-5" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0047" x="1142" y="0" width="110" height="221" frameX="-50" frameY="-5" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0048" x="1142" y="0" width="110" height="221" frameX="-50" frameY="-5" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0049" x="1142" y="0" width="110" height="221" frameX="-50" frameY="-5" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0050" x="1142" y="0" width="110" height="221" frameX="-50" frameY="-5" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0051" x="1142" y="0" width="110" height="221" frameX="-50" frameY="-5" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0052" x="1142" y="0" width="110" height="221" frameX="-50" frameY="-5" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0053" x="1142" y="0" width="110" height="221" frameX="-50" frameY="-5" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0054" x="1142" y="0" width="110" height="221" frameX="-50" frameY="-5" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0055" x="1142" y="0" width="110" height="221" frameX="-50" frameY="-5" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0056" x="1142" y="0" width="110" height="221" frameX="-50" frameY="-5" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0057" x="1142" y="0" width="110" height="221" frameX="-50" frameY="-5" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0058" x="0" y="1023" width="175" height="221" frameX="-40" frameY="-5" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0059" x="0" y="1023" width="175" height="221" frameX="-40" frameY="-5" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0060" x="1463" y="220" width="182" height="220" frameX="-42" frameY="-6" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0061" x="1463" y="220" width="182" height="220" frameX="-42" frameY="-6" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0062" x="0" y="1244" width="185" height="219" frameX="-44" frameY="-7" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0063" x="0" y="1244" width="185" height="219" frameX="-44" frameY="-7" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0064" x="185" y="1244" width="188" height="219" frameX="-44" frameY="-7" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0065" x="185" y="1244" width="188" height="219" frameX="-44" frameY="-7" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0066" x="373" y="1244" width="188" height="219" frameX="-44" frameY="-7" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0067" x="373" y="1244" width="188" height="219" frameX="-44" frameY="-7" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0068" x="1463" y="660" width="111" height="219" frameX="-44" frameY="-7" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0069" x="1463" y="660" width="111" height="219" frameX="-44" frameY="-7" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0070" x="1463" y="660" width="111" height="219" frameX="-44" frameY="-7" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0071" x="1463" y="660" width="111" height="219" frameX="-44" frameY="-7" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0072" x="1463" y="660" width="111" height="219" frameX="-44" frameY="-7" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0073" x="1463" y="879" width="117" height="219" frameX="-24" frameY="-7" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0074" x="1463" y="879" width="117" height="219" frameX="-24" frameY="-7" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0075" x="561" y="1244" width="125" height="219" frameX="-17" frameY="-7" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0076" x="561" y="1244" width="125" height="219" frameX="-17" frameY="-7" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0077" x="686" y="1244" width="132" height="219" frameX="-14" frameY="-7" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0078" x="686" y="1244" width="132" height="219" frameX="-14" frameY="-7" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0079" x="818" y="1244" width="135" height="219" frameX="-12" frameY="-7" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0080" x="818" y="1244" width="135" height="219" frameX="-12" frameY="-7" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0081" x="953" y="1244" width="137" height="219" frameX="-10" frameY="-7" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0082" x="953" y="1244" width="137" height="219" frameX="-10" frameY="-7" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0083" x="1090" y="1244" width="112" height="219" frameX="-35" frameY="-7" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0084" x="1090" y="1244" width="112" height="219" frameX="-35" frameY="-7" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0085" x="1090" y="1244" width="112" height="219" frameX="-35" frameY="-7" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0086" x="1090" y="1244" width="112" height="219" frameX="-35" frameY="-7" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0087" x="1090" y="1244" width="112" height="219" frameX="-35" frameY="-7" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0088" x="1090" y="1244" width="112" height="219" frameX="-35" frameY="-7" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0089" x="1090" y="1244" width="112" height="219" frameX="-35" frameY="-7" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0090" x="1090" y="1244" width="112" height="219" frameX="-35" frameY="-7" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0091" x="1090" y="1244" width="112" height="219" frameX="-35" frameY="-7" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0092" x="1090" y="1244" width="112" height="219" frameX="-35" frameY="-7" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0093" x="1090" y="1244" width="112" height="219" frameX="-35" frameY="-7" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0094" x="1090" y="1244" width="112" height="219" frameX="-35" frameY="-7" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0095" x="1090" y="1244" width="112" height="219" frameX="-35" frameY="-7" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0096" x="975" y="229" width="148" height="227" frameX="-22" frameY="0" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0097" x="975" y="229" width="148" height="227" frameX="-22" frameY="0" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0098" x="818" y="230" width="156" height="225" frameX="-22" frameY="-2" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0099" x="818" y="230" width="156" height="225" frameX="-22" frameY="-2" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0100" x="159" y="796" width="161" height="224" frameX="-31" frameY="-3" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0101" x="159" y="796" width="161" height="224" frameX="-31" frameY="-3" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0102" x="320" y="796" width="160" height="224" frameX="-33" frameY="-3" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0103" x="320" y="796" width="160" height="224" frameX="-33" frameY="-3" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0104" x="480" y="796" width="160" height="224" frameX="-33" frameY="-3" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0105" x="480" y="796" width="160" height="224" frameX="-33" frameY="-3" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0106" x="818" y="455" width="112" height="224" frameX="-33" frameY="-3" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0107" x="818" y="455" width="112" height="224" frameX="-33" frameY="-3" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0108" x="818" y="455" width="112" height="224" frameX="-33" frameY="-3" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0109" x="818" y="455" width="112" height="224" frameX="-33" frameY="-3" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0110" x="818" y="455" width="112" height="224" frameX="-33" frameY="-3" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0111" x="818" y="455" width="112" height="224" frameX="-33" frameY="-3" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0112" x="818" y="455" width="112" height="224" frameX="-33" frameY="-3" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0113" x="818" y="455" width="112" height="224" frameX="-33" frameY="-3" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0114" x="818" y="455" width="112" height="224" frameX="-33" frameY="-3" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0115" x="175" y="1023" width="204" height="221" frameX="-63" frameY="-5" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0116" x="175" y="1023" width="204" height="221" frameX="-63" frameY="-5" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0117" x="640" y="796" width="205" height="223" frameX="-63" frameY="-3" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0118" x="640" y="796" width="205" height="223" frameX="-63" frameY="-3" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0119" x="379" y="1023" width="211" height="221" frameX="-58" frameY="-5" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0120" x="379" y="1023" width="211" height="221" frameX="-58" frameY="-5" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0121" x="590" y="1023" width="218" height="221" frameX="-53" frameY="-5" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0122" x="590" y="1023" width="218" height="221" frameX="-53" frameY="-5" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0123" x="808" y="1023" width="221" height="221" frameX="-51" frameY="-5" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0124" x="808" y="1023" width="221" height="221" frameX="-51" frameY="-5" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0125" x="1029" y="1023" width="217" height="221" frameX="-50" frameY="-5" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0126" x="1029" y="1023" width="217" height="221" frameX="-50" frameY="-5" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0127" x="1252" y="0" width="211" height="221" frameX="-50" frameY="-5" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0128" x="1252" y="0" width="211" height="221" frameX="-50" frameY="-5" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0129" x="1252" y="221" width="208" height="221" frameX="-50" frameY="-5" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0130" x="1252" y="221" width="208" height="221" frameX="-50" frameY="-5" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0131" x="1252" y="442" width="206" height="221" frameX="-50" frameY="-5" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0132" x="1252" y="442" width="206" height="221" frameX="-50" frameY="-5" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0133" x="1142" y="0" width="110" height="221" frameX="-50" frameY="-5" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0134" x="1142" y="0" width="110" height="221" frameX="-50" frameY="-5" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0135" x="1142" y="0" width="110" height="221" frameX="-50" frameY="-5" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0136" x="1142" y="0" width="110" height="221" frameX="-50" frameY="-5" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0137" x="1142" y="0" width="110" height="221" frameX="-50" frameY="-5" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0138" x="1142" y="0" width="110" height="221" frameX="-50" frameY="-5" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0139" x="1142" y="0" width="110" height="221" frameX="-50" frameY="-5" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0140" x="1142" y="0" width="110" height="221" frameX="-50" frameY="-5" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0141" x="1142" y="0" width="110" height="221" frameX="-50" frameY="-5" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0142" x="1142" y="0" width="110" height="221" frameX="-50" frameY="-5" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black idle0143" x="1142" y="0" width="110" height="221" frameX="-50" frameY="-5" frameWidth="272" frameHeight="227" />
+<SubTexture name="jon-black JON RIGHT0000" x="263" y="1463" width="139" height="214" frameX="0" frameY="0" frameWidth="139" frameHeight="214" />
+<SubTexture name="jon-black JON RIGHT0001" x="263" y="1463" width="139" height="214" frameX="0" frameY="0" frameWidth="139" frameHeight="214" />
+<SubTexture name="jon-black JON RIGHT0002" x="402" y="1463" width="134" height="213" frameX="0" frameY="-1" frameWidth="139" frameHeight="214" />
+<SubTexture name="jon-black JON RIGHT0003" x="402" y="1463" width="134" height="213" frameX="0" frameY="-1" frameWidth="139" frameHeight="214" />
+<SubTexture name="jon-black JON RIGHT0004" x="536" y="1463" width="133" height="213" frameX="0" frameY="-1" frameWidth="139" frameHeight="214" />
+<SubTexture name="jon-black JON RIGHT0005" x="536" y="1463" width="133" height="213" frameX="0" frameY="-1" frameWidth="139" frameHeight="214" />
+<SubTexture name="jon-black JON RIGHT0006" x="536" y="1463" width="133" height="213" frameX="0" frameY="-1" frameWidth="139" frameHeight="214" />
+<SubTexture name="jon-black JON RIGHT0007" x="536" y="1463" width="133" height="213" frameX="0" frameY="-1" frameWidth="139" frameHeight="214" />
+<SubTexture name="jon-black JON UP0000" x="818" y="0" width="157" height="230" frameX="-1" frameY="0" frameWidth="159" frameHeight="230" />
+<SubTexture name="jon-black JON UP0001" x="818" y="0" width="157" height="230" frameX="-1" frameY="0" frameWidth="159" frameHeight="230" />
+<SubTexture name="jon-black JON UP0002" x="975" y="456" width="159" height="227" frameX="0" frameY="-3" frameWidth="159" frameHeight="230" />
+<SubTexture name="jon-black JON UP0003" x="975" y="456" width="159" height="227" frameX="0" frameY="-3" frameWidth="159" frameHeight="230" />
+<SubTexture name="jon-black JON UP0004" x="0" y="796" width="159" height="227" frameX="0" frameY="-3" frameWidth="159" frameHeight="230" />
+<SubTexture name="jon-black JON UP0005" x="0" y="796" width="159" height="227" frameX="0" frameY="-3" frameWidth="159" frameHeight="230" />
+<SubTexture name="jon-black JON0000" x="1646" y="648" width="108" height="215" frameX="-7" frameY="-5" frameWidth="118" frameHeight="221" />
+<SubTexture name="jon-black JON0001" x="1646" y="648" width="108" height="215" frameX="-7" frameY="-5" frameWidth="118" frameHeight="221" />
+<SubTexture name="jon-black JON0002" x="1463" y="440" width="108" height="220" frameX="-10" frameY="-1" frameWidth="118" frameHeight="221" />
+<SubTexture name="jon-black JON0003" x="1463" y="440" width="108" height="220" frameX="-10" frameY="-1" frameWidth="118" frameHeight="221" />
+<SubTexture name="jon-black JON0004" x="1252" y="663" width="108" height="221" frameX="-8" frameY="0" frameWidth="118" frameHeight="221" />
+<SubTexture name="jon-black JON0005" x="1252" y="663" width="108" height="221" frameX="-8" frameY="0" frameWidth="118" frameHeight="221" />
+<SubTexture name="jon-black JON0006" x="1252" y="884" width="109" height="221" frameX="-4" frameY="0" frameWidth="118" frameHeight="221" />
+<SubTexture name="jon-black JON0007" x="1252" y="884" width="109" height="221" frameX="-4" frameY="0" frameWidth="118" frameHeight="221" />
+<SubTexture name="jon-black JON0008" x="1142" y="221" width="108" height="221" frameX="-1" frameY="0" frameWidth="118" frameHeight="221" />
+<SubTexture name="jon-black JON0009" x="1142" y="221" width="108" height="221" frameX="-1" frameY="0" frameWidth="118" frameHeight="221" />
+<SubTexture name="jon-black JON0010" x="1142" y="442" width="109" height="221" frameX="0" frameY="0" frameWidth="118" frameHeight="221" />
+<SubTexture name="jon-black JON0011" x="1142" y="442" width="109" height="221" frameX="0" frameY="0" frameWidth="118" frameHeight="221" />
+<SubTexture name="jon-black JON0012" x="1142" y="442" width="109" height="221" frameX="0" frameY="0" frameWidth="118" frameHeight="221" />
+<SubTexture name="jon-black JON0013" x="1142" y="442" width="109" height="221" frameX="0" frameY="0" frameWidth="118" frameHeight="221" />
+<SubTexture name="jon-black JON0014" x="1142" y="442" width="109" height="221" frameX="0" frameY="0" frameWidth="118" frameHeight="221" />
+</TextureAtlas>

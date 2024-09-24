@@ -1,0 +1,179 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Luna Henderson from VS MIDtoon Cat.png">
+	
+	
+	<SubTexture name="down miss poses instancia 10000" x="0" y="0" width="184" height="221" pivotX="-6.8" pivotY="308.8" frameX="0" frameY="-2" frameWidth="184" frameHeight="222" />
+	<SubTexture name="down miss poses instancia 10001" x="184" y="0" width="184" height="222" />
+	<SubTexture name="down miss poses instancia 10002" x="184" y="0" width="184" height="222" />
+	<SubTexture name="down miss poses instancia 10003" x="368" y="0" width="184" height="219" frameX="0" frameY="-4" frameWidth="184" frameHeight="222" />
+	<SubTexture name="down miss poses instancia 10004" x="368" y="0" width="184" height="219" frameX="0" frameY="-4" frameWidth="184" frameHeight="222" />
+	<SubTexture name="down miss poses instancia 10005" x="368" y="0" width="184" height="219" frameX="0" frameY="-4" frameWidth="184" frameHeight="222" />
+	<SubTexture name="down miss poses instancia 10006" x="368" y="0" width="184" height="219" frameX="0" frameY="-4" frameWidth="184" frameHeight="222" />
+	<SubTexture name="down miss poses instancia 10007" x="368" y="0" width="184" height="219" frameX="0" frameY="-4" frameWidth="184" frameHeight="222" />
+	<SubTexture name="down miss poses instancia 10008" x="368" y="0" width="184" height="219" frameX="0" frameY="-4" frameWidth="184" frameHeight="222" />
+	<SubTexture name="down miss poses instancia 10009" x="368" y="0" width="184" height="219" frameX="0" frameY="-4" frameWidth="184" frameHeight="222" />
+	<SubTexture name="down miss poses instancia 10010" x="368" y="0" width="184" height="219" frameX="0" frameY="-4" frameWidth="184" frameHeight="222" />
+	<SubTexture name="down miss poses instancia 10011" x="368" y="0" width="184" height="219" frameX="0" frameY="-4" frameWidth="184" frameHeight="222" />
+	<SubTexture name="down miss poses instancia 10012" x="368" y="0" width="184" height="219" frameX="0" frameY="-4" frameWidth="184" frameHeight="222" />
+	<SubTexture name="down miss poses instancia 10013" x="368" y="0" width="184" height="219" frameX="0" frameY="-4" frameWidth="184" frameHeight="222" />
+	<SubTexture name="down miss poses instancia 10014" x="368" y="0" width="184" height="219" frameX="0" frameY="-4" frameWidth="184" frameHeight="222" />
+	<SubTexture name="down miss poses instancia 10015" x="368" y="0" width="184" height="219" frameX="0" frameY="-4" frameWidth="184" frameHeight="222" />
+	<SubTexture name="down miss poses instancia 10016" x="368" y="0" width="184" height="219" frameX="0" frameY="-4" frameWidth="184" frameHeight="222" />
+	<SubTexture name="down miss poses instancia 10017" x="368" y="0" width="184" height="219" frameX="0" frameY="-4" frameWidth="184" frameHeight="222" />
+	<SubTexture name="down miss poses instancia 10018" x="368" y="0" width="184" height="219" frameX="0" frameY="-4" frameWidth="184" frameHeight="222" />
+	<SubTexture name="down miss poses instancia 10019" x="368" y="0" width="184" height="219" frameX="0" frameY="-4" frameWidth="184" frameHeight="222" />
+	<SubTexture name="down poses instancia 10000" x="552" y="0" width="184" height="220" pivotX="-7" pivotY="313.5" frameX="0" frameY="-4" frameWidth="184" frameHeight="225" />
+	<SubTexture name="down poses instancia 10001" x="736" y="0" width="184" height="220" frameX="0" frameY="-4" frameWidth="184" frameHeight="225" />
+	<SubTexture name="down poses instancia 10002" x="920" y="0" width="180" height="225" frameX="-1" frameY="0" frameWidth="184" frameHeight="225" />
+	<SubTexture name="down poses instancia 10003" x="1100" y="0" width="180" height="225" frameX="-1" frameY="0" frameWidth="184" frameHeight="225" />
+	<SubTexture name="down poses instancia 10004" x="920" y="0" width="180" height="225" frameX="-1" frameY="0" frameWidth="184" frameHeight="225" />
+	<SubTexture name="down poses instancia 10005" x="1100" y="0" width="180" height="225" frameX="-1" frameY="0" frameWidth="184" frameHeight="225" />
+	<SubTexture name="down poses instancia 10006" x="920" y="0" width="180" height="225" frameX="-1" frameY="0" frameWidth="184" frameHeight="225" />
+	<SubTexture name="down poses instancia 10007" x="1100" y="0" width="180" height="225" frameX="-1" frameY="0" frameWidth="184" frameHeight="225" />
+	<SubTexture name="down poses instancia 10008" x="920" y="0" width="180" height="225" frameX="-1" frameY="0" frameWidth="184" frameHeight="225" />
+	<SubTexture name="down poses instancia 10009" x="1100" y="0" width="180" height="225" frameX="-1" frameY="0" frameWidth="184" frameHeight="225" />
+	<SubTexture name="down poses instancia 10010" x="920" y="0" width="180" height="225" frameX="-1" frameY="0" frameWidth="184" frameHeight="225" />
+	<SubTexture name="down poses instancia 10011" x="1100" y="0" width="180" height="225" frameX="-1" frameY="0" frameWidth="184" frameHeight="225" />
+	<SubTexture name="down poses instancia 10012" x="920" y="0" width="180" height="225" frameX="-1" frameY="0" frameWidth="184" frameHeight="225" />
+	<SubTexture name="down poses instancia 10013" x="1100" y="0" width="180" height="225" frameX="-1" frameY="0" frameWidth="184" frameHeight="225" />
+	<SubTexture name="down poses instancia 10014" x="920" y="0" width="180" height="225" frameX="-1" frameY="0" frameWidth="184" frameHeight="225" />
+	<SubTexture name="down poses instancia 10015" x="1100" y="0" width="180" height="225" frameX="-1" frameY="0" frameWidth="184" frameHeight="225" />
+	<SubTexture name="down poses instancia 10016" x="920" y="0" width="180" height="225" frameX="-1" frameY="0" frameWidth="184" frameHeight="225" />
+	<SubTexture name="down poses instancia 10017" x="1100" y="0" width="180" height="225" frameX="-1" frameY="0" frameWidth="184" frameHeight="225" />
+	<SubTexture name="down poses instancia 10018" x="920" y="0" width="180" height="225" frameX="-1" frameY="0" frameWidth="184" frameHeight="225" />
+	<SubTexture name="down poses instancia 10019" x="1100" y="0" width="180" height="225" frameX="-1" frameY="0" frameWidth="184" frameHeight="225" />
+	<SubTexture name="idle instancia 10000" x="1281" y="0" width="168" height="248" pivotX="295.9" pivotY="165.25" frameX="0" frameY="-1" frameWidth="168" frameHeight="248" />
+	<SubTexture name="idle instancia 10001" x="1281" y="0" width="168" height="248" frameX="0" frameY="-1" frameWidth="168" frameHeight="248" />
+	<SubTexture name="idle instancia 10002" x="1449" y="0" width="165" height="248" frameX="-2" frameY="-1" frameWidth="168" frameHeight="248" />
+	<SubTexture name="idle instancia 10003" x="1449" y="0" width="165" height="248" frameX="-2" frameY="-1" frameWidth="168" frameHeight="248" />
+	<SubTexture name="idle instancia 10004" x="1614" y="0" width="163" height="248" frameX="-3" frameY="-1" frameWidth="168" frameHeight="248" />
+	<SubTexture name="idle instancia 10005" x="1614" y="0" width="163" height="248" frameX="-3" frameY="-1" frameWidth="168" frameHeight="248" />
+	<SubTexture name="idle instancia 10006" x="1777" y="0" width="163" height="248" frameX="-3" frameY="0" frameWidth="168" frameHeight="248" />
+	<SubTexture name="idle instancia 10007" x="1777" y="0" width="163" height="248" frameX="-3" frameY="0" frameWidth="168" frameHeight="248" />
+	<SubTexture name="idle instancia 10008" x="0" y="248" width="163" height="248" frameX="-3" frameY="0" frameWidth="168" frameHeight="248" />
+	<SubTexture name="idle instancia 10009" x="0" y="248" width="163" height="248" frameX="-3" frameY="0" frameWidth="168" frameHeight="248" />
+	<SubTexture name="idle instancia 10010" x="163" y="248" width="163" height="248" frameX="-3" frameY="0" frameWidth="168" frameHeight="248" />
+	<SubTexture name="idle instancia 10011" x="163" y="248" width="163" height="248" frameX="-3" frameY="0" frameWidth="168" frameHeight="248" />
+	<SubTexture name="idle instancia 10012" x="0" y="248" width="163" height="248" frameX="-3" frameY="0" frameWidth="168" frameHeight="248" />
+	<SubTexture name="idle instancia 10013" x="0" y="248" width="163" height="248" frameX="-3" frameY="0" frameWidth="168" frameHeight="248" />
+	<SubTexture name="left miss poses instancia 10000" x="326" y="248" width="187" height="247" pivotX="33.2" pivotY="376.3" frameX="0" frameY="-7" frameWidth="188" frameHeight="253" />
+	<SubTexture name="left miss poses instancia 10001" x="513" y="248" width="185" height="253" frameX="-3" frameY="0" frameWidth="188" frameHeight="253" />
+	<SubTexture name="left miss poses instancia 10002" x="513" y="248" width="185" height="253" frameX="-3" frameY="0" frameWidth="188" frameHeight="253" />
+	<SubTexture name="left miss poses instancia 10003" x="698" y="248" width="187" height="253" frameX="0" frameY="0" frameWidth="188" frameHeight="253" />
+	<SubTexture name="left miss poses instancia 10004" x="698" y="248" width="187" height="253" frameX="0" frameY="0" frameWidth="188" frameHeight="253" />
+	<SubTexture name="left miss poses instancia 10005" x="698" y="248" width="187" height="253" frameX="0" frameY="0" frameWidth="188" frameHeight="253" />
+	<SubTexture name="left miss poses instancia 10006" x="698" y="248" width="187" height="253" frameX="0" frameY="0" frameWidth="188" frameHeight="253" />
+	<SubTexture name="left miss poses instancia 10007" x="698" y="248" width="187" height="253" frameX="0" frameY="0" frameWidth="188" frameHeight="253" />
+	<SubTexture name="left miss poses instancia 10008" x="698" y="248" width="187" height="253" frameX="0" frameY="0" frameWidth="188" frameHeight="253" />
+	<SubTexture name="left miss poses instancia 10009" x="698" y="248" width="187" height="253" frameX="0" frameY="0" frameWidth="188" frameHeight="253" />
+	<SubTexture name="left miss poses instancia 10010" x="698" y="248" width="187" height="253" frameX="0" frameY="0" frameWidth="188" frameHeight="253" />
+	<SubTexture name="left miss poses instancia 10011" x="698" y="248" width="187" height="253" frameX="0" frameY="0" frameWidth="188" frameHeight="253" />
+	<SubTexture name="left miss poses instancia 10012" x="698" y="248" width="187" height="253" frameX="0" frameY="0" frameWidth="188" frameHeight="253" />
+	<SubTexture name="left miss poses instancia 10013" x="698" y="248" width="187" height="253" frameX="0" frameY="0" frameWidth="188" frameHeight="253" />
+	<SubTexture name="left miss poses instancia 10014" x="698" y="248" width="187" height="253" frameX="0" frameY="0" frameWidth="188" frameHeight="253" />
+	<SubTexture name="left miss poses instancia 10015" x="698" y="248" width="187" height="253" frameX="0" frameY="0" frameWidth="188" frameHeight="253" />
+	<SubTexture name="left miss poses instancia 10016" x="698" y="248" width="187" height="253" frameX="0" frameY="0" frameWidth="188" frameHeight="253" />
+	<SubTexture name="left miss poses instancia 10017" x="698" y="248" width="187" height="253" frameX="0" frameY="0" frameWidth="188" frameHeight="253" />
+	<SubTexture name="left miss poses instancia 10018" x="698" y="248" width="187" height="253" frameX="0" frameY="0" frameWidth="188" frameHeight="253" />
+	<SubTexture name="left miss poses instancia 10019" x="698" y="248" width="187" height="253" frameX="0" frameY="0" frameWidth="188" frameHeight="253" />
+	<SubTexture name="left poses instancia 10000" x="326" y="248" width="187" height="247" pivotX="33.2" pivotY="376.3" frameX="0" frameY="-3" frameWidth="188" frameHeight="253" />
+	<SubTexture name="left poses instancia 10001" x="886" y="248" width="187" height="247" frameX="0" frameY="-3" frameWidth="188" frameHeight="249" />
+	<SubTexture name="left poses instancia 10002" x="1073" y="248" width="185" height="249" frameX="-3" frameY="0" frameWidth="188" frameHeight="249" />
+	<SubTexture name="left poses instancia 10003" x="1259" y="248" width="185" height="249" frameX="-3" frameY="0" frameWidth="188" frameHeight="249" />
+	<SubTexture name="left poses instancia 10004" x="1444" y="248" width="185" height="249" frameX="-3" frameY="0" frameWidth="188" frameHeight="249" />
+	<SubTexture name="left poses instancia 10005" x="1630" y="248" width="185" height="249" frameX="-3" frameY="0" frameWidth="188" frameHeight="249" />
+	<SubTexture name="left poses instancia 10006" x="1815" y="248" width="185" height="249" frameX="-3" frameY="0" frameWidth="188" frameHeight="249" />
+	<SubTexture name="left poses instancia 10007" x="0" y="502" width="185" height="249" frameX="-3" frameY="0" frameWidth="188" frameHeight="249" />
+	<SubTexture name="left poses instancia 10008" x="185" y="502" width="185" height="249" frameX="-3" frameY="0" frameWidth="188" frameHeight="249" />
+	<SubTexture name="left poses instancia 10009" x="0" y="502" width="185" height="249" frameX="-3" frameY="0" frameWidth="188" frameHeight="249" />
+	<SubTexture name="left poses instancia 10010" x="185" y="502" width="185" height="249" frameX="-3" frameY="0" frameWidth="188" frameHeight="249" />
+	<SubTexture name="left poses instancia 10011" x="0" y="502" width="185" height="249" frameX="-3" frameY="0" frameWidth="188" frameHeight="249" />
+	<SubTexture name="left poses instancia 10012" x="185" y="502" width="185" height="249" frameX="-3" frameY="0" frameWidth="188" frameHeight="249" />
+	<SubTexture name="left poses instancia 10013" x="0" y="502" width="185" height="249" frameX="-3" frameY="0" frameWidth="188" frameHeight="249" />
+	<SubTexture name="left poses instancia 10014" x="185" y="502" width="185" height="249" frameX="-3" frameY="0" frameWidth="188" frameHeight="249" />
+	<SubTexture name="left poses instancia 10015" x="0" y="502" width="185" height="249" frameX="-3" frameY="0" frameWidth="188" frameHeight="249" />
+	<SubTexture name="left poses instancia 10016" x="185" y="502" width="185" height="249" frameX="-3" frameY="0" frameWidth="188" frameHeight="249" />
+	<SubTexture name="left poses instancia 10017" x="0" y="502" width="185" height="249" frameX="-3" frameY="0" frameWidth="188" frameHeight="249" />
+	<SubTexture name="left poses instancia 10018" x="185" y="502" width="185" height="249" frameX="-3" frameY="0" frameWidth="188" frameHeight="249" />
+	<SubTexture name="left poses instancia 10019" x="0" y="502" width="185" height="249" frameX="-3" frameY="0" frameWidth="188" frameHeight="249" />
+	<SubTexture name="right miss poses instancia 10000" x="371" y="502" width="162" height="246" pivotX="-141.25" pivotY="330.55" frameX="-5" frameY="0" frameWidth="172" frameHeight="246" />
+	<SubTexture name="right miss poses instancia 10001" x="533" y="502" width="169" height="236" frameX="0" frameY="-10" frameWidth="172" frameHeight="246" />
+	<SubTexture name="right miss poses instancia 10002" x="533" y="502" width="169" height="236" frameX="0" frameY="-10" frameWidth="172" frameHeight="246" />
+	<SubTexture name="right miss poses instancia 10003" x="703" y="502" width="169" height="236" frameX="-4" frameY="-10" frameWidth="172" frameHeight="246" />
+	<SubTexture name="right miss poses instancia 10004" x="703" y="502" width="169" height="236" frameX="-4" frameY="-10" frameWidth="172" frameHeight="246" />
+	<SubTexture name="right miss poses instancia 10005" x="703" y="502" width="169" height="236" frameX="-4" frameY="-10" frameWidth="172" frameHeight="246" />
+	<SubTexture name="right miss poses instancia 10006" x="703" y="502" width="169" height="236" frameX="-4" frameY="-10" frameWidth="172" frameHeight="246" />
+	<SubTexture name="right miss poses instancia 10007" x="703" y="502" width="169" height="236" frameX="-4" frameY="-10" frameWidth="172" frameHeight="246" />
+	<SubTexture name="right miss poses instancia 10008" x="703" y="502" width="169" height="236" frameX="-4" frameY="-10" frameWidth="172" frameHeight="246" />
+	<SubTexture name="right miss poses instancia 10009" x="703" y="502" width="169" height="236" frameX="-4" frameY="-10" frameWidth="172" frameHeight="246" />
+	<SubTexture name="right miss poses instancia 10010" x="703" y="502" width="169" height="236" frameX="-4" frameY="-10" frameWidth="172" frameHeight="246" />
+	<SubTexture name="right miss poses instancia 10011" x="703" y="502" width="169" height="236" frameX="-4" frameY="-10" frameWidth="172" frameHeight="246" />
+	<SubTexture name="right miss poses instancia 10012" x="703" y="502" width="169" height="236" frameX="-4" frameY="-10" frameWidth="172" frameHeight="246" />
+	<SubTexture name="right miss poses instancia 10013" x="703" y="502" width="169" height="236" frameX="-4" frameY="-10" frameWidth="172" frameHeight="246" />
+	<SubTexture name="right miss poses instancia 10014" x="703" y="502" width="169" height="236" frameX="-4" frameY="-10" frameWidth="172" frameHeight="246" />
+	<SubTexture name="right miss poses instancia 10015" x="703" y="502" width="169" height="236" frameX="-4" frameY="-10" frameWidth="172" frameHeight="246" />
+	<SubTexture name="right miss poses instancia 10016" x="703" y="502" width="169" height="236" frameX="-4" frameY="-10" frameWidth="172" frameHeight="246" />
+	<SubTexture name="right miss poses instancia 10017" x="703" y="502" width="169" height="236" frameX="-4" frameY="-10" frameWidth="172" frameHeight="246" />
+	<SubTexture name="right miss poses instancia 10018" x="703" y="502" width="169" height="236" frameX="-4" frameY="-10" frameWidth="172" frameHeight="246" />
+	<SubTexture name="right miss poses instancia 10019" x="703" y="502" width="169" height="236" frameX="-4" frameY="-10" frameWidth="172" frameHeight="246" />
+	<SubTexture name="right poses instancia 10000" x="872" y="502" width="162" height="256" pivotX="-145.45" pivotY="343.55" frameX="-3" frameY="0" frameWidth="165" frameHeight="256" />
+	<SubTexture name="right poses instancia 10001" x="1034" y="502" width="162" height="256" frameX="-3" frameY="0" frameWidth="165" frameHeight="256" />
+	<SubTexture name="right poses instancia 10002" x="1197" y="502" width="161" height="256" frameX="0" frameY="0" frameWidth="165" frameHeight="256" />
+	<SubTexture name="right poses instancia 10003" x="1358" y="502" width="161" height="256" frameX="0" frameY="0" frameWidth="165" frameHeight="256" />
+	<SubTexture name="right poses instancia 10004" x="1197" y="502" width="161" height="256" frameX="0" frameY="0" frameWidth="165" frameHeight="256" />
+	<SubTexture name="right poses instancia 10005" x="1358" y="502" width="161" height="256" frameX="0" frameY="0" frameWidth="165" frameHeight="256" />
+	<SubTexture name="right poses instancia 10006" x="1197" y="502" width="161" height="256" frameX="0" frameY="0" frameWidth="165" frameHeight="256" />
+	<SubTexture name="right poses instancia 10007" x="1358" y="502" width="161" height="256" frameX="0" frameY="0" frameWidth="165" frameHeight="256" />
+	<SubTexture name="right poses instancia 10008" x="1197" y="502" width="161" height="256" frameX="0" frameY="0" frameWidth="165" frameHeight="256" />
+	<SubTexture name="right poses instancia 10009" x="1358" y="502" width="161" height="256" frameX="0" frameY="0" frameWidth="165" frameHeight="256" />
+	<SubTexture name="right poses instancia 10010" x="1197" y="502" width="161" height="256" frameX="0" frameY="0" frameWidth="165" frameHeight="256" />
+	<SubTexture name="right poses instancia 10011" x="1358" y="502" width="161" height="256" frameX="0" frameY="0" frameWidth="165" frameHeight="256" />
+	<SubTexture name="right poses instancia 10012" x="1197" y="502" width="161" height="256" frameX="0" frameY="0" frameWidth="165" frameHeight="256" />
+	<SubTexture name="right poses instancia 10013" x="1358" y="502" width="161" height="256" frameX="0" frameY="0" frameWidth="165" frameHeight="256" />
+	<SubTexture name="right poses instancia 10014" x="1197" y="502" width="161" height="256" frameX="0" frameY="0" frameWidth="165" frameHeight="256" />
+	<SubTexture name="right poses instancia 10015" x="1358" y="502" width="161" height="256" frameX="0" frameY="0" frameWidth="165" frameHeight="256" />
+	<SubTexture name="right poses instancia 10016" x="1197" y="502" width="161" height="256" frameX="0" frameY="0" frameWidth="165" frameHeight="256" />
+	<SubTexture name="right poses instancia 10017" x="1358" y="502" width="161" height="256" frameX="0" frameY="0" frameWidth="165" frameHeight="256" />
+	<SubTexture name="right poses instancia 10018" x="1197" y="502" width="161" height="256" frameX="0" frameY="0" frameWidth="165" frameHeight="256" />
+	<SubTexture name="right poses instancia 10019" x="1358" y="502" width="161" height="256" frameX="0" frameY="0" frameWidth="165" frameHeight="256" />
+	<SubTexture name="up miss poses instancia 10000" x="1520" y="502" width="162" height="250" pivotX="-186.7" pivotY="371.85" frameX="-7" frameY="-9" frameWidth="169" frameHeight="259" />
+	<SubTexture name="up miss poses instancia 10001" x="1682" y="502" width="165" height="251" frameX="0" frameY="-8" frameWidth="169" frameHeight="259" />
+	<SubTexture name="up miss poses instancia 10002" x="1682" y="502" width="165" height="251" frameX="0" frameY="-8" frameWidth="169" frameHeight="259" />
+	<SubTexture name="up miss poses instancia 10003" x="1847" y="502" width="165" height="259" frameX="0" frameY="0" frameWidth="169" frameHeight="259" />
+	<SubTexture name="up miss poses instancia 10004" x="1847" y="502" width="165" height="259" frameX="0" frameY="0" frameWidth="169" frameHeight="259" />
+	<SubTexture name="up miss poses instancia 10005" x="1847" y="502" width="165" height="259" frameX="0" frameY="0" frameWidth="169" frameHeight="259" />
+	<SubTexture name="up miss poses instancia 10006" x="1847" y="502" width="165" height="259" frameX="0" frameY="0" frameWidth="169" frameHeight="259" />
+	<SubTexture name="up miss poses instancia 10007" x="1847" y="502" width="165" height="259" frameX="0" frameY="0" frameWidth="169" frameHeight="259" />
+	<SubTexture name="up miss poses instancia 10008" x="1847" y="502" width="165" height="259" frameX="0" frameY="0" frameWidth="169" frameHeight="259" />
+	<SubTexture name="up miss poses instancia 10009" x="1847" y="502" width="165" height="259" frameX="0" frameY="0" frameWidth="169" frameHeight="259" />
+	<SubTexture name="up miss poses instancia 10010" x="1847" y="502" width="165" height="259" frameX="0" frameY="0" frameWidth="169" frameHeight="259" />
+	<SubTexture name="up miss poses instancia 10011" x="1847" y="502" width="165" height="259" frameX="0" frameY="0" frameWidth="169" frameHeight="259" />
+	<SubTexture name="up miss poses instancia 10012" x="1847" y="502" width="165" height="259" frameX="0" frameY="0" frameWidth="169" frameHeight="259" />
+	<SubTexture name="up miss poses instancia 10013" x="1847" y="502" width="165" height="259" frameX="0" frameY="0" frameWidth="169" frameHeight="259" />
+	<SubTexture name="up miss poses instancia 10014" x="1847" y="502" width="165" height="259" frameX="0" frameY="0" frameWidth="169" frameHeight="259" />
+	<SubTexture name="up miss poses instancia 10015" x="1847" y="502" width="165" height="259" frameX="0" frameY="0" frameWidth="169" frameHeight="259" />
+	<SubTexture name="up miss poses instancia 10016" x="1847" y="502" width="165" height="259" frameX="0" frameY="0" frameWidth="169" frameHeight="259" />
+	<SubTexture name="up miss poses instancia 10017" x="1847" y="502" width="165" height="259" frameX="0" frameY="0" frameWidth="169" frameHeight="259" />
+	<SubTexture name="up miss poses instancia 10018" x="1847" y="502" width="165" height="259" frameX="0" frameY="0" frameWidth="169" frameHeight="259" />
+	<SubTexture name="up miss poses instancia 10019" x="1847" y="502" width="165" height="259" frameX="0" frameY="0" frameWidth="169" frameHeight="259" />
+	<SubTexture name="up poses instancia 10000" x="0" y="761" width="162" height="250" pivotX="-201.05" pivotY="359.1" frameX="0" frameY="-2" frameWidth="162" frameHeight="252" />
+	<SubTexture name="up poses instancia 10001" x="162" y="761" width="162" height="250" frameX="0" frameY="-2" frameWidth="162" frameHeight="252" />
+	<SubTexture name="up poses instancia 10002" x="325" y="761" width="160" height="252" frameX="-3" frameY="0" frameWidth="162" frameHeight="252" />
+	<SubTexture name="up poses instancia 10003" x="485" y="761" width="160" height="252" frameX="-3" frameY="0" frameWidth="162" frameHeight="252" />
+	<SubTexture name="up poses instancia 10004" x="325" y="761" width="160" height="252" frameX="-3" frameY="0" frameWidth="162" frameHeight="252" />
+	<SubTexture name="up poses instancia 10005" x="485" y="761" width="160" height="252" frameX="-3" frameY="0" frameWidth="162" frameHeight="252" />
+	<SubTexture name="up poses instancia 10006" x="325" y="761" width="160" height="252" frameX="-3" frameY="0" frameWidth="162" frameHeight="252" />
+	<SubTexture name="up poses instancia 10007" x="485" y="761" width="160" height="252" frameX="-3" frameY="0" frameWidth="162" frameHeight="252" />
+	<SubTexture name="up poses instancia 10008" x="325" y="761" width="160" height="252" frameX="-3" frameY="0" frameWidth="162" frameHeight="252" />
+	<SubTexture name="up poses instancia 10009" x="485" y="761" width="160" height="252" frameX="-3" frameY="0" frameWidth="162" frameHeight="252" />
+	<SubTexture name="up poses instancia 10010" x="325" y="761" width="160" height="252" frameX="-3" frameY="0" frameWidth="162" frameHeight="252" />
+	<SubTexture name="up poses instancia 10011" x="485" y="761" width="160" height="252" frameX="-3" frameY="0" frameWidth="162" frameHeight="252" />
+	<SubTexture name="up poses instancia 10012" x="325" y="761" width="160" height="252" frameX="-3" frameY="0" frameWidth="162" frameHeight="252" />
+	<SubTexture name="up poses instancia 10013" x="485" y="761" width="160" height="252" frameX="-3" frameY="0" frameWidth="162" frameHeight="252" />
+	<SubTexture name="up poses instancia 10014" x="325" y="761" width="160" height="252" frameX="-3" frameY="0" frameWidth="162" frameHeight="252" />
+	<SubTexture name="up poses instancia 10015" x="485" y="761" width="160" height="252" frameX="-3" frameY="0" frameWidth="162" frameHeight="252" />
+	<SubTexture name="up poses instancia 10016" x="325" y="761" width="160" height="252" frameX="-3" frameY="0" frameWidth="162" frameHeight="252" />
+	<SubTexture name="up poses instancia 10017" x="485" y="761" width="160" height="252" frameX="-3" frameY="0" frameWidth="162" frameHeight="252" />
+	<SubTexture name="up poses instancia 10018" x="325" y="761" width="160" height="252" frameX="-3" frameY="0" frameWidth="162" frameHeight="252" />
+	<SubTexture name="up poses instancia 10019" x="485" y="761" width="160" height="252" frameX="-3" frameY="0" frameWidth="162" frameHeight="252" />
+</TextureAtlas>

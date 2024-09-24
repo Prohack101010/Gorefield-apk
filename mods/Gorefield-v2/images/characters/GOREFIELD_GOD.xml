@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="GOREFIELD_GOD.png">
+<SubTexture name="GOREFIELD DOWN0000" x="570" y="2464" width="571" height="369" frameX="0" frameY="-6" frameWidth="572" frameHeight="378" />
+<SubTexture name="GOREFIELD DOWN0001" x="0" y="2464" width="570" height="377" frameX="-2" frameY="-1" frameWidth="572" frameHeight="378" />
+<SubTexture name="GOREFIELD DOWN0002" x="0" y="2464" width="570" height="377" frameX="-2" frameY="-1" frameWidth="572" frameHeight="378" />
+<SubTexture name="GOREFIELD DOWN0003" x="2700" y="0" width="568" height="377" frameX="-4" frameY="0" frameWidth="572" frameHeight="378" />
+<SubTexture name="GOREFIELD DOWN0004" x="2700" y="0" width="568" height="377" frameX="-4" frameY="0" frameWidth="572" frameHeight="378" />
+<SubTexture name="GOREFIELD IDLE0000" x="1117" y="2079" width="559" height="379" frameX="-2" frameY="-11" frameWidth="561" frameHeight="413" />
+<SubTexture name="GOREFIELD IDLE0001" x="1676" y="2079" width="559" height="379" frameX="-2" frameY="-11" frameWidth="561" frameHeight="413" />
+<SubTexture name="GOREFIELD IDLE0002" x="2139" y="772" width="560" height="384" frameX="-1" frameY="-13" frameWidth="561" frameHeight="413" />
+<SubTexture name="GOREFIELD IDLE0003" x="2139" y="772" width="560" height="384" frameX="-1" frameY="-13" frameWidth="561" frameHeight="413" />
+<SubTexture name="GOREFIELD IDLE0004" x="0" y="2079" width="561" height="385" frameX="0" frameY="-13" frameWidth="561" frameHeight="413" />
+<SubTexture name="GOREFIELD IDLE0005" x="2139" y="387" width="560" height="385" frameX="0" frameY="-13" frameWidth="561" frameHeight="413" />
+<SubTexture name="GOREFIELD IDLE0006" x="1093" y="1687" width="561" height="387" frameX="0" frameY="-13" frameWidth="561" frameHeight="413" />
+<SubTexture name="GOREFIELD IDLE0007" x="2139" y="0" width="560" height="387" frameX="0" frameY="-13" frameWidth="561" frameHeight="413" />
+<SubTexture name="GOREFIELD IDLE0008" x="2139" y="1540" width="560" height="381" frameX="0" frameY="-13" frameWidth="561" frameHeight="413" />
+<SubTexture name="GOREFIELD IDLE0009" x="0" y="895" width="560" height="400" frameX="0" frameY="-13" frameWidth="561" frameHeight="413" />
+<SubTexture name="GOREFIELD IDLE0010" x="534" y="1687" width="559" height="390" frameX="-2" frameY="-12" frameWidth="561" frameHeight="413" />
+<SubTexture name="GOREFIELD IDLE0011" x="534" y="1687" width="559" height="390" frameX="-2" frameY="-12" frameWidth="561" frameHeight="413" />
+<SubTexture name="GOREFIELD IDLE0012" x="560" y="895" width="558" height="397" frameX="-3" frameY="-4" frameWidth="561" frameHeight="413" />
+<SubTexture name="GOREFIELD IDLE0013" x="560" y="895" width="558" height="397" frameX="-3" frameY="-4" frameWidth="561" frameHeight="413" />
+<SubTexture name="GOREFIELD IDLE0014" x="1583" y="0" width="556" height="397" frameX="-4" frameY="-1" frameWidth="561" frameHeight="413" />
+<SubTexture name="GOREFIELD IDLE0015" x="1583" y="0" width="556" height="397" frameX="-4" frameY="-1" frameWidth="561" frameHeight="413" />
+<SubTexture name="GOREFIELD IDLE0016" x="1583" y="793" width="556" height="394" frameX="-5" frameY="0" frameWidth="561" frameHeight="413" />
+<SubTexture name="GOREFIELD IDLE0017" x="1583" y="793" width="556" height="394" frameX="-5" frameY="0" frameWidth="561" frameHeight="413" />
+<SubTexture name="GOREFIELD IDLE0018" x="2139" y="1157" width="556" height="383" frameX="-5" frameY="0" frameWidth="561" frameHeight="413" />
+<SubTexture name="GOREFIELD IDLE0019" x="2139" y="1157" width="556" height="383" frameX="-5" frameY="0" frameWidth="561" frameHeight="413" />
+<SubTexture name="GOREFIELD IDLE0020" x="561" y="2079" width="556" height="381" frameX="-5" frameY="0" frameWidth="561" frameHeight="413" />
+<SubTexture name="GOREFIELD IDLE0021" x="561" y="2079" width="556" height="381" frameX="-5" frameY="0" frameWidth="561" frameHeight="413" />
+<SubTexture name="GOREFIELD LEFT0000" x="0" y="1296" width="542" height="391" frameX="0" frameY="0" frameWidth="542" frameHeight="391" />
+<SubTexture name="GOREFIELD LEFT0001" x="542" y="1296" width="536" height="391" frameX="-2" frameY="0" frameWidth="542" frameHeight="391" />
+<SubTexture name="GOREFIELD LEFT0002" x="542" y="1296" width="536" height="391" frameX="-2" frameY="0" frameWidth="542" frameHeight="391" />
+<SubTexture name="GOREFIELD LEFT0003" x="1078" y="1296" width="535" height="391" frameX="-2" frameY="0" frameWidth="542" frameHeight="391" />
+<SubTexture name="GOREFIELD LEFT0004" x="1078" y="1296" width="535" height="391" frameX="-2" frameY="0" frameWidth="542" frameHeight="391" />
+<SubTexture name="GOREFIELD LEFT0005" x="0" y="1687" width="534" height="391" frameX="-2" frameY="0" frameWidth="542" frameHeight="391" />
+<SubTexture name="GOREFIELD LEFT0006" x="0" y="1687" width="534" height="391" frameX="-2" frameY="0" frameWidth="542" frameHeight="391" />
+<SubTexture name="GOREFIELD RIGHT0000" x="1583" y="397" width="537" height="396" frameX="-1" frameY="0" frameWidth="538" frameHeight="406" />
+<SubTexture name="GOREFIELD RIGHT0001" x="1052" y="0" width="530" height="406" frameX="0" frameY="0" frameWidth="538" frameHeight="406" />
+<SubTexture name="GOREFIELD RIGHT0002" x="1052" y="0" width="530" height="406" frameX="0" frameY="0" frameWidth="538" frameHeight="406" />
+<SubTexture name="GOREFIELD RIGHT0003" x="1052" y="406" width="529" height="406" frameX="0" frameY="0" frameWidth="538" frameHeight="406" />
+<SubTexture name="GOREFIELD RIGHT0004" x="1052" y="406" width="529" height="406" frameX="0" frameY="0" frameWidth="538" frameHeight="406" />
+<SubTexture name="GOREFIELD UP0000" x="0" y="0" width="525" height="464" frameX="-3" frameY="0" frameWidth="528" frameHeight="465" />
+<SubTexture name="GOREFIELD UP0001" x="525" y="0" width="527" height="434" frameX="-1" frameY="-6" frameWidth="528" frameHeight="465" />
+<SubTexture name="GOREFIELD UP0002" x="525" y="0" width="527" height="434" frameX="-1" frameY="-6" frameWidth="528" frameHeight="465" />
+<SubTexture name="GOREFIELD UP0003" x="0" y="464" width="528" height="431" frameX="0" frameY="-7" frameWidth="528" frameHeight="465" />
+<SubTexture name="GOREFIELD UP0004" x="0" y="464" width="528" height="431" frameX="0" frameY="-7" frameWidth="528" frameHeight="465" />
+</TextureAtlas>

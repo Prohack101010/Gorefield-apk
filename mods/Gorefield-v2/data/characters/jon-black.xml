@@ -1,0 +1,10 @@
+<!DOCTYPE codename-engine-character>
+<character x="190" y="109" camx="20" icon="icon-sansfield" isGF="false" camy="10" iconColor="-10855846" scale="2" flipX="false" isPlayer="false" holdTime="4.00000000000001" gameOverChar="" antialiasing="true" sprite="jon-black">
+	<anim loop="false" x="0" anim="jon-black JON0" fps="24" y="0" name="idle" indices="[]"/>
+	<anim loop="false" x="30" anim="jon-black JON LEFT" fps="24" y="-5" name="singLEFT" indices="[]"/>
+	<anim loop="false" x="-1" anim="jon-black JON DOWN" fps="24" y="-19" name="singDOWN" indices="[]"/>
+	<anim loop="false" x="20" anim="jon-black JON UP" fps="24" y="9" name="singUP" indices="[]"/>
+	<anim loop="false" x="-10" anim="jon-black JON RIGHT" fps="24" y="-5" name="singRIGHT" indices="[]"/>
+	<anim loop="false" x="52" anim="jon-black idle" fps="24" y="4" name="pipe" indices="[]"/>
+	<anim loop="false" x="90" anim="jon-black JON DEATH SANSFIELD" fps="24" y="48" name="death" indices="[]"/>
+</character>

@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="NERMAL CRY.png">
+	
+	
+	<SubTexture name="NERMAL DOWN0000" x="2" y="2" width="237" height="273" frameX="0" frameY="-11" frameWidth="237" frameHeight="283" />
+	<SubTexture name="NERMAL DOWN0001" x="2" y="2" width="237" height="273" frameX="0" frameY="-11" frameWidth="237" frameHeight="283" />
+	<SubTexture name="NERMAL DOWN0002" x="242" y="2" width="228" height="283" frameX="-9" frameY="0" frameWidth="237" frameHeight="283" />
+	<SubTexture name="NERMAL DOWN0003" x="242" y="2" width="228" height="283" frameX="-9" frameY="0" frameWidth="237" frameHeight="283" />
+	<SubTexture name="NERMAL IDLE0000" x="472" y="2" width="226" height="300" frameX="0" frameY="-9" frameWidth="226" frameHeight="310" />
+	<SubTexture name="NERMAL IDLE0001" x="472" y="2" width="226" height="300" frameX="0" frameY="-9" frameWidth="226" frameHeight="310" />
+	<SubTexture name="NERMAL IDLE0002" x="701" y="2" width="223" height="306" frameX="0" frameY="-4" frameWidth="226" frameHeight="310" />
+	<SubTexture name="NERMAL IDLE0003" x="701" y="2" width="223" height="306" frameX="0" frameY="-4" frameWidth="226" frameHeight="310" />
+	<SubTexture name="NERMAL IDLE0004" x="927" y="2" width="221" height="309" frameX="-1" frameY="-1" frameWidth="226" frameHeight="310" />
+	<SubTexture name="NERMAL IDLE0005" x="927" y="2" width="221" height="309" frameX="-1" frameY="-1" frameWidth="226" frameHeight="310" />
+	<SubTexture name="NERMAL IDLE0006" x="1150" y="2" width="218" height="309" frameX="-3" frameY="0" frameWidth="226" frameHeight="310" />
+	<SubTexture name="NERMAL IDLE0007" x="1150" y="2" width="218" height="309" frameX="-3" frameY="0" frameWidth="226" frameHeight="310" />
+	<SubTexture name="NERMAL IDLE0008" x="1371" y="2" width="218" height="310" frameX="-3" frameY="0" frameWidth="226" frameHeight="310" />
+	<SubTexture name="NERMAL IDLE0009" x="1371" y="2" width="218" height="310" frameX="-3" frameY="0" frameWidth="226" frameHeight="310" />
+	<SubTexture name="NERMAL IDLE0010" x="1592" y="2" width="218" height="310" frameX="-3" frameY="0" frameWidth="226" frameHeight="310" />
+	<SubTexture name="NERMAL IDLE0011" x="1592" y="2" width="218" height="310" frameX="-3" frameY="0" frameWidth="226" frameHeight="310" />
+	<SubTexture name="NERMAL IDLE0012" x="1592" y="2" width="218" height="310" frameX="-3" frameY="0" frameWidth="226" frameHeight="310" />
+	<SubTexture name="NERMAL IDLE0013" x="1592" y="2" width="218" height="310" frameX="-3" frameY="0" frameWidth="226" frameHeight="310" />
+	<SubTexture name="NERMAL IDLE0014" x="1592" y="2" width="218" height="310" frameX="-3" frameY="0" frameWidth="226" frameHeight="310" />
+	<SubTexture name="NERMAL LEFT0000" x="1813" y="2" width="214" height="304" frameX="0" frameY="0" frameWidth="216" frameHeight="304" />
+	<SubTexture name="NERMAL LEFT0001" x="1813" y="2" width="214" height="304" frameX="0" frameY="0" frameWidth="216" frameHeight="304" />
+	<SubTexture name="NERMAL LEFT0002" x="2" y="315" width="212" height="304" frameX="-4" frameY="-1" frameWidth="216" frameHeight="304" />
+	<SubTexture name="NERMAL LEFT0003" x="2" y="315" width="212" height="304" frameX="-4" frameY="-1" frameWidth="216" frameHeight="304" />
+	<SubTexture name="NERMAL MISS LEFT0000" x="217" y="315" width="214" height="304" frameX="-15" frameY="0" frameWidth="230" frameHeight="304" />
+	<SubTexture name="NERMAL MISS LEFT0001" x="434" y="315" width="225" height="304" frameX="0" frameY="0" frameWidth="230" frameHeight="304" />
+	<SubTexture name="NERMAL MISS LEFT0002" x="662" y="315" width="213" height="304" frameX="-17" frameY="0" frameWidth="230" frameHeight="304" />
+	<SubTexture name="NERMAL MISS LEFT0003" x="662" y="315" width="213" height="304" frameX="-17" frameY="0" frameWidth="230" frameHeight="304" />
+	<SubTexture name="NERMAL MISS LEFT0004" x="217" y="315" width="214" height="304" frameX="-15" frameY="0" frameWidth="230" frameHeight="304" />
+	<SubTexture name="NERMAL MISS LEFT0005" x="217" y="315" width="214" height="304" frameX="-15" frameY="0" frameWidth="230" frameHeight="304" />
+	<SubTexture name="NERMAL MISS RIGHT0000" x="878" y="315" width="216" height="315" frameX="0" frameY="0" frameWidth="220" frameHeight="315" />
+	<SubTexture name="NERMAL MISS RIGHT0001" x="1097" y="315" width="218" height="315" frameX="-2" frameY="0" frameWidth="220" frameHeight="315" />
+	<SubTexture name="NERMAL MISS RIGHT0002" x="1318" y="315" width="215" height="315" frameX="0" frameY="0" frameWidth="220" frameHeight="315" />
+	<SubTexture name="NERMAL MISS RIGHT0003" x="1318" y="315" width="215" height="315" frameX="0" frameY="0" frameWidth="220" frameHeight="315" />
+	<SubTexture name="NERMAL MISS RIGHT0004" x="1536" y="315" width="216" height="315" frameX="0" frameY="0" frameWidth="220" frameHeight="315" />
+	<SubTexture name="NERMAL MISS RIGHT0005" x="1536" y="315" width="216" height="315" frameX="0" frameY="0" frameWidth="220" frameHeight="315" />
+	<SubTexture name="NERMAL MISS UP0000" x="1754" y="315" width="215" height="326" frameX="-3" frameY="-9" frameWidth="218" frameHeight="335" />
+	<SubTexture name="NERMAL MISS UP0001" x="2" y="643" width="207" height="335" frameX="-11" frameY="0" frameWidth="218" frameHeight="335" />
+	<SubTexture name="NERMAL MISS UP0002" x="212" y="643" width="217" height="322" frameX="0" frameY="-13" frameWidth="218" frameHeight="335" />
+	<SubTexture name="NERMAL MISS UP0003" x="212" y="643" width="217" height="322" frameX="0" frameY="-13" frameWidth="218" frameHeight="335" />
+	<SubTexture name="NERMAL MISS UP0004" x="1754" y="315" width="215" height="326" frameX="-3" frameY="-9" frameWidth="218" frameHeight="335" />
+	<SubTexture name="NERMAL MISS UP0005" x="1754" y="315" width="215" height="326" frameX="-3" frameY="-9" frameWidth="218" frameHeight="335" />
+	<SubTexture name="NERMAL RIGHT0000" x="432" y="643" width="215" height="314" frameX="-2" frameY="0" frameWidth="217" frameHeight="314" />
+	<SubTexture name="NERMAL RIGHT0001" x="432" y="643" width="215" height="314" frameX="-2" frameY="0" frameWidth="217" frameHeight="314" />
+	<SubTexture name="NERMAL RIGHT0002" x="650" y="643" width="216" height="314" frameX="0" frameY="0" frameWidth="217" frameHeight="314" />
+	<SubTexture name="NERMAL RIGHT0003" x="650" y="643" width="216" height="314" frameX="0" frameY="0" frameWidth="217" frameHeight="314" />
+	<SubTexture name="NERMAL UP0000" x="869" y="643" width="215" height="326" frameX="0" frameY="0" frameWidth="215" frameHeight="326" />
+	<SubTexture name="NERMAL UP0001" x="869" y="643" width="215" height="326" frameX="0" frameY="0" frameWidth="215" frameHeight="326" />
+	<SubTexture name="NERMAL UP0002" x="1086" y="643" width="215" height="321" frameX="0" frameY="-5" frameWidth="215" frameHeight="326" />
+	<SubTexture name="NERMAL UP0003" x="1086" y="643" width="215" height="321" frameX="0" frameY="-5" frameWidth="215" frameHeight="326" />
+	<SubTexture name="NERMALL MISS DOWN0000" x="1304" y="643" width="237" height="273" frameX="-7" frameY="-4" frameWidth="243" frameHeight="277" />
+	<SubTexture name="NERMALL MISS DOWN0001" x="1544" y="643" width="243" height="263" frameX="0" frameY="-14" frameWidth="243" frameHeight="277" />
+	<SubTexture name="NERMALL MISS DOWN0002" x="1790" y="643" width="234" height="276" frameX="-9" frameY="0" frameWidth="243" frameHeight="277" />
+	<SubTexture name="NERMALL MISS DOWN0003" x="1790" y="643" width="234" height="276" frameX="-9" frameY="0" frameWidth="243" frameHeight="277" />
+	<SubTexture name="NERMALL MISS DOWN0004" x="1304" y="643" width="237" height="273" frameX="-7" frameY="-4" frameWidth="243" frameHeight="277" />
+	<SubTexture name="NERMALL MISS DOWN0005" x="1304" y="643" width="237" height="273" frameX="-7" frameY="-4" frameWidth="243" frameHeight="277" />
+</TextureAtlas>

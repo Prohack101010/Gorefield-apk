@@ -1,0 +1,29 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.75" name="prision" folder="stages/prision/" healthBarColor="captive">
+	<sprite name="BG1" x="470" y="270" sprite="BG1" scale="2.0"/>
+	<sprite name="Suelo" x="470" y="270" sprite="suelo" scale="2.0">
+		<property name="alpha" type="float" value="0.0001" />
+	</sprite>
+	<sprite name="BG3" x="470" y="270" sprite="BG3" scale="2.0">
+		<property name="alpha" type="float" value="0.0001" />
+	</sprite>
+	<opponent x="300" y="100" camxoffset="200" camyoffset="-20"/>
+	<sprite name="Entrada" x="470" y="270" sprite="entrada" scale="2.0">
+		<property name="alpha" type="float" value="0.0001" />
+	</sprite>
+	<sprite name="Rayo" x="600" y="-20" sprite="trueno" antialiasing="true" scale="1.5">
+		<anim name="idle" anim="truenito" loop="true"/>
+		<property name="alpha" type="float" value="0.0001" />
+	</sprite>
+	<player x="1000" y="250" camxoffset="-150" camyoffset="-95"/>
+	<gf x="1350" y="150" camxoffset="-450" camyoffset="100"/>
+	<sprite name="Barriles" x="0" y="860" sprite="Barril" scale="1.1" scrollx="1.1">
+		<property name="alpha" type="float" value="0.0001" />
+	</sprite>
+	<sprite name="RedOverlay" x="320" y="180" sprite="red_vignette" scale="2.0">
+		<property name="visible" type="bool" value="false" />
+	</sprite>
+	<sprite name="Warning" x="470" y="270" sprite="Peligro" scale="2.0">
+		<property name="visible" type="bool" value="false" />
+	</sprite>
+</stage>

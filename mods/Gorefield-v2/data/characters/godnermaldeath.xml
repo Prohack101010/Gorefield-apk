@@ -1,0 +1,6 @@
+<!DOCTYPE codename-engine-character>
+<character color="#5A50D3" sprite="GOD_DEATH" x="20" isGF="false" y="740" camx="230" icon="bf-house" camy="-280" scale="2" isPlayer="false" flipX="true" holdTime="1.5" gameOverChar="bf-apoc" iconoffsetx="18" animatedIcon="true" iconoffsety="-10">
+	<anim x="69" loop="false" y="-18" fps="24" anim="GOD DEATH CONFIRM" name="deathConfirm"/>
+	<anim x="2" loop="false" y="-20" fps="24" anim="GOD DEATH LOOP" name="deathLoop"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="GOD DEATH0" name="firstDeath"/>
+</character>

@@ -1,0 +1,13 @@
+<!DOCTYPE codename-engine-character>
+<character color="#5A50D3" sprite="bf-art" x="100" isGF="false" y="450" icon="bf-house" scale="2" isPlayer="true" flipX="true" gameOverChar="bf-dead-art" animatedIcon="true" iconoffsetx="18" iconoffsety="-10">
+	<anim x="-5" loop="false" y="0" fps="24" anim="BF idle dance" name="idle"/>
+	<anim x="-1" loop="false" y="-4" fps="24" anim="BF NOTE LEFT instancia 1" name="singLEFT"/>
+	<anim x="-7" loop="false" y="-26" fps="24" anim="BF NOTE DOWN instancia 1" name="singDOWN"/>
+	<anim x="-28" loop="false" y="16" fps="24" anim="BF NOTE UP instancia 1" name="singUP"/>
+	<anim x="-27" loop="false" y="-4" fps="24" anim="BF NOTE RIGHT instancia 1" name="singRIGHT"/>
+	<anim x="-24" loop="false" y="9" fps="24" anim="BF NOTE RIGHT MISS" name="singRIGHTmiss"/>
+	<anim x="-11" loop="false" y="-11" fps="24" anim="BF NOTE DOWN MISS" name="singDOWNmiss"/>
+	<anim x="-24" loop="false" y="13" fps="24" anim="BF NOTE UP MISS" name="singUPmiss"/>
+	<anim x="-1" loop="false" y="9" fps="24" anim="BF NOTE LEFT MISS" name="singLEFTmiss"/>
+	<anim x="-5" loop="true" y="0" fps="24" anim="BF idle dance instancia 1" indices="10,11,12,13" name="idle-loop"/>
+</character>

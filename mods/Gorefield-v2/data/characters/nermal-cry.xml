@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<character color="#D3E1FF" sprite="nermal-cry" x="200" isGF="false" y="200" camx="190" icon="nermal" camy="100" scale="0.9" isPlayer="true" flipX="true" holdTime="3.1" gameOverChar="nermal-dead-cry" animatedIcon="true" iconoffsetx="30" iconoffsety="0">
+	<anim x="0" loop="false" y="0" fps="24" anim="NERMAL IDLE" name="idle"/>
+	<anim x="0" loop="false" y="-6" fps="24" anim="NERMAL LEFT" name="singLEFT"/>
+	<anim x="19" loop="false" y="-27" fps="24" anim="NERMAL DOWN" name="singDOWN"/>
+	<anim x="-6" loop="false" y="16" fps="24" anim="NERMAL UP" name="singUP"/>
+	<anim x="-9" loop="false" y="4" fps="24" anim="NERMAL RIGHT" name="singRIGHT"/>
+	<anim x="-4" loop="false" y="24" fps="24" anim="NERMAL MISS UP" name="singUPmiss"/>
+	<anim x="26" loop="false" y="-34" fps="24" anim="NERMALL MISS DOWN" name="singDOWNmiss"/>
+	<anim x="16" loop="false" y="-7" fps="24" anim="NERMAL MISS LEFT" name="singLEFTmiss"/>
+	<anim x="-11" loop="false" y="4" fps="24" anim="NERMAL MISS RIGHT" name="singRIGHTmiss"/>
+</character>

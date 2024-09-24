@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ULTRA_G_CARGA_02.png">
+<SubTexture name="ULTRA G CARGA 0000" x="0" y="0" width="918" height="1128" frameX="0" frameY="0" frameWidth="918" frameHeight="1128" />
+</TextureAtlas>

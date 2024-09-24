@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bf-pixel.png">
+<SubTexture name="bf-pixel BF DOWN0000" x="1123" y="1260" width="261" height="249" frameX="-18" frameY="-20" frameWidth="286" frameHeight="279" />
+<SubTexture name="bf-pixel BF DOWN0001" x="1123" y="1260" width="261" height="249" frameX="-18" frameY="-20" frameWidth="286" frameHeight="279" />
+<SubTexture name="bf-pixel BF DOWN0002" x="1449" y="830" width="257" height="265" frameX="-18" frameY="-4" frameWidth="286" frameHeight="279" />
+<SubTexture name="bf-pixel BF DOWN0003" x="1449" y="830" width="257" height="265" frameX="-18" frameY="-4" frameWidth="286" frameHeight="279" />
+<SubTexture name="bf-pixel BF DOWN0004" x="1449" y="293" width="257" height="269" frameX="-18" frameY="0" frameWidth="286" frameHeight="279" />
+<SubTexture name="bf-pixel BF DOWN0005" x="1449" y="293" width="257" height="269" frameX="-18" frameY="0" frameWidth="286" frameHeight="279" />
+<SubTexture name="bf-pixel BF DOWN0006" x="1449" y="293" width="257" height="269" frameX="-18" frameY="0" frameWidth="286" frameHeight="279" />
+<SubTexture name="bf-pixel BF DOWN0007" x="1449" y="293" width="257" height="269" frameX="-18" frameY="0" frameWidth="286" frameHeight="279" />
+<SubTexture name="bf-pixel BF DOWN0008" x="1449" y="293" width="257" height="269" frameX="-18" frameY="0" frameWidth="286" frameHeight="279" />
+<SubTexture name="bf-pixel BF DOWN0009" x="1449" y="293" width="257" height="269" frameX="-18" frameY="0" frameWidth="286" frameHeight="279" />
+<SubTexture name="bf-pixel BF ESQUIVE DOWN0000" x="1449" y="562" width="264" height="268" frameX="-62" frameY="-106" frameWidth="333" frameHeight="427" />
+<SubTexture name="bf-pixel BF ESQUIVE DOWN0001" x="518" y="963" width="263" height="294" frameX="-50" frameY="-38" frameWidth="333" frameHeight="427" />
+<SubTexture name="bf-pixel BF ESQUIVE DOWN0002" x="518" y="963" width="263" height="294" frameX="-50" frameY="-38" frameWidth="333" frameHeight="427" />
+<SubTexture name="bf-pixel BF ESQUIVE DOWN0003" x="586" y="1260" width="267" height="286" frameX="-33" frameY="-29" frameWidth="333" frameHeight="427" />
+<SubTexture name="bf-pixel BF ESQUIVE DOWN0004" x="586" y="1260" width="267" height="286" frameX="-33" frameY="-29" frameWidth="333" frameHeight="427" />
+<SubTexture name="bf-pixel BF ESQUIVE DOWN0005" x="586" y="1260" width="267" height="286" frameX="-33" frameY="-29" frameWidth="333" frameHeight="427" />
+<SubTexture name="bf-pixel BF ESQUIVE LEFT0000" x="242" y="658" width="280" height="302" frameX="-8" frameY="-40" frameWidth="453" frameHeight="358" />
+<SubTexture name="bf-pixel BF ESQUIVE LEFT0001" x="781" y="963" width="306" height="294" frameX="-99" frameY="-48" frameWidth="453" frameHeight="358" />
+<SubTexture name="bf-pixel BF ESQUIVE LEFT0002" x="781" y="963" width="306" height="294" frameX="-99" frameY="-48" frameWidth="453" frameHeight="358" />
+<SubTexture name="bf-pixel BF ESQUIVE LEFT0003" x="0" y="1260" width="310" height="289" frameX="-121" frameY="-53" frameWidth="453" frameHeight="358" />
+<SubTexture name="bf-pixel BF ESQUIVE LEFT0004" x="0" y="1260" width="310" height="289" frameX="-121" frameY="-53" frameWidth="453" frameHeight="358" />
+<SubTexture name="bf-pixel BF ESQUIVE LEFT0005" x="0" y="1260" width="310" height="289" frameX="-121" frameY="-53" frameWidth="453" frameHeight="358" />
+<SubTexture name="bf-pixel BF ESQUIVE RIGHT0000" x="324" y="0" width="315" height="332" frameX="-97" frameY="-27" frameWidth="424" frameHeight="399" />
+<SubTexture name="bf-pixel BF ESQUIVE RIGHT0001" x="639" y="0" width="319" height="331" frameX="-42" frameY="-49" frameWidth="424" frameHeight="399" />
+<SubTexture name="bf-pixel BF ESQUIVE RIGHT0002" x="639" y="0" width="319" height="331" frameX="-42" frameY="-49" frameWidth="424" frameHeight="399" />
+<SubTexture name="bf-pixel BF ESQUIVE RIGHT0003" x="0" y="0" width="324" height="335" frameX="-33" frameY="-49" frameWidth="424" frameHeight="399" />
+<SubTexture name="bf-pixel BF ESQUIVE RIGHT0004" x="0" y="0" width="324" height="335" frameX="-33" frameY="-49" frameWidth="424" frameHeight="399" />
+<SubTexture name="bf-pixel BF ESQUIVE RIGHT0005" x="0" y="0" width="324" height="335" frameX="-33" frameY="-49" frameWidth="424" frameHeight="399" />
+<SubTexture name="bf-pixel BF ESQUIVE UP0000" x="0" y="335" width="286" height="323" frameX="-25" frameY="-30" frameWidth="358" frameHeight="438" />
+<SubTexture name="bf-pixel BF ESQUIVE UP0001" x="527" y="335" width="315" height="319" frameX="-21" frameY="-87" frameWidth="358" frameHeight="438" />
+<SubTexture name="bf-pixel BF ESQUIVE UP0002" x="527" y="335" width="315" height="319" frameX="-21" frameY="-87" frameWidth="358" frameHeight="438" />
+<SubTexture name="bf-pixel BF ESQUIVE UP0003" x="522" y="658" width="324" height="302" frameX="-17" frameY="-111" frameWidth="358" frameHeight="438" />
+<SubTexture name="bf-pixel BF ESQUIVE UP0004" x="522" y="658" width="324" height="302" frameX="-17" frameY="-111" frameWidth="358" frameHeight="438" />
+<SubTexture name="bf-pixel BF ESQUIVE UP0005" x="522" y="658" width="324" height="302" frameX="-17" frameY="-111" frameWidth="358" frameHeight="438" />
+<SubTexture name="bf-pixel BF IDLE0000" x="853" y="1260" width="270" height="273" frameX="-24" frameY="-57" frameWidth="307" frameHeight="348" />
+<SubTexture name="bf-pixel BF IDLE0001" x="853" y="1260" width="270" height="273" frameX="-24" frameY="-57" frameWidth="307" frameHeight="348" />
+<SubTexture name="bf-pixel BF IDLE0002" x="1087" y="963" width="250" height="293" frameX="-36" frameY="-37" frameWidth="307" frameHeight="348" />
+<SubTexture name="bf-pixel BF IDLE0003" x="1087" y="963" width="250" height="293" frameX="-36" frameY="-37" frameWidth="307" frameHeight="348" />
+<SubTexture name="bf-pixel BF IDLE0004" x="1087" y="963" width="250" height="293" frameX="-36" frameY="-37" frameWidth="307" frameHeight="348" />
+<SubTexture name="bf-pixel BF IDLE0005" x="0" y="963" width="258" height="297" frameX="-32" frameY="-33" frameWidth="307" frameHeight="348" />
+<SubTexture name="bf-pixel BF IDLE0006" x="0" y="963" width="258" height="297" frameX="-32" frameY="-33" frameWidth="307" frameHeight="348" />
+<SubTexture name="bf-pixel BF IDLE0007" x="846" y="658" width="258" height="301" frameX="-32" frameY="-29" frameWidth="307" frameHeight="348" />
+<SubTexture name="bf-pixel BF IDLE0008" x="846" y="658" width="258" height="301" frameX="-32" frameY="-29" frameWidth="307" frameHeight="348" />
+<SubTexture name="bf-pixel BF IDLE0009" x="846" y="658" width="258" height="301" frameX="-32" frameY="-29" frameWidth="307" frameHeight="348" />
+<SubTexture name="bf-pixel BF IDLE0010" x="846" y="658" width="258" height="301" frameX="-32" frameY="-29" frameWidth="307" frameHeight="348" />
+<SubTexture name="bf-pixel BF IDLE0011" x="846" y="658" width="258" height="301" frameX="-32" frameY="-29" frameWidth="307" frameHeight="348" />
+<SubTexture name="bf-pixel BF IDLE0012" x="846" y="658" width="258" height="301" frameX="-32" frameY="-29" frameWidth="307" frameHeight="348" />
+<SubTexture name="bf-pixel BF IDLE0013" x="846" y="658" width="258" height="301" frameX="-32" frameY="-29" frameWidth="307" frameHeight="348" />
+<SubTexture name="bf-pixel BF IDLE0014" x="846" y="658" width="258" height="301" frameX="-32" frameY="-29" frameWidth="307" frameHeight="348" />
+<SubTexture name="bf-pixel BF LEFT0000" x="0" y="658" width="242" height="305" frameX="-13" frameY="-20" frameWidth="270" frameHeight="343" />
+<SubTexture name="bf-pixel BF LEFT0001" x="0" y="658" width="242" height="305" frameX="-13" frameY="-20" frameWidth="270" frameHeight="343" />
+<SubTexture name="bf-pixel BF LEFT0002" x="1207" y="0" width="242" height="301" frameX="-25" frameY="-24" frameWidth="270" frameHeight="343" />
+<SubTexture name="bf-pixel BF LEFT0003" x="1207" y="0" width="242" height="301" frameX="-25" frameY="-24" frameWidth="270" frameHeight="343" />
+<SubTexture name="bf-pixel BF LEFT0004" x="1207" y="301" width="241" height="301" frameX="-29" frameY="-24" frameWidth="270" frameHeight="343" />
+<SubTexture name="bf-pixel BF LEFT0005" x="1207" y="301" width="241" height="301" frameX="-29" frameY="-24" frameWidth="270" frameHeight="343" />
+<SubTexture name="bf-pixel BF LEFT0006" x="1207" y="301" width="241" height="301" frameX="-29" frameY="-24" frameWidth="270" frameHeight="343" />
+<SubTexture name="bf-pixel BF LEFT0007" x="1207" y="301" width="241" height="301" frameX="-29" frameY="-24" frameWidth="270" frameHeight="343" />
+<SubTexture name="bf-pixel BF LEFT0008" x="1207" y="301" width="241" height="301" frameX="-29" frameY="-24" frameWidth="270" frameHeight="343" />
+<SubTexture name="bf-pixel BF LEFT0009" x="1207" y="301" width="241" height="301" frameX="-29" frameY="-24" frameWidth="270" frameHeight="343" />
+<SubTexture name="bf-pixel BF RIGHT0000" x="310" y="1260" width="276" height="289" frameX="-20" frameY="-21" frameWidth="300" frameHeight="320" />
+<SubTexture name="bf-pixel BF RIGHT0001" x="310" y="1260" width="276" height="289" frameX="-20" frameY="-21" frameWidth="300" frameHeight="320" />
+<SubTexture name="bf-pixel BF RIGHT0002" x="1449" y="0" width="264" height="293" frameX="-20" frameY="-17" frameWidth="300" frameHeight="320" />
+<SubTexture name="bf-pixel BF RIGHT0003" x="1449" y="0" width="264" height="293" frameX="-20" frameY="-17" frameWidth="300" frameHeight="320" />
+<SubTexture name="bf-pixel BF RIGHT0004" x="258" y="963" width="260" height="297" frameX="-20" frameY="-13" frameWidth="300" frameHeight="320" />
+<SubTexture name="bf-pixel BF RIGHT0005" x="258" y="963" width="260" height="297" frameX="-20" frameY="-13" frameWidth="300" frameHeight="320" />
+<SubTexture name="bf-pixel BF RIGHT0006" x="258" y="963" width="260" height="297" frameX="-20" frameY="-13" frameWidth="300" frameHeight="320" />
+<SubTexture name="bf-pixel BF RIGHT0007" x="258" y="963" width="260" height="297" frameX="-20" frameY="-13" frameWidth="300" frameHeight="320" />
+<SubTexture name="bf-pixel BF RIGHT0008" x="258" y="963" width="260" height="297" frameX="-20" frameY="-13" frameWidth="300" frameHeight="320" />
+<SubTexture name="bf-pixel BF RIGHT0009" x="258" y="963" width="260" height="297" frameX="-20" frameY="-13" frameWidth="300" frameHeight="320" />
+<SubTexture name="bf-pixel BF UP0000" x="286" y="335" width="241" height="321" frameX="-12" frameY="-21" frameWidth="265" frameHeight="347" />
+<SubTexture name="bf-pixel BF UP0001" x="286" y="335" width="241" height="321" frameX="-12" frameY="-21" frameWidth="265" frameHeight="347" />
+<SubTexture name="bf-pixel BF UP0002" x="958" y="0" width="249" height="317" frameX="0" frameY="-25" frameWidth="265" frameHeight="347" />
+<SubTexture name="bf-pixel BF UP0003" x="958" y="0" width="249" height="317" frameX="0" frameY="-25" frameWidth="265" frameHeight="347" />
+<SubTexture name="bf-pixel BF UP0004" x="958" y="317" width="245" height="313" frameX="0" frameY="-29" frameWidth="265" frameHeight="347" />
+<SubTexture name="bf-pixel BF UP0005" x="958" y="317" width="245" height="313" frameX="0" frameY="-29" frameWidth="265" frameHeight="347" />
+<SubTexture name="bf-pixel BF UP0006" x="958" y="317" width="245" height="313" frameX="0" frameY="-29" frameWidth="265" frameHeight="347" />
+<SubTexture name="bf-pixel BF UP0007" x="958" y="317" width="245" height="313" frameX="0" frameY="-29" frameWidth="265" frameHeight="347" />
+<SubTexture name="bf-pixel BF UP0008" x="958" y="317" width="245" height="313" frameX="0" frameY="-29" frameWidth="265" frameHeight="347" />
+<SubTexture name="bf-pixel BF UP0009" x="958" y="317" width="245" height="313" frameX="0" frameY="-29" frameWidth="265" frameHeight="347" />
+</TextureAtlas>

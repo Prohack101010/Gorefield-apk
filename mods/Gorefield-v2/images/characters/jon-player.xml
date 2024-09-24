@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="jon-player.png">
+<SubTexture name="JON DEATH0000" x="2161" y="359" width="195" height="174" frameX="-25" frameY="-81" frameWidth="269" frameHeight="256" />
+<SubTexture name="JON DEATH0001" x="1791" y="1863" width="221" height="179" frameX="-14" frameY="-77" frameWidth="269" frameHeight="256" />
+<SubTexture name="JON DEATH0002" x="1360" y="1863" width="235" height="183" frameX="0" frameY="-73" frameWidth="269" frameHeight="256" />
+<SubTexture name="JON DEATH0003" x="1595" y="1863" width="196" height="180" frameX="-45" frameY="-76" frameWidth="269" frameHeight="256" />
+<SubTexture name="JON DEATH0004" x="1595" y="1863" width="196" height="180" frameX="-45" frameY="-75" frameWidth="269" frameHeight="256" />
+<SubTexture name="JON DEATH0005" x="2161" y="0" width="196" height="179" frameX="-44" frameY="-77" frameWidth="269" frameHeight="256" />
+<SubTexture name="JON DEATH0006" x="2161" y="0" width="196" height="179" frameX="-44" frameY="-77" frameWidth="269" frameHeight="256" />
+<SubTexture name="JON DEATH0007" x="2161" y="179" width="195" height="179" frameX="-43" frameY="-77" frameWidth="269" frameHeight="256" />
+<SubTexture name="JON DEATH0008" x="2161" y="179" width="195" height="179" frameX="-43" frameY="-77" frameWidth="269" frameHeight="256" />
+<SubTexture name="JON DEATH0009" x="2161" y="179" width="195" height="179" frameX="-43" frameY="-77" frameWidth="269" frameHeight="256" />
+<SubTexture name="JON DEATH0010" x="2161" y="179" width="195" height="179" frameX="-43" frameY="-77" frameWidth="269" frameHeight="256" />
+<SubTexture name="JON DEATH0011" x="2161" y="179" width="195" height="179" frameX="-43" frameY="-77" frameWidth="269" frameHeight="256" />
+<SubTexture name="JON DEATH0012" x="2161" y="179" width="195" height="179" frameX="-43" frameY="-77" frameWidth="269" frameHeight="256" />
+<SubTexture name="JON DEATH0013" x="2161" y="179" width="195" height="179" frameX="-43" frameY="-77" frameWidth="269" frameHeight="256" />
+<SubTexture name="JON DEATH0014" x="314" y="0" width="195" height="256" frameX="-43" frameY="0" frameWidth="269" frameHeight="256" />
+<SubTexture name="JON DEATH0015" x="208" y="1006" width="239" height="223" frameX="-30" frameY="-33" frameWidth="269" frameHeight="256" />
+<SubTexture name="JON DEATH0016" x="208" y="1006" width="239" height="223" frameX="-30" frameY="-33" frameWidth="269" frameHeight="256" />
+<SubTexture name="JON DEATH0017" x="190" y="301" width="201" height="235" frameX="-43" frameY="-21" frameWidth="269" frameHeight="256" />
+<SubTexture name="JON DEATH0018" x="190" y="301" width="201" height="235" frameX="-43" frameY="-21" frameWidth="269" frameHeight="256" />
+<SubTexture name="JON DEATH0019" x="546" y="774" width="207" height="231" frameX="-43" frameY="-25" frameWidth="269" frameHeight="256" />
+<SubTexture name="JON DEATH0020" x="546" y="774" width="207" height="231" frameX="-43" frameY="-25" frameWidth="269" frameHeight="256" />
+<SubTexture name="JON DEATH0021" x="754" y="774" width="208" height="231" frameX="-43" frameY="-25" frameWidth="269" frameHeight="256" />
+<SubTexture name="JON DEATH0022" x="754" y="774" width="208" height="231" frameX="-43" frameY="-25" frameWidth="269" frameHeight="256" />
+<SubTexture name="JON DEATH0023" x="754" y="774" width="208" height="231" frameX="-43" frameY="-25" frameWidth="269" frameHeight="256" />
+<SubTexture name="JON DEATH0024" x="754" y="774" width="208" height="231" frameX="-43" frameY="-25" frameWidth="269" frameHeight="256" />
+<SubTexture name="JON DEATH0025" x="754" y="774" width="208" height="231" frameX="-43" frameY="-25" frameWidth="269" frameHeight="256" />
+<SubTexture name="JON DISPARO0000" x="0" y="1659" width="249" height="204" frameX="-70" frameY="-97" frameWidth="399" frameHeight="330" />
+<SubTexture name="JON DISPARO0001" x="0" y="1659" width="249" height="204" frameX="-70" frameY="-97" frameWidth="399" frameHeight="330" />
+<SubTexture name="JON DISPARO0002" x="0" y="0" width="314" height="301" frameX="-56" frameY="0" frameWidth="399" frameHeight="330" />
+<SubTexture name="JON DISPARO0003" x="609" y="1235" width="236" height="210" frameX="-56" frameY="-91" frameWidth="399" frameHeight="330" />
+<SubTexture name="JON DISPARO0004" x="1694" y="0" width="237" height="207" frameX="-73" frameY="-94" frameWidth="399" frameHeight="330" />
+<SubTexture name="JON DISPARO0005" x="1252" y="664" width="268" height="219" frameX="-73" frameY="-82" frameWidth="399" frameHeight="330" />
+<SubTexture name="JON DISPARO0006" x="1252" y="0" width="278" height="222" frameX="-71" frameY="-79" frameWidth="399" frameHeight="330" />
+<SubTexture name="JON DISPARO0007" x="846" y="1235" width="289" height="210" frameX="-71" frameY="-91" frameWidth="399" frameHeight="330" />
+<SubTexture name="JON DISPARO0008" x="0" y="1863" width="293" height="200" frameX="-73" frameY="-101" frameWidth="399" frameHeight="330" />
+<SubTexture name="JON DISPARO0009" x="293" y="1863" width="306" height="200" frameX="-73" frameY="-101" frameWidth="399" frameHeight="330" />
+<SubTexture name="JON DISPARO0010" x="1339" y="1659" width="326" height="201" frameX="-73" frameY="-100" frameWidth="399" frameHeight="330" />
+<SubTexture name="JON DISPARO0011" x="249" y="1659" width="318" height="204" frameX="-73" frameY="-100" frameWidth="399" frameHeight="330" />
+<SubTexture name="JON DISPARO0012" x="1665" y="1659" width="229" height="201" frameX="-73" frameY="-100" frameWidth="399" frameHeight="330" />
+<SubTexture name="JON DISPARO0013" x="1665" y="1659" width="229" height="201" frameX="-73" frameY="-100" frameWidth="399" frameHeight="330" />
+<SubTexture name="JON DISPARO0014" x="1932" y="0" width="229" height="201" frameX="-73" frameY="-100" frameWidth="399" frameHeight="330" />
+<SubTexture name="JON DISPARO0015" x="1932" y="0" width="229" height="201" frameX="-73" frameY="-100" frameWidth="399" frameHeight="330" />
+<SubTexture name="JON DISPARO0016" x="1104" y="1659" width="235" height="203" frameX="-70" frameY="-98" frameWidth="399" frameHeight="330" />
+<SubTexture name="JON DISPARO0017" x="1104" y="1659" width="235" height="203" frameX="-70" frameY="-98" frameWidth="399" frameHeight="330" />
+<SubTexture name="JON DISPARO0018" x="1694" y="1449" width="228" height="205" frameX="-67" frameY="-101" frameWidth="399" frameHeight="330" />
+<SubTexture name="JON DISPARO0019" x="1694" y="1449" width="228" height="205" frameX="-67" frameY="-101" frameWidth="399" frameHeight="330" />
+<SubTexture name="JON DISPARO0020" x="1694" y="1243" width="201" height="206" frameX="-11" frameY="-102" frameWidth="399" frameHeight="330" />
+<SubTexture name="JON DISPARO0021" x="1694" y="1243" width="201" height="206" frameX="-11" frameY="-102" frameWidth="399" frameHeight="330" />
+<SubTexture name="JON DISPARO0022" x="1044" y="453" width="180" height="223" frameX="-3" frameY="-105" frameWidth="399" frameHeight="330" />
+<SubTexture name="JON DISPARO0023" x="1044" y="453" width="180" height="223" frameX="-3" frameY="-105" frameWidth="399" frameHeight="330" />
+<SubTexture name="JON DISPARO0024" x="447" y="1006" width="184" height="223" frameX="0" frameY="-106" frameWidth="399" frameHeight="330" />
+<SubTexture name="JON DISPARO0025" x="447" y="1006" width="184" height="223" frameX="0" frameY="-106" frameWidth="399" frameHeight="330" />
+<SubTexture name="JON DISPARO0026" x="1044" y="676" width="184" height="223" frameX="0" frameY="-107" frameWidth="399" frameHeight="330" />
+<SubTexture name="JON DISPARO0027" x="1044" y="676" width="184" height="223" frameX="0" frameY="-107" frameWidth="399" frameHeight="330" />
+<SubTexture name="JON DISPARO0028" x="1044" y="676" width="184" height="223" frameX="0" frameY="-107" frameWidth="399" frameHeight="330" />
+<SubTexture name="JON DISPARO0029" x="1044" y="676" width="184" height="223" frameX="0" frameY="-107" frameWidth="399" frameHeight="330" />
+<SubTexture name="JON DISPARO0030" x="1044" y="676" width="184" height="223" frameX="0" frameY="-107" frameWidth="399" frameHeight="330" />
+<SubTexture name="JON DISPARO0031" x="1044" y="676" width="184" height="223" frameX="0" frameY="-107" frameWidth="399" frameHeight="330" />
+<SubTexture name="JON DOWN0000" x="567" y="1659" width="174" height="204" frameX="0" frameY="-10" frameWidth="192" frameHeight="214" />
+<SubTexture name="JON DOWN0001" x="1074" y="1449" width="182" height="208" frameX="-1" frameY="-2" frameWidth="192" frameHeight="214" />
+<SubTexture name="JON DOWN0002" x="1074" y="1449" width="182" height="208" frameX="-1" frameY="-2" frameWidth="192" frameHeight="214" />
+<SubTexture name="JON DOWN0003" x="1694" y="415" width="186" height="207" frameX="-4" frameY="-1" frameWidth="192" frameHeight="214" />
+<SubTexture name="JON DOWN0004" x="1694" y="207" width="186" height="207" frameX="-4" frameY="-1" frameWidth="192" frameHeight="214" />
+<SubTexture name="JON DOWN0005" x="1257" y="1449" width="187" height="208" frameX="-5" frameY="0" frameWidth="192" frameHeight="214" />
+<SubTexture name="JON DOWN0006" x="1257" y="1449" width="187" height="208" frameX="-5" frameY="0" frameWidth="192" frameHeight="214" />
+<SubTexture name="JON IDLE0000" x="742" y="1659" width="188" height="203" frameX="0" frameY="-9" frameWidth="188" frameHeight="223" />
+<SubTexture name="JON IDLE0001" x="742" y="1659" width="188" height="203" frameX="0" frameY="-9" frameWidth="188" frameHeight="223" />
+<SubTexture name="JON IDLE0002" x="1135" y="1235" width="182" height="210" frameX="-2" frameY="-6" frameWidth="188" frameHeight="223" />
+<SubTexture name="JON IDLE0003" x="1135" y="1235" width="182" height="210" frameX="-2" frameY="-6" frameWidth="188" frameHeight="223" />
+<SubTexture name="JON IDLE0004" x="1252" y="884" width="184" height="217" frameX="-2" frameY="-2" frameWidth="188" frameHeight="223" />
+<SubTexture name="JON IDLE0005" x="1252" y="884" width="184" height="217" frameX="-2" frameY="-2" frameWidth="188" frameHeight="223" />
+<SubTexture name="JON IDLE0006" x="1252" y="444" width="184" height="220" frameX="-2" frameY="-1" frameWidth="188" frameHeight="223" />
+<SubTexture name="JON IDLE0007" x="1252" y="444" width="184" height="220" frameX="-2" frameY="-1" frameWidth="188" frameHeight="223" />
+<SubTexture name="JON IDLE0008" x="1252" y="222" width="184" height="221" frameX="-2" frameY="-1" frameWidth="188" frameHeight="223" />
+<SubTexture name="JON IDLE0009" x="1252" y="222" width="184" height="221" frameX="-2" frameY="-1" frameWidth="188" frameHeight="223" />
+<SubTexture name="JON IDLE0010" x="632" y="1006" width="184" height="223" frameX="-2" frameY="0" frameWidth="188" frameHeight="223" />
+<SubTexture name="JON IDLE0011" x="632" y="1006" width="184" height="223" frameX="-2" frameY="0" frameWidth="188" frameHeight="223" />
+<SubTexture name="JON IDLE0012" x="816" y="1006" width="184" height="223" frameX="-2" frameY="0" frameWidth="188" frameHeight="223" />
+<SubTexture name="JON IDLE0013" x="816" y="1006" width="184" height="223" frameX="-2" frameY="0" frameWidth="188" frameHeight="223" />
+<SubTexture name="JON LEFT0000" x="1932" y="601" width="218" height="198" frameX="0" frameY="-1" frameWidth="219" frameHeight="209" />
+<SubTexture name="JON LEFT0001" x="1932" y="401" width="218" height="199" frameX="0" frameY="-3" frameWidth="219" frameHeight="209" />
+<SubTexture name="JON LEFT0002" x="1932" y="401" width="218" height="199" frameX="0" frameY="-3" frameWidth="219" frameHeight="209" />
+<SubTexture name="JON LEFT0003" x="1694" y="622" width="211" height="207" frameX="-6" frameY="-1" frameWidth="219" frameHeight="209" />
+<SubTexture name="JON LEFT0004" x="1694" y="829" width="210" height="207" frameX="-7" frameY="-1" frameWidth="219" frameHeight="209" />
+<SubTexture name="JON LEFT0005" x="867" y="1449" width="207" height="208" frameX="-11" frameY="0" frameWidth="219" frameHeight="209" />
+<SubTexture name="JON LEFT0006" x="867" y="1449" width="207" height="208" frameX="-11" frameY="0" frameWidth="219" frameHeight="209" />
+<SubTexture name="JON MISS DOWN0000" x="1170" y="1863" width="189" height="193" frameX="0" frameY="-14" frameWidth="189" frameHeight="207" />
+<SubTexture name="JON MISS DOWN0001" x="1694" y="1036" width="168" height="207" frameX="-10" frameY="0" frameWidth="189" frameHeight="207" />
+<SubTexture name="JON MISS DOWN0002" x="1694" y="1036" width="168" height="207" frameX="-10" frameY="0" frameWidth="189" frameHeight="207" />
+<SubTexture name="JON MISS DOWN0003" x="930" y="1659" width="174" height="203" frameX="-8" frameY="-4" frameWidth="189" frameHeight="207" />
+<SubTexture name="JON MISS DOWN0004" x="930" y="1659" width="174" height="203" frameX="-7" frameY="-4" frameWidth="189" frameHeight="207" />
+<SubTexture name="JON MISS LEFT0000" x="1932" y="201" width="221" height="200" frameX="0" frameY="-1" frameWidth="230" frameHeight="201" />
+<SubTexture name="JON MISS LEFT0001" x="1932" y="799" width="218" height="198" frameX="-12" frameY="-3" frameWidth="230" frameHeight="201" />
+<SubTexture name="JON MISS LEFT0002" x="1932" y="799" width="218" height="198" frameX="-12" frameY="-3" frameWidth="230" frameHeight="201" />
+<SubTexture name="JON MISS LEFT0003" x="1932" y="998" width="219" height="198" frameX="-9" frameY="-3" frameWidth="230" frameHeight="201" />
+<SubTexture name="JON MISS LEFT0004" x="1932" y="998" width="219" height="198" frameX="-9" frameY="-3" frameWidth="230" frameHeight="201" />
+<SubTexture name="JON MISS RIGHT0000" x="1317" y="1235" width="183" height="210" frameX="-4" frameY="0" frameWidth="187" frameHeight="210" />
+<SubTexture name="JON MISS RIGHT0001" x="1530" y="0" width="164" height="210" frameX="0" frameY="0" frameWidth="187" frameHeight="210" />
+<SubTexture name="JON MISS RIGHT0002" x="1530" y="0" width="164" height="210" frameX="0" frameY="0" frameWidth="187" frameHeight="210" />
+<SubTexture name="JON MISS RIGHT0003" x="0" y="1449" width="168" height="210" frameX="-1" frameY="0" frameWidth="187" frameHeight="210" />
+<SubTexture name="JON MISS RIGHT0004" x="0" y="1449" width="168" height="210" frameX="-1" frameY="0" frameWidth="187" frameHeight="210" />
+<SubTexture name="JON MISS UP0000" x="0" y="301" width="190" height="240" frameX="-7" frameY="0" frameWidth="204" frameHeight="240" />
+<SubTexture name="JON MISS UP0001" x="1044" y="229" width="204" height="224" frameX="0" frameY="-17" frameWidth="204" frameHeight="240" />
+<SubTexture name="JON MISS UP0002" x="1044" y="229" width="204" height="224" frameX="0" frameY="-16" frameWidth="204" frameHeight="240" />
+<SubTexture name="JON MISS UP0003" x="0" y="541" width="199" height="232" frameX="-2" frameY="-8" frameWidth="204" frameHeight="240" />
+<SubTexture name="JON MISS UP0004" x="0" y="541" width="199" height="232" frameX="-2" frameY="-8" frameWidth="204" frameHeight="240" />
+<SubTexture name="JON RECARGA0000" x="1932" y="1592" width="189" height="197" frameX="-1" frameY="-2" frameWidth="191" frameHeight="199" />
+<SubTexture name="JON RECARGA0001" x="599" y="1863" width="190" height="197" frameX="0" frameY="-2" frameWidth="191" frameHeight="199" />
+<SubTexture name="JON RECARGA0002" x="599" y="1863" width="190" height="197" frameX="0" frameY="-2" frameWidth="191" frameHeight="199" />
+<SubTexture name="JON RECARGA0003" x="1932" y="1196" width="190" height="198" frameX="-2" frameY="-1" frameWidth="191" frameHeight="199" />
+<SubTexture name="JON RECARGA0004" x="1932" y="1196" width="190" height="198" frameX="-2" frameY="-1" frameWidth="191" frameHeight="199" />
+<SubTexture name="JON RECARGA0005" x="790" y="1863" width="189" height="197" frameX="-1" frameY="-2" frameWidth="191" frameHeight="199" />
+<SubTexture name="JON RECARGA0006" x="979" y="1863" width="191" height="197" frameX="0" frameY="-2" frameWidth="191" frameHeight="199" />
+<SubTexture name="JON RECARGA0007" x="979" y="1863" width="191" height="197" frameX="0" frameY="-2" frameWidth="191" frameHeight="199" />
+<SubTexture name="JON RECARGA0008" x="1932" y="1196" width="190" height="198" frameX="-2" frameY="-1" frameWidth="191" frameHeight="199" />
+<SubTexture name="JON RECARGA0009" x="1932" y="1196" width="190" height="198" frameX="-2" frameY="-1" frameWidth="191" frameHeight="199" />
+<SubTexture name="JON RECARGA0010" x="1932" y="1394" width="189" height="198" frameX="-3" frameY="-1" frameWidth="191" frameHeight="199" />
+<SubTexture name="JON RECARGA0011" x="1932" y="1394" width="189" height="198" frameX="-3" frameY="0" frameWidth="191" frameHeight="199" />
+<SubTexture name="JON RETRY CONFIRM0000" x="509" y="0" width="195" height="241" frameX="-67" frameY="0" frameWidth="365" frameHeight="242" />
+<SubTexture name="JON RETRY CONFIRM0001" x="509" y="0" width="195" height="241" frameX="-67" frameY="0" frameWidth="365" frameHeight="242" />
+<SubTexture name="JON RETRY CONFIRM0002" x="705" y="234" width="285" height="233" frameX="-32" frameY="-9" frameWidth="365" frameHeight="242" />
+<SubTexture name="JON RETRY CONFIRM0003" x="705" y="234" width="285" height="233" frameX="-31" frameY="-9" frameWidth="365" frameHeight="242" />
+<SubTexture name="JON RETRY CONFIRM0004" x="705" y="0" width="339" height="234" frameX="-10" frameY="-8" frameWidth="365" frameHeight="242" />
+<SubTexture name="JON RETRY CONFIRM0005" x="705" y="0" width="339" height="234" frameX="-9" frameY="-8" frameWidth="365" frameHeight="242" />
+<SubTexture name="JON RETRY CONFIRM0006" x="199" y="541" width="354" height="232" frameX="-4" frameY="-10" frameWidth="365" frameHeight="242" />
+<SubTexture name="JON RETRY CONFIRM0007" x="199" y="541" width="354" height="232" frameX="-2" frameY="-10" frameWidth="365" frameHeight="242" />
+<SubTexture name="JON RETRY CONFIRM0008" x="0" y="774" width="338" height="232" frameX="-13" frameY="-10" frameWidth="365" frameHeight="242" />
+<SubTexture name="JON RETRY CONFIRM0009" x="753" y="541" width="208" height="232" frameX="-67" frameY="-10" frameWidth="365" frameHeight="242" />
+<SubTexture name="JON RETRY CONFIRM0010" x="338" y="774" width="208" height="232" frameX="-67" frameY="-10" frameWidth="365" frameHeight="242" />
+<SubTexture name="JON RETRY CONFIRM0011" x="338" y="774" width="208" height="232" frameX="-67" frameY="-10" frameWidth="365" frameHeight="242" />
+<SubTexture name="JON RETRY CONFIRM0012" x="338" y="774" width="208" height="232" frameX="-67" frameY="-10" frameWidth="365" frameHeight="242" />
+<SubTexture name="JON RETRY CONFIRM0013" x="338" y="774" width="208" height="232" frameX="-67" frameY="-10" frameWidth="365" frameHeight="242" />
+<SubTexture name="JON RETRY LOOP0000" x="392" y="301" width="210" height="233" frameX="-4" frameY="0" frameWidth="213" frameHeight="233" />
+<SubTexture name="JON RETRY LOOP0001" x="1044" y="0" width="207" height="229" frameX="0" frameY="-4" frameWidth="213" frameHeight="233" />
+<SubTexture name="JON RETRY LOOP0002" x="0" y="1006" width="208" height="229" frameX="-4" frameY="-4" frameWidth="213" frameHeight="233" />
+<SubTexture name="JON RIGHT0000" x="168" y="1449" width="168" height="210" frameX="-16" frameY="0" frameWidth="184" frameHeight="210" />
+<SubTexture name="JON RIGHT0001" x="336" y="1449" width="177" height="209" frameX="-2" frameY="-1" frameWidth="184" frameHeight="210" />
+<SubTexture name="JON RIGHT0002" x="336" y="1449" width="177" height="209" frameX="-2" frameY="-1" frameWidth="184" frameHeight="210" />
+<SubTexture name="JON RIGHT0003" x="513" y="1449" width="177" height="209" frameX="-1" frameY="-1" frameWidth="184" frameHeight="210" />
+<SubTexture name="JON RIGHT0004" x="690" y="1449" width="177" height="209" frameX="-1" frameY="-1" frameWidth="184" frameHeight="210" />
+<SubTexture name="JON RIGHT0005" x="1444" y="1449" width="176" height="208" frameX="0" frameY="-2" frameWidth="184" frameHeight="210" />
+<SubTexture name="JON RIGHT0006" x="1444" y="1449" width="176" height="208" frameX="0" frameY="-2" frameWidth="184" frameHeight="210" />
+<SubTexture name="JON UP0000" x="554" y="541" width="199" height="232" frameX="-1" frameY="0" frameWidth="205" frameHeight="232" />
+<SubTexture name="JON UP0001" x="1000" y="1006" width="205" height="215" frameX="0" frameY="-4" frameWidth="205" frameHeight="232" />
+<SubTexture name="JON UP0002" x="1000" y="1006" width="205" height="215" frameX="0" frameY="-4" frameWidth="205" frameHeight="232" />
+<SubTexture name="JON UP0003" x="0" y="1235" width="203" height="214" frameX="0" frameY="-5" frameWidth="205" frameHeight="232" />
+<SubTexture name="JON UP0004" x="203" y="1235" width="203" height="214" frameX="0" frameY="-5" frameWidth="205" frameHeight="232" />
+<SubTexture name="JON UP0005" x="407" y="1235" width="202" height="213" frameX="-1" frameY="-6" frameWidth="205" frameHeight="232" />
+<SubTexture name="JON UP0006" x="407" y="1235" width="202" height="213" frameX="-1" frameY="-6" frameWidth="205" frameHeight="232" />
+</TextureAtlas>

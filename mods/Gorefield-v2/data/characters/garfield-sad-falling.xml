@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="-590" icon="icon-garsad" camx="300" y="30" isGF="false" scale="2" camy="280" color="#D44D29" flipX="true" isPlayer="true" gameOverChar="face" holdTime="1.1" sprite="garfield_acepta_su_destino">
+	<anim x="0" loop="true" y="0" fps="24" anim="garfield acepta su destino idle" name="idle"/>
+	<anim x="32" loop="false" y="-8" fps="24" anim="garfield acepta su destino left0" name="singLEFT"/>
+	<anim x="-43" loop="false" y="-35" fps="24" anim="garfield acepta su destino down0" name="singDOWN"/>
+	<anim x="-15" loop="false" y="30" fps="24" anim="garfield acepta su destino up0" name="singUP"/>
+	<anim x="-80" loop="false" y="-6" fps="24" anim="garfield acepta su destino right0" name="singRIGHT"/>
+</character>

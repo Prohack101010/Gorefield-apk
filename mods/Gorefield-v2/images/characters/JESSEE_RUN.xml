@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="JESSEE_RUN.png">
+<SubTexture name="JESSEE_RUN RUN BITCH0000" x="0" y="0" width="446" height="329" frameX="0" frameY="0" frameWidth="492" frameHeight="329" />
+<SubTexture name="JESSEE_RUN RUN BITCH0001" x="0" y="0" width="446" height="329" frameX="0" frameY="0" frameWidth="492" frameHeight="329" />
+<SubTexture name="JESSEE_RUN RUN BITCH0002" x="446" y="0" width="447" height="329" frameX="0" frameY="0" frameWidth="492" frameHeight="329" />
+<SubTexture name="JESSEE_RUN RUN BITCH0003" x="446" y="0" width="447" height="329" frameX="0" frameY="0" frameWidth="492" frameHeight="329" />
+<SubTexture name="JESSEE_RUN RUN BITCH0004" x="0" y="329" width="452" height="329" frameX="0" frameY="0" frameWidth="492" frameHeight="329" />
+<SubTexture name="JESSEE_RUN RUN BITCH0005" x="0" y="329" width="452" height="329" frameX="0" frameY="0" frameWidth="492" frameHeight="329" />
+<SubTexture name="JESSEE_RUN RUN BITCH0006" x="893" y="0" width="457" height="329" frameX="0" frameY="0" frameWidth="492" frameHeight="329" />
+<SubTexture name="JESSEE_RUN RUN BITCH0007" x="893" y="0" width="457" height="329" frameX="0" frameY="0" frameWidth="492" frameHeight="329" />
+<SubTexture name="JESSEE_RUN RUN BITCH0008" x="0" y="658" width="475" height="329" frameX="0" frameY="0" frameWidth="492" frameHeight="329" />
+<SubTexture name="JESSEE_RUN RUN BITCH0009" x="0" y="658" width="475" height="329" frameX="0" frameY="0" frameWidth="492" frameHeight="329" />
+<SubTexture name="JESSEE_RUN RUN BITCH0010" x="475" y="658" width="469" height="329" frameX="0" frameY="0" frameWidth="492" frameHeight="329" />
+<SubTexture name="JESSEE_RUN RUN BITCH0011" x="0" y="987" width="469" height="329" frameX="0" frameY="0" frameWidth="492" frameHeight="329" />
+<SubTexture name="JESSEE_RUN RUN JESSE IDLE0000" x="469" y="987" width="469" height="329" frameX="0" frameY="0" frameWidth="492" frameHeight="329" />
+<SubTexture name="JESSEE_RUN RUN JESSE IDLE0001" x="1350" y="0" width="492" height="329" frameX="0" frameY="0" frameWidth="492" frameHeight="329" />
+<SubTexture name="JESSEE_RUN RUN JESSE IDLE0002" x="1350" y="329" width="492" height="329" frameX="0" frameY="0" frameWidth="492" frameHeight="329" />
+<SubTexture name="JESSEE_RUN RUN JESSE IDLE0003" x="1350" y="329" width="492" height="329" frameX="0" frameY="0" frameWidth="492" frameHeight="329" />
+<SubTexture name="JESSEE_RUN RUN JESSE IDLE0004" x="1350" y="658" width="492" height="329" frameX="0" frameY="0" frameWidth="492" frameHeight="329" />
+<SubTexture name="JESSEE_RUN RUN JESSE IDLE0005" x="1350" y="987" width="492" height="329" frameX="0" frameY="0" frameWidth="492" frameHeight="329" />
+<SubTexture name="JESSEE_RUN RUN JESSE IDLE0006" x="0" y="1316" width="492" height="329" frameX="0" frameY="0" frameWidth="492" frameHeight="329" />
+<SubTexture name="JESSEE_RUN RUN JESSE IDLE0007" x="0" y="1316" width="492" height="329" frameX="0" frameY="0" frameWidth="492" frameHeight="329" />
+<SubTexture name="JESSEE_RUN RUN JESSE IDLE0008" x="0" y="1974" width="478" height="325" frameX="0" frameY="0" frameWidth="492" frameHeight="329" />
+<SubTexture name="JESSEE_RUN RUN JESSE IDLE0009" x="0" y="1974" width="478" height="325" frameX="0" frameY="0" frameWidth="492" frameHeight="329" />
+<SubTexture name="JESSEE_RUN RUN JESSE IDLE0010" x="492" y="1316" width="483" height="329" frameX="0" frameY="0" frameWidth="492" frameHeight="329" />
+<SubTexture name="JESSEE_RUN RUN JESSE IDLE0011" x="492" y="1316" width="483" height="329" frameX="0" frameY="0" frameWidth="492" frameHeight="329" />
+<SubTexture name="JESSEE_RUN RUN JESSE IDLE0012" x="975" y="1316" width="482" height="329" frameX="0" frameY="0" frameWidth="492" frameHeight="329" />
+<SubTexture name="JESSEE_RUN RUN JESSE LEFT0000" x="1842" y="0" width="492" height="329" frameX="0" frameY="0" frameWidth="492" frameHeight="329" />
+<SubTexture name="JESSEE_RUN RUN JESSE LEFT0001" x="1842" y="0" width="492" height="329" frameX="0" frameY="0" frameWidth="492" frameHeight="329" />
+<SubTexture name="JESSEE_RUN RUN JESSE LEFT0002" x="1842" y="329" width="492" height="329" frameX="0" frameY="0" frameWidth="492" frameHeight="329" />
+<SubTexture name="JESSEE_RUN RUN JESSE LEFT0003" x="1842" y="329" width="492" height="329" frameX="0" frameY="0" frameWidth="492" frameHeight="329" />
+<SubTexture name="JESSEE_RUN RUN JESSE LEFT0004" x="1842" y="658" width="492" height="329" frameX="0" frameY="0" frameWidth="492" frameHeight="329" />
+<SubTexture name="JESSEE_RUN RUN JESSE LEFT0005" x="1842" y="658" width="492" height="329" frameX="0" frameY="0" frameWidth="492" frameHeight="329" />
+<SubTexture name="JESSEE_RUN RUN JESSEE DOWN0000" x="1842" y="987" width="476" height="329" frameX="0" frameY="0" frameWidth="492" frameHeight="329" />
+<SubTexture name="JESSEE_RUN RUN JESSEE DOWN0001" x="1842" y="987" width="476" height="329" frameX="0" frameY="0" frameWidth="492" frameHeight="329" />
+<SubTexture name="JESSEE_RUN RUN JESSEE DOWN0002" x="1842" y="1316" width="469" height="329" frameX="0" frameY="0" frameWidth="492" frameHeight="329" />
+<SubTexture name="JESSEE_RUN RUN JESSEE DOWN0003" x="1842" y="1316" width="469" height="329" frameX="0" frameY="0" frameWidth="492" frameHeight="329" />
+<SubTexture name="JESSEE_RUN RUN JESSEE DOWN0004" x="0" y="1645" width="466" height="329" frameX="0" frameY="0" frameWidth="492" frameHeight="329" />
+<SubTexture name="JESSEE_RUN RUN JESSEE DOWN0005" x="0" y="1645" width="466" height="329" frameX="0" frameY="0" frameWidth="492" frameHeight="329" />
+<SubTexture name="JESSEE_RUN RUN JESSEE RIGHT0000" x="1368" y="1645" width="469" height="327" frameX="0" frameY="0" frameWidth="492" frameHeight="329" />
+<SubTexture name="JESSEE_RUN RUN JESSEE RIGHT0001" x="1368" y="1645" width="469" height="327" frameX="0" frameY="0" frameWidth="492" frameHeight="329" />
+<SubTexture name="JESSEE_RUN RUN JESSEE RIGHT0002" x="466" y="1645" width="472" height="329" frameX="0" frameY="0" frameWidth="492" frameHeight="329" />
+<SubTexture name="JESSEE_RUN RUN JESSEE RIGHT0003" x="466" y="1645" width="472" height="329" frameX="0" frameY="0" frameWidth="492" frameHeight="329" />
+<SubTexture name="JESSEE_RUN RUN JESSEE RIGHT0004" x="1837" y="1645" width="472" height="326" frameX="0" frameY="0" frameWidth="492" frameHeight="329" />
+<SubTexture name="JESSEE_RUN RUN JESSEE RIGHT0005" x="1837" y="1645" width="472" height="326" frameX="0" frameY="0" frameWidth="492" frameHeight="329" />
+<SubTexture name="JESSEE_RUN RUN JESSEE UP0000" x="893" y="329" width="420" height="329" frameX="-26" frameY="0" frameWidth="492" frameHeight="329" />
+<SubTexture name="JESSEE_RUN RUN JESSEE UP0001" x="893" y="329" width="420" height="329" frameX="-26" frameY="0" frameWidth="492" frameHeight="329" />
+<SubTexture name="JESSEE_RUN RUN JESSEE UP0002" x="452" y="329" width="426" height="329" frameX="-23" frameY="0" frameWidth="492" frameHeight="329" />
+<SubTexture name="JESSEE_RUN RUN JESSEE UP0003" x="452" y="329" width="426" height="329" frameX="-23" frameY="0" frameWidth="492" frameHeight="329" />
+<SubTexture name="JESSEE_RUN RUN JESSEE UP0004" x="938" y="1645" width="430" height="329" frameX="-21" frameY="0" frameWidth="492" frameHeight="329" />
+<SubTexture name="JESSEE_RUN idle0000" x="938" y="1645" width="430" height="329" frameX="-21" frameY="0" frameWidth="492" frameHeight="329" />
+</TextureAtlas>
