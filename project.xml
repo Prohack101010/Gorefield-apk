@@ -2,7 +2,7 @@
 <project>
 	<!-- _________________________ Application Settings _________________________ -->
 	<app
-		title="Friday Night Funkin' - Codename Engine" main="funkin.backend.system.Main"
+		title="FNF' - Gorefield V2 Opt" main="funkin.backend.system.Main"
 		file="CodenameEngine" packageName="com.apkportbykraloyuncu.gorefieldopt"
 		package="com.apkportbykraloyuncu.gorefieldopt"
 		version="0.1.0" company="ApkPortbyKraloyuncu" /> <!-- gıcıklık olsun diye yaptım ;)-->
