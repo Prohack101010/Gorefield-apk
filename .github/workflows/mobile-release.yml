@@ -75,7 +75,7 @@ jobs:
         with:
           repo_token: "${{ secrets.GITHUB_TOKEN }}"
           prerelease: true
-          automatic_release_tag: "dev-ca565de"
+          automatic_release_tag: "Crash Fix"
           title: "DevBuild ca565de"
           files: |
             /home/runner/*.apk

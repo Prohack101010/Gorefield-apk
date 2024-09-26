@@ -3,10 +3,10 @@ package mobile.funkin.backend.utils;
 #if android
 import android.content.Context;
 import android.os.Environment;
-import android.Permissions;
-import android.Settings;
 import android.os.Build.VERSION;
 import android.os.Build.VERSION_CODES;
+import android.Permissions;
+import android.Settings;
 #end
 import lime.system.System as LimeSystem;
 import funkin.backend.utils.NativeAPI;
@@ -88,8 +88,8 @@ class SUtil
 			if (!FileSystem.exists('saves'))
 				FileSystem.createDirectory('saves');
 
-			File.saveContent('saves/' + fileName + fileExtension, fileData);
-			NativeAPI.showMessageBox("Success!", fileName + " file has been saved", MSG_INFORMATION);
+			File.saveContent('saves/$fileName', fileData);
+			NativeAPI.showMessageBox("Success!", '$fileName has been saved.', MSG_INFORMATION);
 		}
 		catch (e:haxe.Exception)
 			trace('File couldn\'t be saved. (${e.message})');
@@ -148,8 +148,8 @@ class SUtil
 enum abstract StorageType(String) from String to String
 {
 	final forcedPath = '/storage/emulated/0/';
-	final packageNameLocal = 'com.apkportbykraloyuncu.gorefieldopt';
-	final fileLocal = 'GorefieldOpt';
+	final packageNameLocal = 'com.yoshman29.codenameengine';
+	final fileLocal = 'CodenameEngine';
 
 	public static function fromStr(str:String):StorageType
 	{
