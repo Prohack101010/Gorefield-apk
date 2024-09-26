@@ -56,13 +56,8 @@ class VideoCutscene extends Cutscene {
 		parseSubtitles();
 
 		video = new FlxVideo();
-		video.onEndReached.add(function()
-		{
-			video.dispose();
-			FlxG.removeChild(video);
-		});
+		video.onEndReached.add(video.dispose);
 		video.onEndReached.add(close);
-		FlxG.addChildBelowMouse(video);
 
 		//cover = new FlxSprite(0, FlxG.height * 0.85).makeSolid(FlxG.width + 50, FlxG.height + 50, 0xFF000000);
 		//cover.scrollFactor.set(0, 0);

@@ -69,7 +69,7 @@ class CharacterAnimScreen extends UISubstateWindow {
 		addLabelOn(loopedCheckbox, "Looping");
 		loopedCheckbox.x += 8; loopedCheckbox.y += 6;
 
-		indicesTextBox = new UITextBox(nameTextBox.x, nameTextBox.y + 32 + 40, CoolUtil.formatNumberRange(animData.indices, ", "), 270);
+		indicesTextBox = new UITextBox(nameTextBox.x, nameTextBox.y + 32 + 40, animData.indices.join(", "), 270);
 		add(indicesTextBox);
 		addLabelOn(indicesTextBox, "Indices");
 
@@ -109,8 +109,14 @@ class CharacterAnimScreen extends UISubstateWindow {
 			animType: NONE,
 			x: offsetXStepper.value,
 			y: offsetYStepper.value,
-			indices: CoolUtil.parseNumberRange(indicesTextBox.label.text)
+			indices:  []
 		};
+		var indicesSplit = indicesTextBox.label.text.split(",");
+		for(indice in indicesSplit) {
+			var i = Std.parseInt(indice.trim());
+			if (i != null)
+				animData.indices.push(i);
+		}
 
 		if (onSave != null) onSave(animData);
 	}

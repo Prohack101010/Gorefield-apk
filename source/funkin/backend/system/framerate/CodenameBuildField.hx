@@ -12,6 +12,5 @@ class CodenameBuildField extends TextField {
 		autoSize = LEFT;
 		multiline = wordWrap = false;
 		text = 'Codename Engine ${Main.releaseCycle}\nCommit ${GitCommitMacro.commitNumber} (${GitCommitMacro.commitHash})';
-		selectable = false;
 	}
 }

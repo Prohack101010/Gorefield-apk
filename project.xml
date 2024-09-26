@@ -3,9 +3,9 @@
 	<!-- _________________________ Application Settings _________________________ -->
 	<app
 		title="FNF' - Gorefield V2 Opt" main="funkin.backend.system.Main"
-		file="CodenameEngine" packageName="com.apkportbykraloyuncu.gorefieldopt"
+		file="GorefieldOpt" packageName="com.apkportbykraloyuncu.gorefieldopt"
 		package="com.apkportbykraloyuncu.gorefieldopt"
-		version="0.1.0" company="ApkPortbyKraloyuncu" /> <!-- gıcıklık olsun diye yaptım ;)-->
+		version="0.1.0" company="ApkPortbyKraloyuncu" />
 
 	<!--
 		CHANGE THE SAVE PATH & NAME FOR YOUR MOD HERE!
@@ -193,13 +193,28 @@
 	<haxedef name="HXCPP_CHECK_POINTER" if="release" />
 	<haxedef name="HXCPP_STACK_LINE" if="release" />
 	<haxedef name="HXCPP_DEBUG_LINK" if="release" />
-	<haxedef name="HXCPP_CATCH_SEGV" />
 
 	<haxedef name="hscriptPos" /> <!-- for logging -->
 
 	<!-- _________________________________ Mobile stuff _______________________________ -->
 
-	<!-- Do whatever you want I'm tired uninstall and install everytime -->
-	<certificate path="key.keystore" password="codenameengine" alias="cneport" alias-password="codenameengine" if="android" unless="debug" />
+	<section if="android">
+		<!-- Do whatever you want I'm tired uninstall and install everytime -->
+		<certificate path="key.keystore" password="codenameengine" alias="cneport" alias-password="codenameengine" unless="debug" />
 
+		<!--Target SDK-->
+		<android target-sdk-version="31" />
+
+		<config:android permission="android.permission.WAKE_LOCK" />
+		<config:android permission="android.permission.INTERNET" />
+		<config:android permission="android.permission.VIBRATE" />
+		<config:android permission="android.permission.ACCESS_NETWORK_STATE" />
+		<config:android permission="android.permission.MANAGE_EXTERNAL_STORAGE" />
+		<config:android permission="android.permission.REQUEST_INSTALL_PACKAGES" />
+	</section>
+
+	<!--<section if="ios">
+		<define name='objc' />
+		<ios linker-flags='-ObjC' />
+	</section>-->
 </project>

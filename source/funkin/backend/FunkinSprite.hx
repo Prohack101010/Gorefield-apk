@@ -96,13 +96,6 @@ class FunkinSprite extends FlxSkewedSprite implements IBeatReceiver implements I
 		super.update(elapsed);
 		if (animateAtlas != null)
 			animateAtlas.update(elapsed);
-
-		// hate how it looks like but hey at least its optimized and fast  - Nex
-		if (!debugMode && isAnimFinished()) {
-			var name = getAnimName() + '-loop';
-			if (hasAnimation(name))
-				playAnim(name, null, lastAnimContext);
-		}
 	}
 
 	public function loadSprite(path:String, Unique:Bool = false, Key:String = null)
@@ -219,12 +212,10 @@ class FunkinSprite extends FlxSkewedSprite implements IBeatReceiver implements I
 			animateAtlas.flipX = flipX;
 			animateAtlas.flipY = flipY;
 			animateAtlas.shader = shader;
-			animateAtlas.shaderEnabled = shaderEnabled;
 			animateAtlas.antialiasing = antialiasing;
 			animateAtlas.skew = skew;
 			animateAtlas.transformMatrix = transformMatrix;
 			animateAtlas.matrixExposed = matrixExposed;
-			animateAtlas.colorTransform = colorTransform;
 		}
 	}
 
@@ -294,15 +285,10 @@ class FunkinSprite extends FlxSkewedSprite implements IBeatReceiver implements I
 	#if REGION
 	public var lastAnimContext:PlayAnimContext = DANCE;
 
-	public function playAnim(AnimName:String, ?Force:Null<Bool>, Context:PlayAnimContext = NONE, Reversed:Bool = false, Frame:Int = 0):Void
+	public function playAnim(AnimName:String, Force:Bool = false, Context:PlayAnimContext = NONE, Reversed:Bool = false, Frame:Int = 0):Void
 	{
 		if (AnimName == null)
 			return;
-
-		if (Force == null) {
-			var anim = animDatas.get(AnimName);
-			Force = anim != null && anim.forced;
-		}
 
 		if (animateAtlas != null)
 		{
@@ -349,10 +335,6 @@ class FunkinSprite extends FlxSkewedSprite implements IBeatReceiver implements I
 				name = animation.curAnim.name;
 		}
 		return name;
-	}
-
-	public inline function isAnimReversed():Bool {
-		return animateAtlas != null ? animateAtlas.anim.reversed : animation.curAnim != null ? animation.curAnim.reversed : false;
 	}
 
 	public inline function removeAnimation(name:String) {

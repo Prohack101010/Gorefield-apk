@@ -8,6 +8,7 @@ import mobile.flixel.FlxButton;
 import flixel.input.touch.FlxTouch;
 import flixel.ui.FlxButton as UIButton;
 import funkin.backend.MusicBeatSubstate;
+import funkin.backend.MusicBeatState;
 import mobile.objects.MobileControls;
 import flixel.FlxSprite;
 import flixel.text.FlxText;
@@ -103,6 +104,8 @@ class MobileControlSelectSubState extends MusicBeatSubstate
 
 		var exit = new UIButton(0, itemText.y - 25, "Exit & Save", () ->
 		{
+		    MusicBeatState.instance.addVirtualPad('LEFT_FULL', 'A_B');
+		    MusicBeatState.instance.addVirtualPadCamera(false);
 			MobileControls.mode = curOption;
 			if (options[curOption] == 'Pad-Custom')
 				MobileControls.setCustomMode(control.virtualPad);

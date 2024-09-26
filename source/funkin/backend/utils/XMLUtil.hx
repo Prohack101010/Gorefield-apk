@@ -1,7 +1,6 @@
 package funkin.backend.utils;
 
 import funkin.backend.FunkinSprite;
-import funkin.game.Character;
 import funkin.backend.system.ErrorCode;
 import funkin.backend.FunkinSprite.XMLAnimType;
 import flixel.util.FlxColor;
@@ -171,7 +170,8 @@ class XMLUtil {
 					animType: spr.spriteAnimType,
 					x: 0,
 					y: 0,
-					indices: [for(i in 0...spr.frames.frames.length) i]
+					indices: [for(i in 0...spr.frames.frames.length) i],
+					forced: (node.has.forced && node.att.forced == "true") || (!node.has.forced && spr.spriteAnimType == BEAT)
 				});
 			}
 		}
@@ -197,7 +197,8 @@ class XMLUtil {
 			animType: animType,
 			x: 0,
 			y: 0,
-			indices: []
+			indices: [],
+			forced: false,
 		};
 
 		if (anim.has.name) animData.name = anim.att.name;
@@ -208,7 +209,14 @@ class XMLUtil {
 		if (anim.has.y) animData.y = Std.parseFloat(anim.att.y).getDefault(animData.y);
 		if (anim.has.loop) animData.loop = anim.att.loop == "true";
 		if (anim.has.forced) animData.forced = anim.att.forced == "true";
-		if (anim.has.indices) animData.indices = CoolUtil.parseNumberRange(anim.att.indices);
+		if (anim.has.indices) {
+			var indicesSplit = anim.att.indices.split(",");
+			for(indice in indicesSplit) {
+				var i = Std.parseInt(indice.trim());
+				if (i != null)
+					animData.indices.push(i);
+			}
+		}
 
 		return animData;
 	}
@@ -253,27 +261,23 @@ class XMLUtil {
 
 			if (sprite is FunkinSprite) {
 				var xmlSpr = cast(sprite, FunkinSprite);
-				var name = animData.name;
 				switch(animData.animType) {
 					case BEAT:
 						xmlSpr.beatAnims.push({
-							name: name,
-							forced: animData.forced.getDefault(defaultForcedCheck(name, xmlSpr))
+							name: animData.name,
+							forced: animData.forced.getDefault(false)
 						});
 					case LOOP:
-						xmlSpr.animation.play(name, animData.forced.getDefault(defaultForcedCheck(name, xmlSpr)));
+						xmlSpr.animation.play(animData.name, animData.forced.getDefault(false));
 					default:
 						// nothing
 				}
-				xmlSpr.animDatas.set(name, animData);
+				xmlSpr.animDatas.set(animData.name, animData);
 			}
 			return OK;
 		}
 		return MISSING_PROPERTY;
 	}
-
-	public static inline function defaultForcedCheck(animName:String, sprite:FunkinSprite):Bool
-		return sprite is Character && (animName.startsWith("idle") || animName.startsWith("danceLeft") || animName.startsWith("danceRight")) ? false : sprite.spriteAnimType == BEAT;
 
 	public static inline function fixXMLText(text:String) {
 		var v:String;

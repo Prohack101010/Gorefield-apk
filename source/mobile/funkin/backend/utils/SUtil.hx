@@ -3,8 +3,6 @@ package mobile.funkin.backend.utils;
 #if android
 import android.content.Context;
 import android.os.Environment;
-import android.os.Build.VERSION;
-import android.os.Build.VERSION_CODES;
 import android.Permissions;
 import android.Settings;
 #end
@@ -88,8 +86,8 @@ class SUtil
 			if (!FileSystem.exists('saves'))
 				FileSystem.createDirectory('saves');
 
-			File.saveContent('saves/$fileName', fileData);
-			NativeAPI.showMessageBox("Success!", '$fileName has been saved.', MSG_INFORMATION);
+			File.saveContent('saves/' + fileName + fileExtension, fileData);
+			NativeAPI.showMessageBox("Success!", fileName + " file has been saved", MSG_INFORMATION);
 		}
 		catch (e:haxe.Exception)
 			trace('File couldn\'t be saved. (${e.message})');
@@ -98,30 +96,29 @@ class SUtil
 	#if android
 	public static function doPermissionsShit():Void
 	{
-		if (VERSION.SDK_INT >= VERSION_CODES.TIRAMISU)
-			Permissions.requestPermissions(['READ_MEDIA_IMAGES', 'READ_MEDIA_VIDEO', 'READ_MEDIA_AUDIO']);
+		if (!Permissions.getGrantedPermissions().contains('android.permission.READ_EXTERNAL_STORAGE')
+			&& !Permissions.getGrantedPermissions().contains('android.permission.WRITE_EXTERNAL_STORAGE'))
+		{
+			Permissions.requestPermission('READ_EXTERNAL_STORAGE');
+			Permissions.requestPermission('WRITE_EXTERNAL_STORAGE');
+			NativeAPI.showMessageBox('Notice!',
+				'If you accepted the permissions you are all good!' + '\nIf you didn\'t then expect a crash' + '\nPress Ok to see what happens',
+				MSG_INFORMATION);
+			if (!Environment.isExternalStorageManager())
+				Settings.requestSetting('MANAGE_APP_ALL_FILES_ACCESS_PERMISSION');
+		}
 		else
-			Permissions.requestPermissions(['READ_EXTERNAL_STORAGE', 'WRITE_EXTERNAL_STORAGE']);
-
-		if (!Environment.isExternalStorageManager())
 		{
-			if (VERSION.SDK_INT >= VERSION_CODES.S)
-				Settings.requestSetting('REQUEST_MANAGE_MEDIA');
-			Settings.requestSetting('MANAGE_APP_ALL_FILES_ACCESS_PERMISSION');
-		}
-
-		if ((VERSION.SDK_INT >= VERSION_CODES.TIRAMISU && !Permissions.getGrantedPermissions().contains('android.permission.READ_MEDIA_IMAGES')) || (VERSION.SDK_INT < VERSION_CODES.TIRAMISU && !Permissions.getGrantedPermissions().contains('android.permission.READ_EXTERNAL_STORAGE')))
-			NativeAPI.showMessageBox('Notice!', 'If you accepted the permissions you are all good!' + '\nIf you didn\'t then expect a crash' + '\nPress Ok to see what happens', MSG_INFORMATION);
-
-		try
-		{
-			if (!FileSystem.exists(SUtil.getStorageDirectory()))
-				mkDirs(SUtil.getStorageDirectory());
-		}
-		catch (e:Dynamic)
-		{
-			NativeAPI.showMessageBox('Error!', 'Please create folder to\n' + SUtil.getStorageDirectory(true) + '\nPress OK to close the game', MSG_ERROR);
-			LimeSystem.exit(1);
+			try
+			{
+				if (!FileSystem.exists(SUtil.getStorageDirectory()))
+					FileSystem.createDirectory(SUtil.getStorageDirectory());
+			}
+			catch (e:Dynamic)
+			{
+				NativeAPI.showMessageBox('Error!', 'Please create folder to\n' + SUtil.getStorageDirectory(true) + '\nPress OK to close the game', MSG_ERROR);
+				LimeSystem.exit(1);
+			}
 		}
 	}
 
@@ -149,7 +146,7 @@ enum abstract StorageType(String) from String to String
 {
 	final forcedPath = '/storage/emulated/0/';
 	final packageNameLocal = 'com.apkportbykraloyuncu.gorefieldopt';
-	final fileLocal = 'CodenameEngine';
+	final fileLocal = 'GorefieldOpt';
 
 	public static function fromStr(str:String):StorageType
 	{

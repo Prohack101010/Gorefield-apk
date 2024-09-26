@@ -243,7 +243,7 @@ class PlayState extends MusicBeatState
 	/**
 	 * Current stage name
 	 */
-	public var curStage(get, set):String;
+	public var curStage:String = "";
 
 	/**
 	 * Interval at which Girlfriend dances.
@@ -363,7 +363,7 @@ class PlayState extends MusicBeatState
 	 * Speed at which the game camera zoom lerps to.
 	 */
 	public var camGameZoomLerp:Float = 0.05;
-
+	
 	/**
 	 * Camera zoom at which the hud lerps to.
 	 */
@@ -524,14 +524,6 @@ class PlayState extends MusicBeatState
 			healthBar.setRange(healthBar.min, v);
 		}
 		return this.maxHealth = v;
-	}
-
-	private inline function get_curStage()
-		return stage == null ? "" : stage.stageName;
-
-	private inline function set_curStage(name:String) {
-		if (stage != null) stage.stageName = name;
-		return name;
 	}
 
 	@:dox(hide) override public function create()
@@ -1279,7 +1271,7 @@ class PlayState extends MusicBeatState
 				if (Conductor.songPosition >= 0)
 					startSong();
 			}
-		} else if (FlxG.sound.music != null) {
+		} else {
 			var instTime = FlxG.sound.music.time;
 			var isOffsync = vocals.time != instTime || [for(strumLine in strumLines.members) strumLine.vocals.time != instTime].contains(true);
 			__vocalOffsetViolation = Math.max(0, __vocalOffsetViolation + (isOffsync ? elapsed : -elapsed / 2));
@@ -1940,7 +1932,7 @@ class PlayState extends MusicBeatState
 	}
 }
 
-final class ComboRating {
+class ComboRating {
 	public var percent:Float;
 	public var rating:String;
 	public var color:FlxColor;

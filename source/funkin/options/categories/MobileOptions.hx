@@ -24,8 +24,7 @@ class MobileOptions extends OptionsScreen {
 
 	public override function new() {
 		#if android
-		if (!externalPaths.contains('\n'))
-		{
+		if (externalPaths != null && externalPaths.length > 0 || externalPaths[0] != '') {
 			typeNames = typeNames.concat(externalPaths);
 			typeVars = typeVars.concat(externalPaths);
 		}

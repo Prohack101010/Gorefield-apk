@@ -346,13 +346,7 @@ class Shader
 			}
 			#end
 			if (compileStatus == 0)
-				#if (android && !macro)
-				android.Tools.showAlertDialog("Shader Compile Error!", message, null, null)
-				#elseif !ios
-				openfl.Lib.application.window.alert('$message', 'Shader Compile Error!')
-				#else
-				Log.error(message)
-				#end;
+				#if !ios openfl.Lib.application.window.alert('$startMessage\n$shaderInfoLog', 'Shader Compile Error!') #else Log.error(message) #end;
 			else if (hasInfoLog)
 				Log.debug(message);
 		}
@@ -387,7 +381,11 @@ class Shader
 		{
 			var message = "Unable to initialize the shader program";
 			message += "\n" + gl.getProgramInfoLog(program);
+			#if !ios
+			openfl.Lib.application.window.alert('$message', 'Shader Compile Error!');
+			#else
 			Log.error(message);
+			#end
 		}
 
 		return program;
